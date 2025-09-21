@@ -1,0 +1,121 @@
+{
+    "name": "Lorcana",
+    "menuBackgroundImage": "https://www.asdesjeux.com/cdn/shop/collections/F3xRtyuXoAAGE17.jpg?v=1704470537",
+    "deckBuilding": {
+        "mainFilters": [
+            "color",
+            "type",
+            "cost"
+        ],
+        "formats": [
+            {
+                "title": "Classic",
+                "gameplay": "Classic"
+            }
+        ]
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "info": "You put as many as you want of the seven cards in your hand to the bottom of your deck then draw the same number of new cards as you put down from the top of your deck.",
+                "startingHandSize": 7,
+                "drawNewSelectedCards": true
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": false
+            },
+            "countersStartingValues": [0],
+            "hideFacedDownCards": true,
+            "sections": {
+                "customSections": [
+                    "Main",
+                    "Mana",
+                    "Items"
+                ],
+                "layout": {
+                    "direction": "column",
+                    "content": [
+                        {
+                            "section": "Main"
+                        },
+                        {
+                            "direction": "row",
+                            "content": [
+                                {
+                                    "section": "Mana"
+                                },
+                                {
+                                    "section": "Items"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "autoPlayFromHand": {
+                    "Action": "Stack",
+                    "Character": "Main",
+                    "Item": "Items",
+                    "Location": "Main"
+                },
+                "autoPlayFromStack": {
+                    "Action": "Discard",
+                    "Character": "Main",
+                    "Item": "Items",
+                    "Location": "Main"
+                },
+                "sectionsDict": {
+                    "Stack": {
+                        "isDefaultSection": true,
+                        "title": "Stack",
+                        "isHidden": "no",
+                        "height": "HUGE",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Pile"
+                    },
+                    "Main": {
+                        "title": "Main",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true
+                    },
+                    "Mana": {
+                        "title": "Mana",
+                        "isHidden": "yes",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Inkwell",
+                        "showHiddenCardInHistory": true
+                    },
+                    "Items": {
+                        "title": "Items",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "isHorizontalAllowed": true
+                    }
+                }
+            }
+        }
+    },
+    "defaultRessources": {
+        "backgrounds": [
+            "https://www.asdesjeux.com/cdn/shop/collections/F3xRtyuXoAAGE17.jpg?v=1704470537",
+            "https://i.imgur.com/Zvus1Xx.jpeg",
+            "https://i.imgur.com/14kebj5.jpeg",
+            "https://i.imgur.com/2Np3OO6.jpeg",
+            "https://i.imgur.com/h3elk9p.jpeg"
+        ],
+        "decksUrl": "https://valcur.github.io/JSON/LorcanaDecks.json"
+    },
+    "customHelp": "To put a card in your inkwell, drag and drop the card in the inkwell area.",
+    "cards": {
+        "dataUrl": "https://valcur.github.io/JSON/LorcanaCards.json",
+        "cardBack": "https://i.imgur.com/rlFq55B.png"
+    }
+}
