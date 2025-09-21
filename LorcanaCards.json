@@ -39991,6 +39991,28 @@
       "Emerald"
     ]
   },
+  "0/204-EN-9": {
+    "id": "0/204-EN-9",
+    "face": {
+      "front": {
+        "name": "Bruno Madrigal - Undetected Uncle",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set9/0_efc0c1177b6f8d76e49b512505c961fa4855628b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bruno Madrigal - Undetected Uncle",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "1/204-EN-9": {
     "id": "1/204-EN-9",
     "face": {
