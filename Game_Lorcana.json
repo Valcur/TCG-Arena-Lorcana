@@ -111,11 +111,11 @@
             "https://i.imgur.com/2Np3OO6.jpeg",
             "https://i.imgur.com/h3elk9p.jpeg"
         ],
-        "decksUrl": "https://valcur.github.io/JSON/LorcanaDecks.json"
+        "decksUrl": "https://valcur.github.io/TCG-Arena-Lorcana/LorcanaDecks.json"
     },
     "customHelp": "To put a card in your inkwell, drag and drop the card in the inkwell area.",
     "cards": {
-        "dataUrl": "https://valcur.github.io/JSON/LorcanaCards.json",
+        "dataUrl": "https://valcur.github.io/TCG-Arena-Lorcana/LorcanaCards.json",
         "cardBack": "https://i.imgur.com/rlFq55B.png"
     }
 }
