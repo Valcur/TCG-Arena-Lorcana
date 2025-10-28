@@ -45464,6 +45464,50 @@
       "Amber"
     ]
   },
+  "7/204-EN-10": {
+    "id": "7/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Eilonwy - Princess of Llyr",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/7_faed64adf621d58a75b274ce829053d5b429d823.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eilonwy - Princess of Llyr",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Amber"
+    ]
+  },
+  "8/204-EN-10": {
+    "id": "8/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Scrooge McDuck - On the Right Track",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/8_b07eee5dc70ce396dc9360ed0ded0fdb2b22c905.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scrooge McDuck - On the Right Track",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
   "9/204-EN-10": {
     "id": "9/204-EN-10",
     "face": {
@@ -45596,6 +45640,28 @@
       "Amber"
     ]
   },
+  "19/204-EN-10": {
+    "id": "19/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Mowgli - Man Cub",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/19_536ca4c600928a45bc8095a3badf0ded88cbfcb6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mowgli - Man Cub",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
   "20/204-EN-10": {
     "id": "20/204-EN-10",
     "face": {
@@ -45640,6 +45706,28 @@
       "Amber"
     ]
   },
+  "23/204-EN-10": {
+    "id": "23/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Mickey Mouse - Amber Champion",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/23_a41c6f05dcf3ec6424b3b0fd1eba13b9aba199d1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mickey Mouse - Amber Champion",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
   "24/204-EN-10": {
     "id": "24/204-EN-10",
     "face": {
@@ -45677,6 +45765,25 @@
     "type": "Action",
     "cost": 2,
     "rarity": "Common",
+    "color": [
+      "Amber"
+    ]
+  },
+  "29/204-EN-10": {
+    "id": "29/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Horseman Strikes!",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/29_398cd26320fd1903d8291e0e2f7d36cba2c72eb8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Horseman Strikes!",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Rare",
     "color": [
       "Amber"
     ]
@@ -45755,6 +45862,49 @@
     "rarity": "Common",
     "color": [
       "Amber"
+    ]
+  },
+  "34/204-EN-10": {
+    "id": "34/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Duckburg - Funso's Funzone",
+        "type": "Location",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/34_aae90f85ffe62e07885ad6907a7fcd69caf6a61a.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Duckburg - Funso's Funzone",
+    "type": "Location",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 0,
+    "willpower": 6,
+    "color": [
+      "Amber"
+    ]
+  },
+  "35/204-EN-10": {
+    "id": "35/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Minnie Mouse - Amethyst Champion",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/35_2f1e63cfe69cd5e04d1b51dab4c4342810425865.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minnie Mouse - Amethyst Champion",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
     ]
   },
   "36/204-EN-10": {
@@ -46021,6 +46171,28 @@
       "Amethyst"
     ]
   },
+  "51/204-EN-10": {
+    "id": "51/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Coldstone - Reincarnated Cyborg",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/51_80c592a3ca699c3374da65654ef4a9cbb5dfe491.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coldstone - Reincarnated Cyborg",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "52/204-EN-10": {
     "id": "52/204-EN-10",
     "face": {
@@ -46039,6 +46211,28 @@
     "lore": 2,
     "strength": 3,
     "willpower": 6,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "53/204-EN-10": {
+    "id": "53/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Nana - Canine Caregiver",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/53_8560c88a5cbaedcecaceec91b80e91cc52cffe5a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nana - Canine Caregiver",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
     "color": [
       "Amethyst"
     ]
@@ -46230,6 +46424,28 @@
     "lore": 1,
     "strength": 1,
     "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "72/204-EN-10": {
+    "id": "72/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Kaa - Suspicious Serpent",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/72_994e836a47868ce98e271cfee3d0b8323082643a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaa - Suspicious Serpent",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 2,
     "color": [
       "Emerald"
     ]
@@ -46634,6 +46850,27 @@
       "Emerald"
     ]
   },
+  "102/204-EN-10": {
+    "id": "102/204-EN-10",
+    "face": {
+      "front": {
+        "name": "White Agony Plains - Golden Lagoon",
+        "type": "Location",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/102_545174a8fda3087e37722bee84ef2e4cb1bdc837.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "White Agony Plains - Golden Lagoon",
+    "type": "Location",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 0,
+    "willpower": 7,
+    "color": [
+      "Emerald"
+    ]
+  },
   "103/204-EN-10": {
     "id": "103/204-EN-10",
     "face": {
@@ -46700,6 +46937,72 @@
       "Ruby"
     ]
   },
+  "107/204-EN-10": {
+    "id": "107/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Raksha - Fearless Mother",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/107_23cf468f5a713f8cad9bf9a2ce1b758ec717fa7e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raksha - Fearless Mother",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 5,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "108/204-EN-10": {
+    "id": "108/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Shere Khan - Keen-Eyed Hunter",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/108_3074e2e236c25fb3d67b6da3aa2ea2989b3dc7b5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shere Khan - Keen-Eyed Hunter",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "109/204-EN-10": {
+    "id": "109/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Rama - Vigilant Father",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/109_708a022d227920c80924f2b2b0ec6d2dfe96c736.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rama - Vigilant Father",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 6,
+    "color": [
+      "Ruby"
+    ]
+  },
   "110/204-EN-10": {
     "id": "110/204-EN-10",
     "face": {
@@ -46718,6 +47021,28 @@
     "lore": 1,
     "strength": 2,
     "willpower": 1,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "111/204-EN-10": {
+    "id": "111/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Katrina Van Tassel - Rosy-Cheeked Lass",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/111_1f1a3e6355f3a3bb9ad83a336b3c14759c25edf4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Katrina Van Tassel - Rosy-Cheeked Lass",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 6,
+    "willpower": 4,
     "color": [
       "Ruby"
     ]
@@ -46766,6 +47091,28 @@
       "Ruby"
     ]
   },
+  "118/204-EN-10": {
+    "id": "118/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Hercules - Mighty Leader",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/118_c1161fb30b9c1bcd95c1bd00d8e7fc4ae3e75daf.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hercules - Mighty Leader",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
   "119/204-EN-10": {
     "id": "119/204-EN-10",
     "face": {
@@ -46806,6 +47153,28 @@
     "lore": 1,
     "strength": 3,
     "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "121/204-EN-10": {
+    "id": "121/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Donald Duck - Ruby Champion",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/121_d36eab96f23a0cb86f534c5c448d7520ffee7c09.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Donald Duck - Ruby Champion",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 4,
     "color": [
       "Ruby"
     ]
@@ -46876,6 +47245,50 @@
       "Ruby"
     ]
   },
+  "125/204-EN-10": {
+    "id": "125/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Headless Horseman - Terror of Sleepy Hollow",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/125_9972a2635cc3e30a59272aabab81b5f17aa25ee2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Headless Horseman - Terror of Sleepy Hollow",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "127/204-EN-10": {
+    "id": "127/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Brom Bones - Burly Bully",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/127_f150aef09bce36f6d92b5708f6d8122e17fa5ee2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brom Bones - Burly Bully",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
   "129/204-EN-10": {
     "id": "129/204-EN-10",
     "face": {
@@ -46891,6 +47304,44 @@
     "type": "Action",
     "cost": 2,
     "rarity": "Rare",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "130/204-EN-10": {
+    "id": "130/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Get to Safety!",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/130_1757245cc30c853bcdcdaeeaea50773d684841ac.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Get to Safety!",
+    "type": "Action",
+    "cost": 1,
+    "rarity": "Rare",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "132/204-EN-10": {
+    "id": "132/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Ghostly Tale",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/132_58270b994191e8bd0ca6461b5be2c0457ff69dde.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ghostly Tale",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Common",
     "color": [
       "Ruby"
     ]
@@ -46935,6 +47386,49 @@
       "Ruby"
     ]
   },
+  "136/204-EN-10": {
+    "id": "136/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Sleepy Hollow - The Bridge",
+        "type": "Location",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/136_7dccedc7afb4ae2978df973bbee0b40ea84eaf47.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Sleepy Hollow - The Bridge",
+    "type": "Location",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 0,
+    "willpower": 6,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "137/204-EN-10": {
+    "id": "137/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Judy Hopps - On the Case",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/137_30d8cb2cb3712386a7bc680212e469af140f807e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Judy Hopps - On the Case",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
   "138/204-EN-10": {
     "id": "138/204-EN-10",
     "face": {
@@ -46975,6 +47469,28 @@
     "lore": 3,
     "strength": 6,
     "willpower": 8,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "141/204-EN-10": {
+    "id": "141/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Daisy Duck - Ghost Finder",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/141_d783e50e319f3658d30a9b68cb6e0a936cbff8e0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daisy Duck - Ghost Finder",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
     "color": [
       "Sapphire"
     ]
@@ -47023,6 +47539,28 @@
       "Sapphire"
     ]
   },
+  "144/204-EN-10": {
+    "id": "144/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Fergus McDuck - Scrooge's Father",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/144_f05d82152b8d20fbeffba7576aadd4b7c0a46e14.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fergus McDuck - Scrooge's Father",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ]
+  },
   "146/204-EN-10": {
     "id": "146/204-EN-10",
     "face": {
@@ -47067,6 +47605,28 @@
       "Sapphire"
     ]
   },
+  "148/204-EN-10": {
+    "id": "148/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Ichabod Crane - Bookish Schoolmaster",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/148_d94dd97bc91ce80191a195ec7c42a121f2b20545.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ichabod Crane - Bookish Schoolmaster",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
   "149/204-EN-10": {
     "id": "149/204-EN-10",
     "face": {
@@ -47085,6 +47645,28 @@
     "lore": 2,
     "strength": 2,
     "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "152/204-EN-10": {
+    "id": "152/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Ichabod Crane - Scared Out of His Mind",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/152_563a176fd1593d176ea84f7f5e7472b397290395.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ichabod Crane - Scared Out of His Mind",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 0,
+    "willpower": 2,
     "color": [
       "Sapphire"
     ]
@@ -47199,6 +47781,28 @@
       "Sapphire"
     ]
   },
+  "158/204-EN-10": {
+    "id": "158/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Daisy Duck - Sapphire Champion",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/158_440a732fae1fee58b3acba6085b08132ca683f27.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daisy Duck - Sapphire Champion",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 5,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
   "159/204-EN-10": {
     "id": "159/204-EN-10",
     "face": {
@@ -47281,6 +47885,44 @@
       "Sapphire"
     ]
   },
+  "164/204-EN-10": {
+    "id": "164/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Sudden Scare",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/164_a6d7b9cf07685d86cce7da9095cd265662687a89.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sudden Scare",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "165/204-EN-10": {
+    "id": "165/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Spooky Sight",
+        "type": "Action",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/165_850002a114cf26e39a381404685658c8dd594299.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spooky Sight",
+    "type": "Action",
+    "cost": 6,
+    "rarity": "Rare",
+    "color": [
+      "Sapphire"
+    ]
+  },
   "167/204-EN-10": {
     "id": "167/204-EN-10",
     "face": {
@@ -47315,6 +47957,27 @@
     "type": "Item",
     "cost": 2,
     "rarity": "Uncommon",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "170/204-EN-10": {
+    "id": "170/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Castle of the Horned King - Bastion of Evil",
+        "type": "Location",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/170_aca508dd9b8faeb2678bda497fa8eb247ea29b0e.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Castle of the Horned King - Bastion of Evil",
+    "type": "Location",
+    "cost": 1,
+    "rarity": "Rare",
+    "lore": 0,
+    "willpower": 5,
     "color": [
       "Sapphire"
     ]
@@ -47359,6 +48022,50 @@
     "lore": 1,
     "strength": 5,
     "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "174/204-EN-10": {
+    "id": "174/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Headless Horseman - Cursed Rider",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/174_8a43b0cb58caa809de17843994aff71485d07e87.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Headless Horseman - Cursed Rider",
+    "type": "Character",
+    "cost": 8,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 7,
+    "color": [
+      "Steel"
+    ]
+  },
+  "175/204-EN-10": {
+    "id": "175/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Clawhauser - Donut Detective",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/175_cb6a61eec7d560470604c0ce6606a834f6609c7e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Clawhauser - Donut Detective",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 6,
     "color": [
       "Steel"
     ]
@@ -47561,6 +48268,28 @@
       "Steel"
     ]
   },
+  "191/204-EN-10": {
+    "id": "191/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Pluto - Steel Champion",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/191_73722c17f20939ab18cafe2d26524f977497bf14.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pluto - Steel Champion",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
   "193/204-EN-10": {
     "id": "193/204-EN-10",
     "face": {
@@ -47579,6 +48308,28 @@
     "lore": 2,
     "strength": 2,
     "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "194/204-EN-10": {
+    "id": "194/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Headless Horseman - Relentless Spirit",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/194_3f70f74f29df3f160f55725cd6e9b9dfd47144d6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Headless Horseman - Relentless Spirit",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 4,
     "color": [
       "Steel"
     ]
@@ -47617,6 +48368,25 @@
     "type": "Action",
     "cost": 2,
     "rarity": "Common",
+    "color": [
+      "Steel"
+    ]
+  },
+  "197/204-EN-10": {
+    "id": "197/204-EN-10",
+    "face": {
+      "front": {
+        "name": "He Hurled His Thunderbolt",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/197_ec1eb456aca1ae2049c4278e7e87adef27244bf5.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "He Hurled His Thunderbolt",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Uncommon",
     "color": [
       "Steel"
     ]
@@ -47695,6 +48465,27 @@
     "rarity": "Super Rare",
     "lore": 1,
     "willpower": 6,
+    "color": [
+      "Steel"
+    ]
+  },
+  "204/204-EN-10": {
+    "id": "204/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Castle Wyvern - Above the Clouds",
+        "type": "Location",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/204_52b4323e1046b2289129684c5ae196036c4a3a37.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Castle Wyvern - Above the Clouds",
+    "type": "Location",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 1,
+    "willpower": 5,
     "color": [
       "Steel"
     ]
@@ -47787,6 +48578,25 @@
       "Steel"
     ]
   },
+  "222/204-EN-10": {
+    "id": "222/204-EN-10",
+    "face": {
+      "front": {
+        "name": "He Hurled His Thunderbolt",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/222_a46de86b2214bcc286d34d32c069b91eee1fbad4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "He Hurled His Thunderbolt",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Epic",
+    "color": [
+      "Steel"
+    ]
+  },
   "224/204-EN-10": {
     "id": "224/204-EN-10",
     "face": {
@@ -47870,6 +48680,148 @@
     "willpower": 5,
     "color": [
       "Emerald"
+    ]
+  },
+  "231/204-EN-10": {
+    "id": "231/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Malicious, Mean, and Scary",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/231_6962c810e4b2d0e5f006bb91eda183a79e4bce54.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malicious, Mean, and Scary",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Enchanted",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "232/204-EN-10": {
+    "id": "232/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Headless Horseman - Terror of Sleepy Hollow",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/232_2765a41e86eb9c1c322c63e52df856dc3c903022.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Headless Horseman - Terror of Sleepy Hollow",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "234/204-EN-10": {
+    "id": "234/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Next Stop, Olympus",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/234_6545c078081de97a7ae8b605daa265ebea40d35e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Next Stop, Olympus",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Enchanted",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "236/204-EN-10": {
+    "id": "236/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Cinderella - Dream Come True",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/236_abdef5f502c738af78297e1ec2f620e3a7463a92.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinderella - Dream Come True",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Enchanted",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "237/204-EN-10": {
+    "id": "237/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Spooky Sight",
+        "type": "Action",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/237_0aac51a20896098c6a6b7fbfd1c157d1ccda3eb4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spooky Sight",
+    "type": "Action",
+    "cost": 6,
+    "rarity": "Enchanted",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "239/204-EN-10": {
+    "id": "239/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Nick Wilde - Persistent Investigator",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/239_c53adf08577166cab4cbafe8d61c8c5ccce82c5c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nick Wilde - Persistent Investigator",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "240/204-EN-10": {
+    "id": "240/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Sword of Hercules",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/240_dbdd57190bb4ce914e7c3807af4481ea72990538.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Sword of Hercules",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Enchanted",
+    "color": [
+      "Steel"
     ]
   },
   "241/204-EN-10": {
