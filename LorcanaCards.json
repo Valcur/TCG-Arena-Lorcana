@@ -45442,6 +45442,72 @@
       "Amber"
     ]
   },
+  "3/204-EN-10": {
+    "id": "3/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Rapunzel - Ready for Adventure",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/3_fb52ab7e41b32692bcf120fb7760b0eb4f2c0af3.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rapunzel - Ready for Adventure",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Legendary",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
+  "4/204-EN-10": {
+    "id": "4/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Headless Manhorse - Manny",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/4_cb0411786b4be7dda264c3b5c2a8dd0d958747af.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Headless Manhorse - Manny",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 5,
+    "willpower": 10,
+    "color": [
+      "Amber"
+    ]
+  },
+  "5/204-EN-10": {
+    "id": "5/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Higgins - Undercover Officer",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/5_81c945c3775f09fc4558c4ff5e9e05c82c846b2a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Higgins - Undercover Officer",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
   "6/204-EN-10": {
     "id": "6/204-EN-10",
     "face": {
@@ -45530,6 +45596,28 @@
       "Amber"
     ]
   },
+  "10/204-EN-10": {
+    "id": "10/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Gurgi - Apple Lover",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/10_62e15c196b5edb2e7b3f9cd8e83f685e21bcdcce.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gurgi - Apple Lover",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
   "11/204-EN-10": {
     "id": "11/204-EN-10",
     "face": {
@@ -45592,6 +45680,72 @@
     "lore": 2,
     "strength": 0,
     "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
+  "14/204-EN-10": {
+    "id": "14/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Flash - Records Specialist",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/14_d2e6581496a0a7545f0ef3ccb7fcf288e54f0b69.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flash - Records Specialist",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "15/204-EN-10": {
+    "id": "15/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Taran - Pig Keeper",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/15_23efe6fc7a8e650ad3ce395bdfa28c3bf723b1b6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taran - Pig Keeper",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
+  "16/204-EN-10": {
+    "id": "16/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Sebastian - Loyal Crab",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/16_5d11077f11907c383a6e198d408f648191f11256.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sebastian - Loyal Crab",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Rare",
+    "lore": 3,
+    "strength": 1,
+    "willpower": 1,
     "color": [
       "Amber"
     ]
@@ -45684,6 +45838,28 @@
       "Amber"
     ]
   },
+  "21/204-EN-10": {
+    "id": "21/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Goofy - Ghost Hunter",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/21_90e2cca148f9196d92a5cf91c37ff77f34fe7bf2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goofy - Ghost Hunter",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
   "22/204-EN-10": {
     "id": "22/204-EN-10",
     "face": {
@@ -45746,6 +45922,66 @@
     "lore": 3,
     "strength": 5,
     "willpower": 7,
+    "color": [
+      "Amber"
+    ]
+  },
+  "25/204-EN-10": {
+    "id": "25/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Gazelle - Ballad Singer",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/25_27aa7b254fa0d2f368cc23424ce4ee65a69c5df0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gazelle - Ballad Singer",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 8,
+    "color": [
+      "Amber"
+    ]
+  },
+  "26/204-EN-10": {
+    "id": "26/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Search for Clues",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/26_5f38db004abdc0b007fb4867388f249b4a49ee05.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Search for Clues",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "color": [
+      "Amber"
+    ]
+  },
+  "27/204-EN-10": {
+    "id": "27/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Or Rewrite History!",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/27_9a436571ec3f8e15826b476bbc3e29f51d1c2aa8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Or Rewrite History!",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Uncommon",
     "color": [
       "Amber"
     ]
@@ -45929,6 +46165,28 @@
       "Amethyst"
     ]
   },
+  "37/204-EN-10": {
+    "id": "37/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Gwythaint - Savage Hunter",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/37_febee1e8aec13e84c2509693dc8dd201c3fb7f04.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gwythaint - Savage Hunter",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "38/204-EN-10": {
     "id": "38/204-EN-10",
     "face": {
@@ -45969,6 +46227,28 @@
     "lore": 1,
     "strength": 6,
     "willpower": 7,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "40/204-EN-10": {
+    "id": "40/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Demona - Betrayer of the Clan",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/40_51d10a90c5d290054a57671e08776ba4b257979e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demona - Betrayer of the Clan",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 6,
     "color": [
       "Amethyst"
     ]
@@ -46079,6 +46359,28 @@
     "lore": 1,
     "strength": 1,
     "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "46/204-EN-10": {
+    "id": "46/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Mushu - Braggin' Dragon",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/46_2d4503e5196d25120c73b7b987f91aca569f1cdf.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mushu - Braggin' Dragon",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
     "color": [
       "Amethyst"
     ]
@@ -46237,6 +46539,28 @@
       "Amethyst"
     ]
   },
+  "54/204-EN-10": {
+    "id": "54/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Magica De Spell - Conniving Sorceress",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/54_2f7b80e2ebadc844a7163e187a0313012289df8d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magica De Spell - Conniving Sorceress",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 7,
+    "willpower": 7,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "55/204-EN-10": {
     "id": "55/204-EN-10",
     "face": {
@@ -46303,6 +46627,28 @@
       "Amethyst"
     ]
   },
+  "58/204-EN-10": {
+    "id": "58/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Merlin - Completing His Research",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/58_7069520af6d9e30c00156a48a752dec71a142165.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Merlin - Completing His Research",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 0,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "59/204-EN-10": {
     "id": "59/204-EN-10",
     "face": {
@@ -46321,6 +46667,47 @@
     "lore": 2,
     "strength": 4,
     "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "60/204-EN-10": {
+    "id": "60/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Cheshire Cat - Inexplicable",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/60_1b85e0c0de6462be1083080957c4240fb9c9e8e7.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cheshire Cat - Inexplicable",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "61/204-EN-10": {
+    "id": "61/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Begone!",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/61_a0cb0dea911b87f2eb306d29737dc1f28781f7a8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Begone!",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Common",
     "color": [
       "Amethyst"
     ]
@@ -46344,6 +46731,63 @@
       "Amethyst"
     ]
   },
+  "63/204-EN-10": {
+    "id": "63/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Swooping Strike",
+        "type": "Action",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/63_63771f9ecb0ab0cfeccccf5a1270ad2c29d2ea4e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swooping Strike",
+    "type": "Action",
+    "cost": 1,
+    "rarity": "Common",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "64/204-EN-10": {
+    "id": "64/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Performance Review",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/64_5be6181cf3fe85df178ea17dbd5a3747d8106ecd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Performance Review",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "65/204-EN-10": {
+    "id": "65/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Fragile as a Flower",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/65_e2303c36ea97c29f4b06eec39d5d9fd48793fd08.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fragile as a Flower",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Common",
+    "color": [
+      "Amethyst"
+    ]
+  },
   "66/204-EN-10": {
     "id": "66/204-EN-10",
     "face": {
@@ -46359,6 +46803,25 @@
     "type": "Item",
     "cost": 2,
     "rarity": "Common",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "67/204-EN-10": {
+    "id": "67/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Grimorum Arcanorum",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/67_82a2fcee7e949bc292fc98606bf14961e16f2bcd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimorum Arcanorum",
+    "type": "Item",
+    "cost": 3,
+    "rarity": "Rare",
     "color": [
       "Amethyst"
     ]
@@ -46428,6 +46891,28 @@
       "Emerald"
     ]
   },
+  "71/204-EN-10": {
+    "id": "71/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Flotsam - Slippery as an Eel",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/71_fcd84d78e692826344348895cbc360025ee5a75a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flotsam - Slippery as an Eel",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
   "72/204-EN-10": {
     "id": "72/204-EN-10",
     "face": {
@@ -46462,6 +46947,28 @@
       }
     },
     "name": "Webby Vanderquack - Mystery Enthusiast",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "74/204-EN-10": {
+    "id": "74/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Finnick - Tiny Terror",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/74_1a416ccee8a368953e5f9241496f829fb714236f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Finnick - Tiny Terror",
     "type": "Character",
     "cost": 1,
     "rarity": "Common",
@@ -46516,6 +47023,28 @@
       "Emerald"
     ]
   },
+  "77/204-EN-10": {
+    "id": "77/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Jetsam - Opportunistic Eel",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/77_f0137dca2cc42842d1d96935be1e4953850bfd6e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jetsam - Opportunistic Eel",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 6,
+    "color": [
+      "Emerald"
+    ]
+  },
   "78/204-EN-10": {
     "id": "78/204-EN-10",
     "face": {
@@ -46534,6 +47063,28 @@
     "lore": 2,
     "strength": 6,
     "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "79/204-EN-10": {
+    "id": "79/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Kaa - Secretive Snake",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/79_9812bf7025c7af4586c10c89a616abd500663199.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaa - Secretive Snake",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Uncommon",
+    "lore": 3,
+    "strength": 6,
+    "willpower": 7,
     "color": [
       "Emerald"
     ]
@@ -46582,6 +47133,28 @@
       "Emerald"
     ]
   },
+  "82/204-EN-10": {
+    "id": "82/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Bellwether - Master Manipulator",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/82_9580a302b9a71ffffab898cfa6200db60c30d8f6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bellwether - Master Manipulator",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Uncommon",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
   "83/204-EN-10": {
     "id": "83/204-EN-10",
     "face": {
@@ -46600,6 +47173,28 @@
     "lore": 1,
     "strength": 4,
     "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "84/204-EN-10": {
+    "id": "84/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Penumbra - Moon Alien",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/84_dd8d3efc6b5403647fb724d99dc1d942d83df5bd.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Penumbra - Moon Alien",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 7,
+    "willpower": 6,
     "color": [
       "Emerald"
     ]
@@ -46670,6 +47265,28 @@
       "Emerald"
     ]
   },
+  "88/204-EN-10": {
+    "id": "88/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Shere Khan - Fearsome Tiger",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/88_4f901198e13ab51eb8fe0b73cecb62c14b33a7fa.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shere Khan - Fearsome Tiger",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
   "89/204-EN-10": {
     "id": "89/204-EN-10",
     "face": {
@@ -46732,6 +47349,50 @@
     "lore": 2,
     "strength": 3,
     "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "92/204-EN-10": {
+    "id": "92/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Little John - Impermanent Outlaw",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/92_c2007bbb8a165f660ed351924fcec4cc1829403b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Little John - Impermanent Outlaw",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "lore": 3,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "93/204-EN-10": {
+    "id": "93/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Webby Vanderquack - Junior Prospector",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/93_66169bcf6a8afc83d644ac0e3231ea2163e2c333.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Webby Vanderquack - Junior Prospector",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
     "color": [
       "Emerald"
     ]
@@ -46812,6 +47473,25 @@
       "Emerald"
     ]
   },
+  "98/204-EN-10": {
+    "id": "98/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Potion of Malice",
+        "type": "Item",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/98_5f28612ce32e758bf3c42a761930802d62f5fede.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Potion of Malice",
+    "type": "Item",
+    "cost": 3,
+    "rarity": "Super Rare",
+    "color": [
+      "Emerald"
+    ]
+  },
   "99/204-EN-10": {
     "id": "99/204-EN-10",
     "face": {
@@ -46846,6 +47526,25 @@
     "type": "Item",
     "cost": 2,
     "rarity": "Rare",
+    "color": [
+      "Emerald"
+    ]
+  },
+  "101/204-EN-10": {
+    "id": "101/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Blessed Bagpipes",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/101_c8f092fee1ec7886f79815fa62538cc4785e3e7f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blessed Bagpipes",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Uncommon",
     "color": [
       "Emerald"
     ]
@@ -46887,6 +47586,28 @@
     "cost": 2,
     "rarity": "Rare",
     "lore": 2,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "104/204-EN-10": {
+    "id": "104/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Ares - God of War",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/104_be50ac9fb22a64cb564ba071e0009c715a2b162b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ares - God of War",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 0,
     "strength": 3,
     "willpower": 3,
     "color": [
@@ -47069,6 +47790,50 @@
       "Ruby"
     ]
   },
+  "113/204-EN-10": {
+    "id": "113/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Beast - Aggressive Lord",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/113_bca1834238648c8292f6e156ffca154ea133290f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beast - Aggressive Lord",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "114/204-EN-10": {
+    "id": "114/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Bronx - Ferocious Beast",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/114_bb4753f9ed5c3ccf14d09e1c09f053ce918370c4.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bronx - Ferocious Beast",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 0,
+    "strength": 6,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
   "115/204-EN-10": {
     "id": "115/204-EN-10",
     "face": {
@@ -47087,6 +47852,50 @@
     "lore": 1,
     "strength": 5,
     "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "116/204-EN-10": {
+    "id": "116/204-EN-10",
+    "face": {
+      "front": {
+        "name": "David Xanatos - Charismatic Leader",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/116_d8d2e0ee5bd82a685bf29b5e5ff574bb893a4d2f.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "David Xanatos - Charismatic Leader",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "117/204-EN-10": {
+    "id": "117/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Hans - Brazen Manipulator",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/117_b0250d920777113d24e17f08f9eea9421f4b3d70.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hans - Brazen Manipulator",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Super Rare",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 4,
     "color": [
       "Ruby"
     ]
@@ -47267,6 +48076,28 @@
       "Ruby"
     ]
   },
+  "126/204-EN-10": {
+    "id": "126/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Mulan - Standing Her Ground",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/126_2db4f9490bc5ee2f1a8c6fc13b3863bb49080e7d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Standing Her Ground",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
   "127/204-EN-10": {
     "id": "127/204-EN-10",
     "face": {
@@ -47285,6 +48116,28 @@
     "lore": 1,
     "strength": 5,
     "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "128/204-EN-10": {
+    "id": "128/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Shere Khan - Fierce and Furious",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/128_6e7a7356576c075b6850762fccabe3bacaf50215.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shere Khan - Fierce and Furious",
+    "type": "Character",
+    "cost": 8,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 8,
+    "willpower": 8,
     "color": [
       "Ruby"
     ]
@@ -47327,6 +48180,25 @@
       "Ruby"
     ]
   },
+  "131/204-EN-10": {
+    "id": "131/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Time to Go!",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/131_1e6d4cd83d8c5bab74bd6395c858776659519b42.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Time to Go!",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "color": [
+      "Ruby"
+    ]
+  },
   "132/204-EN-10": {
     "id": "132/204-EN-10",
     "face": {
@@ -47361,6 +48233,25 @@
     "type": "Action",
     "cost": 5,
     "rarity": "Common",
+    "color": [
+      "Ruby"
+    ]
+  },
+  "134/204-EN-10": {
+    "id": "134/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Mushu's Rocket",
+        "type": "Item",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/134_b2909d2b7f6598632d71b96d98332ea5720118bb.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mushu's Rocket",
+    "type": "Item",
+    "cost": 1,
+    "rarity": "Uncommon",
     "color": [
       "Ruby"
     ]
@@ -47447,6 +48338,28 @@
     "lore": 1,
     "strength": 1,
     "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "139/204-EN-10": {
+    "id": "139/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Anna - Making Snow Plans",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/139_69a66c67d495c4ded0fb6f1de4e53a926267e294.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anna - Making Snow Plans",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 3,
     "color": [
       "Sapphire"
     ]
@@ -47561,6 +48474,28 @@
       "Sapphire"
     ]
   },
+  "145/204-EN-10": {
+    "id": "145/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Li Shang - Seasoned Strategist",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/145_3a25446d3b997be2836ed844521bfd083e48f5a6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Li Shang - Seasoned Strategist",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
   "146/204-EN-10": {
     "id": "146/204-EN-10",
     "face": {
@@ -47645,6 +48580,50 @@
     "lore": 2,
     "strength": 2,
     "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "150/204-EN-10": {
+    "id": "150/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Judy Hopps - Lead Detective",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/150_722eaaa57d6bd69ab2ae31afc40958db763fb56c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Judy Hopps - Lead Detective",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "151/204-EN-10": {
+    "id": "151/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Sultan - Playful Monarch",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/151_ba513c19ccca2d599b1b6bb0af3a0776d061b187.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Sultan - Playful Monarch",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Rare",
+    "lore": 2,
+    "strength": 1,
+    "willpower": 1,
     "color": [
       "Sapphire"
     ]
@@ -47866,6 +48845,25 @@
       "Sapphire"
     ]
   },
+  "162/204-EN-10": {
+    "id": "162/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Promising Lead",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/162_58c2f2abef20189531ce7de84b502f2a4d504428.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Promising Lead",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Common",
+    "color": [
+      "Sapphire"
+    ]
+  },
   "163/204-EN-10": {
     "id": "163/204-EN-10",
     "face": {
@@ -47923,6 +48921,25 @@
       "Sapphire"
     ]
   },
+  "166/204-EN-10": {
+    "id": "166/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Detective's Badge",
+        "type": "Item",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/166_8edffd0fa57df4bed9ea1cf0186cd46efc231477.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Detective's Badge",
+    "type": "Item",
+    "cost": 1,
+    "rarity": "Common",
+    "color": [
+      "Sapphire"
+    ]
+  },
   "167/204-EN-10": {
     "id": "167/204-EN-10",
     "face": {
@@ -47938,6 +48955,25 @@
     "type": "Item",
     "cost": 3,
     "rarity": "Rare",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "168/204-EN-10": {
+    "id": "168/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Fairy Godmother's Wand",
+        "type": "Item",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/168_2ffd615fb5ff9a48298ef98f9fc22d6d0ab8f1bf.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fairy Godmother's Wand",
+    "type": "Item",
+    "cost": 2,
+    "rarity": "Super Rare",
     "color": [
       "Sapphire"
     ]
@@ -48026,6 +49062,28 @@
       "Steel"
     ]
   },
+  "173/204-EN-10": {
+    "id": "173/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Goliath - Clan Leader",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/173_02446272102753bbd8c707e080e6e2bb110cb0ca.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goliath - Clan Leader",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Legendary",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
   "174/204-EN-10": {
     "id": "174/204-EN-10",
     "face": {
@@ -48070,6 +49128,28 @@
       "Steel"
     ]
   },
+  "176/204-EN-10": {
+    "id": "176/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Francine - Eyeing the Evidence",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/176_5bae4a98b82698843867d70235f8cc36778af3ec.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Francine - Eyeing the Evidence",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
   "177/204-EN-10": {
     "id": "177/204-EN-10",
     "face": {
@@ -48092,6 +49172,28 @@
       "Steel"
     ]
   },
+  "178/204-EN-10": {
+    "id": "178/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Nick Wilde - Sly Fox Sleuth",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/178_7b413b5e1861348d95008c544e27ea7949b638b8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nick Wilde - Sly Fox Sleuth",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
   "179/204-EN-10": {
     "id": "179/204-EN-10",
     "face": {
@@ -48110,6 +49212,28 @@
     "lore": 2,
     "strength": 3,
     "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
+  "180/204-EN-10": {
+    "id": "180/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Hudson - Determined Reader",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/180_cd1cced6c985969553dbe65139d073036d4fce77.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hudson - Determined Reader",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Common",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 4,
     "color": [
       "Steel"
     ]
@@ -48154,6 +49278,72 @@
     "lore": 1,
     "strength": 3,
     "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "183/204-EN-10": {
+    "id": "183/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Lexington - Small in Stature",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/183_505c4e256f61303f1d69063e051115e0320bb179.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lexington - Small in Stature",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
+  "184/204-EN-10": {
+    "id": "184/204-EN-10",
+    "face": {
+      "front": {
+        "name": "David Xanatos - Steel Clan Leader",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/184_e28abc268f0b1a8b854f48cf71dbec9f2c99c793.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "David Xanatos - Steel Clan Leader",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
+  "185/204-EN-10": {
+    "id": "185/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Chief Bogo - Calling the Shots",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/185_a37fe8ccddb230a1e9e28514b99f80b83bdbef08.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chief Bogo - Calling the Shots",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Rare",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 1,
     "color": [
       "Steel"
     ]
@@ -48290,6 +49480,28 @@
       "Steel"
     ]
   },
+  "192/204-EN-10": {
+    "id": "192/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Fairy Godmother - Magical Benefactor",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/192_eb19530d334061f223ed0787de24d7097b23e7e8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fairy Godmother - Magical Benefactor",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Super Rare",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
   "193/204-EN-10": {
     "id": "193/204-EN-10",
     "face": {
@@ -48391,6 +49603,25 @@
       "Steel"
     ]
   },
+  "198/204-EN-10": {
+    "id": "198/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Game's Afoot!",
+        "type": "Action",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/198_efe4476ec008c197766c947c9465f4861e6e8544.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Game's Afoot!",
+    "type": "Action",
+    "cost": 2,
+    "rarity": "Uncommon",
+    "color": [
+      "Steel"
+    ]
+  },
   "199/204-EN-10": {
     "id": "199/204-EN-10",
     "face": {
@@ -48469,6 +49700,27 @@
       "Steel"
     ]
   },
+  "203/204-EN-10": {
+    "id": "203/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Zootopia - Police Headquarters",
+        "type": "Location",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/203_1af503e1ad98599f71dfa497348bc406f90d2616.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Zootopia - Police Headquarters",
+    "type": "Location",
+    "cost": 1,
+    "rarity": "Uncommon",
+    "lore": 1,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ]
+  },
   "204/204-EN-10": {
     "id": "204/204-EN-10",
     "face": {
@@ -48488,6 +49740,28 @@
     "willpower": 5,
     "color": [
       "Steel"
+    ]
+  },
+  "205/204-EN-10": {
+    "id": "205/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Goofy - Ghost Hunter",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/205_c8155f8eb7a6f9006ca31b46f8840b6514a09b78.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goofy - Ghost Hunter",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Amber"
     ]
   },
   "206/204-EN-10": {
@@ -48512,6 +49786,69 @@
       "Amber"
     ]
   },
+  "207/204-EN-10": {
+    "id": "207/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Horseman Strikes!",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/207_bcec9c3b633be01dc3a9eef0eb432134ad8b79e6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Horseman Strikes!",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Epic",
+    "color": [
+      "Amber"
+    ]
+  },
+  "208/204-EN-10": {
+    "id": "208/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Elsa - Exploring the Unknown",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/208_853f1eb6483b35818bb3f2abcd2d73ed3e6d555a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elsa - Exploring the Unknown",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "209/204-EN-10": {
+    "id": "209/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Merlin - Completing His Research",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/209_81c7cf8f9fa4d51b5512bffbb350df5b29156f84.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Merlin - Completing His Research",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 2,
+    "strength": 0,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "210/204-EN-10": {
     "id": "210/204-EN-10",
     "face": {
@@ -48534,6 +49871,50 @@
       "Amethyst"
     ]
   },
+  "211/204-EN-10": {
+    "id": "211/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Webby Vanderquack - Mystery Enthusiast",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/211_6b952a0779490eb30f47425d6aaf16f7e3ce2c53.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Webby Vanderquack - Mystery Enthusiast",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "212/204-EN-10": {
+    "id": "212/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Kaa - Secretive Snake",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/212_7d3dd2991d80ae0ab25cc2a7f7a46ea103329620.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaa - Secretive Snake",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Epic",
+    "lore": 3,
+    "strength": 6,
+    "willpower": 7,
+    "color": [
+      "Emerald"
+    ]
+  },
   "213/204-EN-10": {
     "id": "213/204-EN-10",
     "face": {
@@ -48554,6 +49935,157 @@
     "willpower": 4,
     "color": [
       "Emerald"
+    ]
+  },
+  "214/204-EN-10": {
+    "id": "214/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Tinker Bell - Fancy Footwork",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/214_d273ef7e75643a6b6b744b57bc63cac9e8def649.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tinker Bell - Fancy Footwork",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 1,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "215/204-EN-10": {
+    "id": "215/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Mulan - Standing Her Ground",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/215_3f9b4e2fbbe6e8bf01f7a7665a4ed49f2b74851c.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Standing Her Ground",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 4,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "216/204-EN-10": {
+    "id": "216/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Aladdin - Barreling Through",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/216_28045a98d207ba73fd5f48a63941745a25d82d79.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aladdin - Barreling Through",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 0,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "217/204-EN-10": {
+    "id": "217/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Daisy Duck - Ghost Finder",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/217_e9e22f4094c0918bab08c5be32488d69a0c2dd70.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daisy Duck - Ghost Finder",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "218/204-EN-10": {
+    "id": "218/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Kristoff - Mining the Ruins",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/218_cf9acc5de66cf6311286e7d64c5063160f05837a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kristoff - Mining the Ruins",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Epic",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "219/204-EN-10": {
+    "id": "219/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Sudden Scare",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/219_2a3af5f25454d0e9fdef4b83a3a310fa14c1c983.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sudden Scare",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Epic",
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "220/204-EN-10": {
+    "id": "220/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Minnie Mouse - Ghost Hunter",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/220_1ba50181ae318cc2fa3cf9cff849a6254c829a9b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minnie Mouse - Ghost Hunter",
+    "type": "Character",
+    "cost": 2,
+    "rarity": "Epic",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Steel"
     ]
   },
   "221/204-EN-10": {
@@ -48597,6 +50129,28 @@
       "Steel"
     ]
   },
+  "223/204-EN-10": {
+    "id": "223/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Goofy - Galumphing Gumshoe",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/223_91f040573a2260a617ebd035991c33373701ca1e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goofy - Galumphing Gumshoe",
+    "type": "Character",
+    "cost": 8,
+    "rarity": "Enchanted",
+    "lore": 3,
+    "strength": 5,
+    "willpower": 7,
+    "color": [
+      "Amber"
+    ]
+  },
   "224/204-EN-10": {
     "id": "224/204-EN-10",
     "face": {
@@ -48638,6 +50192,28 @@
       "Amber"
     ]
   },
+  "226/204-EN-10": {
+    "id": "226/204-EN-10",
+    "face": {
+      "front": {
+        "name": "The Horned King - Wicked Ruler",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/226_edb9219ed07d16b280b56910bf31e953bc2d3044.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Horned King - Wicked Ruler",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "227/204-EN-10": {
     "id": "227/204-EN-10",
     "face": {
@@ -48658,6 +50234,47 @@
     "willpower": 6,
     "color": [
       "Amethyst"
+    ]
+  },
+  "228/204-EN-10": {
+    "id": "228/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Can't Hold it Back Anymore",
+        "type": "Action",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/228_67bdb5cec6b46b4e800b5ef09e1737f5507c5ab0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Can't Hold it Back Anymore",
+    "type": "Action",
+    "cost": 4,
+    "rarity": "Enchanted",
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "229/204-EN-10": {
+    "id": "229/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Webby Vanderquack - Junior Prospector",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/229_ce9f26058950468601780162c729d6c7cc2a9bc1.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Webby Vanderquack - Junior Prospector",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Emerald"
     ]
   },
   "230/204-EN-10": {
@@ -48723,6 +50340,28 @@
       "Ruby"
     ]
   },
+  "233/204-EN-10": {
+    "id": "233/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Lady Tremaine - Sinister Socialite",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/233_4ef3047dde5fba58de5be865ea811ac1745faeab.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lady Tremaine - Sinister Socialite",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
   "234/204-EN-10": {
     "id": "234/204-EN-10",
     "face": {
@@ -48740,6 +50379,28 @@
     "rarity": "Enchanted",
     "color": [
       "Ruby"
+    ]
+  },
+  "235/204-EN-10": {
+    "id": "235/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Judy Hopps - Lead Detective",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/235_ef49880f720fba0c2f56d318389c06af0729e130.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Judy Hopps - Lead Detective",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
     ]
   },
   "236/204-EN-10": {
@@ -48781,6 +50442,28 @@
     "rarity": "Enchanted",
     "color": [
       "Sapphire"
+    ]
+  },
+  "238/204-EN-10": {
+    "id": "238/204-EN-10",
+    "face": {
+      "front": {
+        "name": "Goliath - Clan Leader",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/set10/238_77b42aa777fedfa20df29da74024e0241389c2f8.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goliath - Clan Leader",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 5,
+    "color": [
+      "Steel"
     ]
   },
   "239/204-EN-10": {
@@ -48998,6 +50681,178 @@
     "willpower": 2,
     "color": [
       "Ruby"
+    ]
+  },
+  "18/P3-EN-10": {
+    "id": "18/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "Zeus - Missing His Spark",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/18_05f2682a73bf2595c3b848c824592521c0099512.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeus - Missing His Spark",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "19/P3-EN-10": {
+    "id": "19/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "The Great Illuminary - Abandoned Laboratory",
+        "type": "Location",
+        "cost": 2,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/19_4820f65a3bbd1d3c03018775c2064aca051f288c.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Great Illuminary - Abandoned Laboratory",
+    "type": "Location",
+    "cost": 2,
+    "rarity": "Special",
+    "lore": 1,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "20/P3-EN-10": {
+    "id": "20/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "The Horseman Strikes!",
+        "type": "Action",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/20_8b1b0c3ba38b771b51417e75fa9315c90927d96a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Horseman Strikes!",
+    "type": "Action",
+    "cost": 3,
+    "rarity": "Special",
+    "color": [
+      "Amber"
+    ]
+  },
+  "21/P3-EN-10": {
+    "id": "21/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "Scar - Eerily Prepared",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/21_96042505247cc9caea6ca6ea0b92a79427ae0d75.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scar - Eerily Prepared",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 6,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "22/P3-EN-10": {
+    "id": "22/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "Elsa - Exploring the Unknown",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/22_e45aeb9c781361f67e3abab8ee59e8cd6b7b0c0b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elsa - Exploring the Unknown",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "23/P3-EN-10": {
+    "id": "23/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "Daisy Duck - Paranormal Investigator",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/23_40885d217657ebbe74c23bda7bd66478fefa0155.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daisy Duck - Paranormal Investigator",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "24/P3-EN-10": {
+    "id": "24/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "Daisy Duck - Paranormal Investigator",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/24_a83fa383af201bad1d84858cdfdcceaa2b19187d.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daisy Duck - Paranormal Investigator",
+    "type": "Character",
+    "cost": 6,
+    "rarity": "Enchanted",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "26/P3-EN-10": {
+    "id": "26/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "Jasmine - Soothing Princess",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/26_0ae8f65fef2169993613b732bcb7ef8ccc3c808a.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jasmine - Soothing Princess",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
     ]
   }
 }
