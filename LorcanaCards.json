@@ -50833,6 +50833,28 @@
       "Sapphire"
     ]
   },
+  "25/P3-EN-10": {
+    "id": "25/P3-EN-10",
+    "face": {
+      "front": {
+        "name": "Goofy - Emerald Champion",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/25_9aebfd6e6296ef4b8e397042c49905ec1f5bd147.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goofy - Emerald Champion",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
   "26/P3-EN-10": {
     "id": "26/P3-EN-10",
     "face": {
@@ -50853,6 +50875,72 @@
     "willpower": 5,
     "color": [
       "Sapphire"
+    ]
+  },
+  "37/P3-EN-7": {
+    "id": "37/P3-EN-7",
+    "face": {
+      "front": {
+        "name": "Belle - Apprentice Inventor",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/37_529afcda1f34e739ac9e3d9706d732f232a0079b.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belle - Apprentice Inventor",
+    "type": "Character",
+    "cost": 3,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "40/P3-EN-9": {
+    "id": "40/P3-EN-9",
+    "face": {
+      "front": {
+        "name": "Beast - Gracious Prince",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/40_4aaa4b5c9966aebb9625e996be936aca338989df.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beast - Gracious Prince",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "41/P3-EN-4": {
+    "id": "41/P3-EN-4",
+    "face": {
+      "front": {
+        "name": "Belle - Accomplished Mystic",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/41_f8ff787532a72898c1b75f24acc5b431ae68da59.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belle - Accomplished Mystic",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
     ]
   }
 }
