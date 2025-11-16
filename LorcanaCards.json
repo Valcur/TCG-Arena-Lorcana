@@ -50899,6 +50899,208 @@
       "Sapphire"
     ]
   },
+  "38/P3-EN-7": {
+    "id": "38/P3-EN-7",
+    "face": {
+      "front": {
+        "name": "Mulan - Disguised Soldier",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/promo3/38_6ecb0f1c83f2a12d7fbdc578b31fff2883a734e6.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Disguised Soldier",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Steel"
+    ]
+  },
+  "1/C2-EN-9": {
+    "id": "1/C2-EN-9",
+    "face": {
+      "front": {
+        "name": "Pegasus - Gift for Hercules",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/challenge2/1_14759a518d51a11653eb125ed741e52ac648cac0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pegasus - Gift for Hercules",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "2/C2-EN-7": {
+    "id": "2/C2-EN-7",
+    "face": {
+      "front": {
+        "name": "Elsa - Ice Maker",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/challenge2/2_f5b9e8b486e1abb86b3a1ac69e114f075f299965.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elsa - Ice Maker",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amethyst",
+      "Sapphire"
+    ]
+  },
+  "3/C2-EN-8": {
+    "id": "3/C2-EN-8",
+    "face": {
+      "front": {
+        "name": "Mulan - Charging Ahead",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/challenge2/3_9367757ea03480a9aeab58ad1816f55acb53459e.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Charging Ahead",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Special",
+    "lore": 0,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Ruby",
+      "Steel"
+    ]
+  },
+  "4/C2-EN-6": {
+    "id": "4/C2-EN-6",
+    "face": {
+      "front": {
+        "name": "Simba - Pride Protector",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/challenge2/4_aab2a1eb45417844fc433e302037ab6a61179580.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Simba - Pride Protector",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "5/C2-EN-9": {
+    "id": "5/C2-EN-9",
+    "face": {
+      "front": {
+        "name": "Pegasus - Gift for Hercules",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://api.lorcana.ravensburger.com/images/en/challenge2/5_3da76301dd582812f5e397f290df169ab59c5683.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pegasus - Gift for Hercules",
+    "type": "Character",
+    "cost": 1,
+    "rarity": "Special",
+    "lore": 1,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "6/C2-EN-7": {
+    "id": "6/C2-EN-7",
+    "face": {
+      "front": {
+        "name": "Elsa - Ice Maker",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://api.lorcana.ravensburger.com/images/en/challenge2/6_108ebdd6233ebdf6601c91552efb74fe8e3f24bc.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elsa - Ice Maker",
+    "type": "Character",
+    "cost": 7,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amethyst",
+      "Sapphire"
+    ]
+  },
+  "7/C2-EN-8": {
+    "id": "7/C2-EN-8",
+    "face": {
+      "front": {
+        "name": "Mulan - Charging Ahead",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://api.lorcana.ravensburger.com/images/en/challenge2/7_6fe67451f9a47f0db3bb1c4b615187f4ec6ca290.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulan - Charging Ahead",
+    "type": "Character",
+    "cost": 4,
+    "rarity": "Special",
+    "lore": 0,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Ruby",
+      "Steel"
+    ]
+  },
+  "8/C2-EN-6": {
+    "id": "8/C2-EN-6",
+    "face": {
+      "front": {
+        "name": "Simba - Pride Protector",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://api.lorcana.ravensburger.com/images/en/challenge2/8_8bdef61ee12642a63802b449c651e9085275b0ed.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Simba - Pride Protector",
+    "type": "Character",
+    "cost": 5,
+    "rarity": "Special",
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
   "40/P3-EN-9": {
     "id": "40/P3-EN-9",
     "face": {
