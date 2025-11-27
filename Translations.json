@@ -1,0 +1,9 @@
+{
+    "fr": {
+        "type": {
+            "Character": "Personage",
+            "Item": "Objet",
+            "Location": "Maison"
+        }
+    }
+}
