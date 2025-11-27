@@ -119,5 +119,5 @@
         "cardBack": "https://i.imgur.com/rlFq55B.png",
         "cardBackColor": "#0c0f15"
     },
-    "translations": "https://valcur.github.io/TCG-Arena-Lorcana/Translations.json"
+    "translationsUrl": "https://valcur.github.io/TCG-Arena-Lorcana/Translations.json"
 }
