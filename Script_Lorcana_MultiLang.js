@@ -42,7 +42,7 @@ async function modifyJsonFile(outputFilePath) {
         id: cardId,
         face: {
           front: {
-            name: c.fullName,
+            name: { en: c.fullName },
             type: c.type,
             cost: c.cost,
             image: {
@@ -51,7 +51,7 @@ async function modifyJsonFile(outputFilePath) {
             isHorizontal: c.type === "Location"
           }
         },
-        name: c.fullName,
+        name: { en: c.fullName },
         type: c.type,
         cost: c.cost,
         rarity: c.rarity,
@@ -79,6 +79,8 @@ async function modifyJsonFile(outputFilePath) {
       if (result[cardId]) {
         // La carte existe → on ajoute l’image FR
         result[cardId].face.front.image.fr = c.images.full;
+        result[cardId].face.front.name.fr = c.fullName;
+        result[cardId].name.fr = c.fullName;
       } else {
         // Carte FR sans version EN → warning
         console.log(`⚠️ FR card not found in EN: ${cardId} (${c.fullName})`);
