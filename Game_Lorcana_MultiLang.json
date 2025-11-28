@@ -113,7 +113,7 @@
         ],
         "decksUrl": "https://valcur.github.io/TCG-Arena-Lorcana/LorcanaDecks.json"
     },
-    "customHelp": "translation.customHelp",
+    "customHelp": "translations.customHelp",
     "cards": {
         "dataUrl": "https://valcur.github.io/TCG-Arena-Lorcana/LorcanaCards_MultiLang.json",
         "cardBack": "https://i.imgur.com/rlFq55B.png",
