@@ -28,7 +28,8 @@
     "willpower": 4,
     "color": [
       "Amber"
-    ]
+    ],
+    "isToken": true
   },
   "2/204-EN-1": {
     "id": "2/204-EN-1",

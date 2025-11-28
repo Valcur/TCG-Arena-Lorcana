@@ -17,7 +17,7 @@
     "gameplay": {
         "Classic": {
             "mulligan": {
-                "info": "translations.gameInfo",
+                "info": "translations.mulliganInfo",
                 "startingHandSize": 7,
                 "drawNewSelectedCards": true
             },
