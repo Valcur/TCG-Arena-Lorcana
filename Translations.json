@@ -1,4 +1,10 @@
 {
+    "en": {
+        "Big stuffs": {
+            "translations.customHelp": "To put a card in your inkwell, drag and drop the card in the inkwell area.",
+            "translations.gameInfo": "You put as many as you want of the seven cards in your hand to the bottom of your deck then draw the same number of new cards as you put down from the top of your deck."
+        }
+    },
     "fr": {
         "Deck - Card types": {
             "Character": "Personage",
@@ -11,8 +17,15 @@
             "Amethyst": "Améthyste",
             "Emerald": "Emeraude",
             "Ruby": "Rubi",
-            "Saphire": "Saphire",
+            "Sapphire": "Saphire",
             "Steel": "Acier"
+        },
+        "Deck - Others": {
+            "cost": "cout"
+        },
+        "Big stuffs": {
+            "translations.customHelp": "Pour encrer une carte, drag and drop la carte dans la zone d'encrage.",
+            "translations.gameInfo": "Vous pouvez mettre jusqu'à 7 cartes au dessous de votre deck et repiocher le même nombre."
         }
     }
 }
