@@ -1,9 +1,18 @@
 {
     "fr": {
-        "type": {
+        "Deck - Card types": {
             "Character": "Personage",
             "Item": "Objet",
             "Location": "Maison"
+        },
+        "Deck - Card color": {
+            "color": "Couleur",
+            "Amber": "Ambre",
+            "Amethyst": "Améthyste",
+            "Emerald": "Emeraude",
+            "Ruby": "Rubi",
+            "Saphire": "Saphire",
+            "Steel": "Acier"
         }
     }
 }
