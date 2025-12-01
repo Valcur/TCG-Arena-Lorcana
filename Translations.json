@@ -24,11 +24,11 @@
             "cost": "coût",
             "rarity": "rareté",
             "lore": "lore",
-            "stregnth": "force",
+            "strength": "force",
             "willpower": "volonté"
         },
         "Gameplay": {
-            "classic": "Classique"
+            "Classic": "Classique"
         },
         "Big stuffs": {
             "translations.customHelp": "Pour encrer une carte, drag and drop la carte dans la zone d'encrage.",
