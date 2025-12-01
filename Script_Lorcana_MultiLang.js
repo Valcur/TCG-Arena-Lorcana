@@ -54,7 +54,7 @@ async function modifyJsonFile(outputFilePath) {
         name: { en: c.fullName },
         type: c.type,
         cost: c.cost,
-        rarity: c.rarity,
+        rarity: { en: c.rarity },
         lore: c.lore,
         strength: c.strength,
         willpower: c.willpower,
@@ -81,6 +81,7 @@ async function modifyJsonFile(outputFilePath) {
         result[cardId].face.front.image.fr = c.images.full;
         result[cardId].face.front.name.fr = c.fullName;
         result[cardId].name.fr = c.fullName;
+        result[cardId].rarity.fr = c.rarity;
       } else {
         // Carte FR sans version EN → warning
         console.log(`⚠️ FR card not found in EN: ${cardId} (${c.fullName})`);

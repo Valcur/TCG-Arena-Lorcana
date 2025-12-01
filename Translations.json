@@ -15,13 +15,20 @@
             "color": "Couleur",
             "Amber": "Ambre",
             "Amethyst": "Améthyste",
-            "Emerald": "Emeraude",
-            "Ruby": "Rubi",
-            "Sapphire": "Saphire",
+            "Emerald": "Émeraude",
+            "Ruby": "Rubis",
+            "Sapphire": "Saphir",
             "Steel": "Acier"
         },
         "Deck - Others": {
-            "cost": "cout"
+            "cost": "coût",
+            "rarity": "rareté",
+            "lore": "lore",
+            "stregnth": "force",
+            "willpower": "volonté"
+        },
+        "Gameplay": {
+            "classic": "Classique"
         },
         "Big stuffs": {
             "translations.customHelp": "Pour encrer une carte, drag and drop la carte dans la zone d'encrage.",
