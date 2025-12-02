@@ -9,7 +9,8 @@
         "Deck - Card types": {
             "Character": "Personage",
             "Item": "Objet",
-            "Location": "Maison"
+            "Location": "Lieu",
+            "Action": "Action"
         },
         "Deck - Card color": {
             "color": "Couleur",
@@ -30,8 +31,13 @@
         "Gameplay": {
             "Classic": "Classique"
         },
+        "Sections": {
+            "Main": "Principale",
+            "Items": "Objets",
+            "Inkwell": "Réserve d'encre"
+        },
         "Big stuffs": {
-            "translations.customHelp": "Pour encrer une carte, drag and drop la carte dans la zone d'encrage.",
+            "translations.customHelp": "Pour encrer une carte, drag and drop la carte dans la réserve d'encre.",
             "translations.mulliganInfo": "Vous pouvez mettre jusqu'à 7 cartes au dessous de votre deck et repiocher le même nombre."
         }
     }
