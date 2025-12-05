@@ -118,5 +118,6 @@
         "dataUrl": "https://valcur.github.io/TCG-Arena-Lorcana/LorcanaCards.json",
         "cardBack": "https://i.imgur.com/rlFq55B.png",
         "cardBackColor": "#0c0f15"
-    }
+    },
+    "translationsUrl": "https://valcur.github.io/TCG-Arena-Lorcana/Translations.json"
 }

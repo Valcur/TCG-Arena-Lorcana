@@ -1,5 +1,5 @@
 {
-    "available": ["en", "fr"],
+    "additionalLanguages": ["fr"],
     "en": {
         "Big stuffs": {
             "translations.customHelp": "To put a card in your inkwell, drag and drop the card in the inkwell area.",

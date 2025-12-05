@@ -1,13 +1,14 @@
 const fs = require('fs');
 const https = require('https');
 
-// URL du fichier JSON
-const url = 'https://lorcanajson.org/files/current/en/allCards.json';
+// URLs
+const urlEN = 'https://lorcanajson.org/files/current/en/allCards.json';
+const urlFR = 'https://lorcanajson.org/files/current/fr/allCards.json';
 
-// Fonction pour récupérer le JSON depuis une URL
+// Téléchargement simple JSON
 function fetchJSON(url) {
   return new Promise((resolve, reject) => {
-    https.get(url, (res) => {
+    https.get(url, res => {
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => resolve(JSON.parse(data)));
@@ -15,30 +16,45 @@ function fetchJSON(url) {
   });
 }
 
-// Fonction pour transformer et sauvegarder les cartes
 async function modifyJsonFile(outputFilePath) {
   try {
-    const jsonObject = await fetchJSON(url);
+    console.log("📥 Fetch EN...");
+    const jsonEN = await fetchJSON(urlEN);
+
+    console.log("📥 Fetch FR...");
+    const jsonFR = await fetchJSON(urlFR);
+
     const result = {};
     let errorCount = 0;
 
-    jsonObject.cards.forEach(c => {
+    console.log("🔧 Building EN cards…");
+
+    jsonEN.cards.forEach(c => {
       const cardId = c.fullIdentifier.replace(/ /g, '').replace(/•/g, '-');
+
+      if (!c.color || c.color === "") {
+        // cartes coop → on ignore
+        errorCount++;
+        return;
+      }
+
       const newCard = {
         id: cardId,
         face: {
           front: {
-            name: c.fullName,
+            name: { en: c.fullName },
             type: c.type,
             cost: c.cost,
-            image: c.images.full,
+            image: {
+              en: c.images.full
+            }, // EN
             isHorizontal: c.type === "Location"
           }
         },
-        name: c.fullName,
+        name: { en: c.fullName },
         type: c.type,
         cost: c.cost,
-        rarity: c.rarity,
+        rarity: { en: c.rarity },
         lore: c.lore,
         strength: c.strength,
         willpower: c.willpower,
@@ -46,25 +62,42 @@ async function modifyJsonFile(outputFilePath) {
       };
 
       if (result[cardId]) {
-        console.log(`Error: card ${c.fullName} already exists with id ${cardId}`);
-        errorCount += 1;
-      } else if (c.color && c.color !== "") {
-        result[cardId] = newCard;
+        console.log(`⚠️ Duplicate EN card: ${c.fullName} (${cardId})`);
+        errorCount++;
       } else {
-        // Probablement des cartes coop
-        errorCount += 1;
+        result[cardId] = newCard;
       }
     });
 
-    // Sauvegarder le nouvel objet JSON
+    console.log("🇫🇷 Adding French images…");
+
+    let frOnlyWarnings = 0;
+
+    jsonFR.cards.forEach(c => {
+      const cardId = c.fullIdentifier.replace(/ /g, '').replace(/•/g, '-').replace("-FR-", "-EN-");
+
+      if (result[cardId]) {
+        // La carte existe → on ajoute l’image FR
+        result[cardId].face.front.image.fr = c.images.full;
+        result[cardId].face.front.name.fr = c.fullName;
+        result[cardId].name.fr = c.fullName;
+        result[cardId].rarity.fr = c.rarity;
+      } else {
+        // Carte FR sans version EN → warning
+        console.log(`⚠️ FR card not found in EN: ${cardId} (${c.fullName})`);
+        frOnlyWarnings++;
+      }
+    });
+
     fs.writeFileSync(outputFilePath, JSON.stringify(result, null, 2), 'utf8');
-    console.log(`Saved ${Object.keys(result).length} cards (failed for ${errorCount})`);
+
+    console.log(`\n✅ Saved ${Object.keys(result).length} cards`);
+    console.log(`⚠️ EN errors: ${errorCount}`);
+    console.log(`⚠️ FR-only warnings: ${frOnlyWarnings}`);
 
   } catch (err) {
-    console.error('Erreur lors du traitement ou du fetch:', err);
+    console.error('❌ Error:', err);
   }
 }
 
-// Appel de la fonction
-const outputFilePath = 'LorcanaCards.json';
-modifyJsonFile(outputFilePath);
+modifyJsonFile('LorcanaCards.json');
