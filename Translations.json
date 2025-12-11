@@ -4,6 +4,9 @@
         "Big stuffs": {
             "translations.customHelp": "To put a card in your inkwell, drag and drop the card in the inkwell area.",
             "translations.mulliganInfo": "You put as many as you want of the seven cards in your hand to the bottom of your deck then draw the same number of new cards as you put down from the top of your deck."
+        },
+        "Gameplay": {
+            "f.inf": "Infinity"
         }
     },
     "fr": {
@@ -30,7 +33,8 @@
             "willpower": "volonté"
         },
         "Gameplay": {
-            "Classic": "Classique"
+            "Classic": "Classique",
+            "f.inf": "Infinity"
         },
         "Sections": {
             "Main": "Principale",
