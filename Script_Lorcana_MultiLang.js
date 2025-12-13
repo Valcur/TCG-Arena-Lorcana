@@ -41,10 +41,10 @@ async function modifyJsonFile(outputFilePath) {
       const legality = []
       const f = c.allowedInFormats
       if (f?.Core?.allowed === true) {
-        legality.push("Classic")
+        legality.push("Core")
       }
       if (f?.Infinity?.allowed === true) {
-        legality.push("f.inf")
+        legality.push("INF")
       }
 
       const newCard = {
