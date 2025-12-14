@@ -21,15 +21,17 @@
         ],
         "deckRulesets": {
             "Core": {
-                "total": {
+                "general": {
                     "min": 56,
-                    "max": 56
+                    "max": 56,
+                    "maxPerCard": 4
                 },
                 "categories": [
                     {
                         "category": "Runes",
                         "min": 12,
-                        "max": 12
+                        "max": 12,
+                        "maxPerCard": 1
                     },
                     {
                         "category": "Character",
