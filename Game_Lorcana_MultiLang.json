@@ -11,7 +11,12 @@
             {
                 "title": "Classic",
                 "gameplay": "Classic",
-                "deckRuleset": "Core"
+                "deckRuleset": "Classic"
+            },
+            {
+                "title": "f.cor",
+                "gameplay": "Classic",
+                "deckRuleset": "COR"
             },
             {
                 "title": "f.inf",
@@ -20,7 +25,7 @@
             }
         ],
         "deckRulesets": {
-            "Core": {
+            "COR": {
                 "general": {
                     "min": 56,
                     "max": 56,
@@ -57,6 +62,12 @@
                         "max": 1
                     }
                 ]
+            },
+            "Classic": {
+                "total": {
+                    "min": 56,
+                    "max": 56
+                }
             }
         }
     },
