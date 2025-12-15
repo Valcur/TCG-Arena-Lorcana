@@ -64,6 +64,7 @@
                 ]
             },
             "Classic": {
+                "reversedLegality": true,
                 "total": {
                     "min": 56,
                     "max": 56
