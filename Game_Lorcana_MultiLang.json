@@ -11,11 +11,6 @@
             {
                 "title": "Classic",
                 "gameplay": "Classic",
-                "deckRuleset": "Classic"
-            },
-            {
-                "title": "f.cor",
-                "gameplay": "Classic",
                 "deckRuleset": "COR"
             },
             {
@@ -27,47 +22,14 @@
         "deckRulesets": {
             "COR": {
                 "general": {
-                    "min": 56,
-                    "max": 56,
+                    "min": 60,
                     "maxPerCard": 4
-                },
-                "categories": [
-                    {
-                        "category": "Action",
-                        "min": 12,
-                        "max": 12,
-                        "maxPerCard": 1
-                    },
-                    {
-                        "category": "Character",
-                        "min": 0,
-                        "max": 1
-                    }
-                ]
+                }
             },
             "INF": {
-                "total": {
-                    "min": 56,
-                    "max": 56
-                },
-                "categories": [
-                    {
-                        "category": "Runes",
-                        "min": 12,
-                        "max": 12
-                    },
-                    {
-                        "category": "Character",
-                        "min": 0,
-                        "max": 1
-                    }
-                ]
-            },
-            "Classic": {
-                "reversedLegality": true,
-                "total": {
-                    "min": 56,
-                    "max": 56
+                "general": {
+                    "min": 60,
+                    "maxPerCard": 4
                 }
             }
         }
