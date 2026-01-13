@@ -21,12 +21,14 @@
         ],
         "deckRulesets": {
             "COR": {
+                "checkCardLegality": true,
                 "general": {
                     "min": 60,
                     "maxPerCard": 4
                 }
             },
             "INF": {
+                "checkCardLegality": true,
                 "general": {
                     "min": 60,
                     "maxPerCard": 4
