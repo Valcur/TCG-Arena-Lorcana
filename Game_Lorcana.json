@@ -90,6 +90,7 @@
                         "noAutoPayTo": "true",
                         "isHorizontalAllowed": false,
                         "displayedTitle": "Inkwell",
+                        "isGroupForbidden": true,
                         "showHiddenCardInHistory": true
                     },
                     "Items": {
