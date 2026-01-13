@@ -38,13 +38,13 @@ async function modifyJsonFile(outputFilePath) {
         return;
       }
 
-      const legality = []
+      const legality = {}
       const f = c.allowedInFormats
       if (f?.Core?.allowed === true) {
-        legality.push("Core")
+        legality.COR = true
       }
       if (f?.Infinity?.allowed === true) {
-        legality.push("INF")
+        legality.INF = true
       }
 
       const newCard = {
@@ -68,7 +68,7 @@ async function modifyJsonFile(outputFilePath) {
         strength: c.strength,
         willpower: c.willpower,
         color: c.colors ?? [c.color],
-        legality: legality
+        _legal: legality
       };
 
       if (result[cardId]) {
