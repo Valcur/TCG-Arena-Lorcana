@@ -115,7 +115,8 @@
                         "isHorizontalAllowed": false,
                         "displayedTitle": "Inkwell",
                         "isGroupForbidden": true,
-                        "showHiddenCardInHistory": true
+                        "showHiddenCardInHistory": true,
+                        "logWhenPlayed": true
                     },
                     "Items": {
                         "title": "Items",
