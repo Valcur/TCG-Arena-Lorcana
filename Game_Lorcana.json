@@ -97,7 +97,7 @@
                         "title": "Items",
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "START",
+                        "alignment": "END",
                         "isHorizontalAllowed": true
                     }
                 }
