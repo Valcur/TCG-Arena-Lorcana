@@ -79644,6 +79644,36 @@
       "Amber"
     ]
   },
+  "2/204-EN-11": {
+    "id": "2/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lilo - Snow Artist"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/2_753a968f144bd419bd33df7b359912c74318dad4.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lilo - Snow Artist"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
   "3/204-EN-11": {
     "id": "3/204-EN-11",
     "face": {
@@ -79700,6 +79730,36 @@
     "lore": 2,
     "strength": 5,
     "willpower": 6,
+    "color": [
+      "Amber"
+    ]
+  },
+  "5/204-EN-11": {
+    "id": "5/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tiana - Warm and Happy"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/5_3a99e63297dd2ac0ab190a571a46bb0fba925333.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tiana - Warm and Happy"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 4,
     "color": [
       "Amber"
     ]
@@ -79854,6 +79914,66 @@
       "Amber"
     ]
   },
+  "11/204-EN-11": {
+    "id": "11/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chief Powhatan - Protective Leader"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/11_b53b7469f17be2520f47fb85a9359050c20270f5.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chief Powhatan - Protective Leader"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
+  "14/204-EN-11": {
+    "id": "14/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Cobra Bubbles - Dedicated Official"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/14_fff59b1f26738ae26829c24d9455d371645012e6.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Cobra Bubbles - Dedicated Official"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Amber"
+    ]
+  },
   "15/204-EN-11": {
     "id": "15/204-EN-11",
     "face": {
@@ -79910,6 +80030,36 @@
     "lore": 1,
     "strength": 2,
     "willpower": 3,
+    "color": [
+      "Amber"
+    ]
+  },
+  "17/204-EN-11": {
+    "id": "17/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lilo - Rock Star"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/17_ad8dccd68b53f5d8437138fb55b1d8fb124a7e93.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lilo - Rock Star"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 5,
     "color": [
       "Amber"
     ]
@@ -80094,6 +80244,36 @@
       "Amber"
     ]
   },
+  "24/204-EN-11": {
+    "id": "24/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bambi - Ethereal Fawn"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/24_c79c9f3d6a62699e94b9d8748e224d5daff3d96a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bambi - Ethereal Fawn"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
   "25/204-EN-11": {
     "id": "25/204-EN-11",
     "face": {
@@ -80120,6 +80300,36 @@
     "lore": 1,
     "strength": 2,
     "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
+  "26/204-EN-11": {
+    "id": "26/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Widow Tweed - Kindly Soul"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/26_da64f60ee038aeece4cc4ad351a720bbbf3e778e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Widow Tweed - Kindly Soul"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 8,
     "color": [
       "Amber"
     ]
@@ -80651,6 +80861,36 @@
       "Amethyst"
     ]
   },
+  "47/204-EN-11": {
+    "id": "47/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Morgana Macawber - Reformed Spellcaster"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/47_c328e9c1b19d7a15a623e7a872c15548ef2c5089.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Morgana Macawber - Reformed Spellcaster"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 1,
+    "strength": 6,
+    "willpower": 6,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "48/204-EN-11": {
     "id": "48/204-EN-11",
     "face": {
@@ -80741,6 +80981,66 @@
       "Amethyst"
     ]
   },
+  "51/204-EN-11": {
+    "id": "51/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kristoff - Icy Explorer"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/51_b2218a378ff827a2fb6ef360e54a5b81854d53dd.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kristoff - Icy Explorer"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "52/204-EN-11": {
+    "id": "52/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Anna - Little Sister"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/52_c5284192e7d0ef2c2a829355d81880de2e56f547.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Anna - Little Sister"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "53/204-EN-11": {
     "id": "53/204-EN-11",
     "face": {
@@ -80767,6 +81067,36 @@
     "lore": 2,
     "strength": 5,
     "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "55/204-EN-11": {
+    "id": "55/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Christopher Robin - Joining the Fun"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/55_a858de14558b5308d12beeb688208b4560da515d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Christopher Robin - Joining the Fun"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 3,
     "color": [
       "Amethyst"
     ]
@@ -81109,6 +81439,66 @@
       "Amethyst"
     ]
   },
+  "69/204-EN-11": {
+    "id": "69/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mulan - Resourceful Recruit"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/69_91df9e7415098be058050f459f22463a3213fb20.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mulan - Resourceful Recruit"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 0,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "70/204-EN-11": {
+    "id": "70/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Stitch - Naughty Experiment"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/70_6947fe531f92b44d20abb7ca72cf283751728124.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Stitch - Naughty Experiment"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
   "72/204-EN-11": {
     "id": "72/204-EN-11",
     "face": {
@@ -81165,6 +81555,36 @@
     "lore": 2,
     "strength": 4,
     "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "74/204-EN-11": {
+    "id": "74/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chien-Po - Snow Warrior"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/74_ffea101a809a9655caf2e44112342a8a00731b4a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chien-Po - Snow Warrior"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 3,
+    "strength": 7,
+    "willpower": 7,
     "color": [
       "Emerald"
     ]
@@ -81229,6 +81649,66 @@
       "Emerald"
     ]
   },
+  "81/204-EN-11": {
+    "id": "81/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Aladdin - On the Edge of Adventure"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/81_7c75dd312cbccf9c24d704faaa17039b51409ca6.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Aladdin - On the Edge of Adventure"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "82/204-EN-11": {
+    "id": "82/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mushu - Sneaky Dragon"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/82_39d0bbc2b30477843d05a8c3506d2a8fc8bf4c52.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mushu - Sneaky Dragon"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 3,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
   "83/204-EN-11": {
     "id": "83/204-EN-11",
     "face": {
@@ -81254,6 +81734,96 @@
     },
     "lore": 2,
     "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "84/204-EN-11": {
+    "id": "84/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Copper - Champion of the Forest"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/84_846e0a27ed1fc273c325d7d98688d2d6745e222f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Copper - Champion of the Forest"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "86/204-EN-11": {
+    "id": "86/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Vixey - Forest Friend"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/86_5fdc740c56e5a416861aabde0e4d29cd03718ebe.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Vixey - Forest Friend"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "88/204-EN-11": {
+    "id": "88/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Minnie Mouse - Mrs. Cratchit"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/88_105c8642cf2dfe44a5ae18e2afd4cccb729ddfe2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Minnie Mouse - Mrs. Cratchit"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 3,
     "willpower": 4,
     "color": [
       "Emerald"
@@ -81344,6 +81914,36 @@
     },
     "lore": 2,
     "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "92/204-EN-11": {
+    "id": "92/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tod - Knows All the Tricks"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/92_c28f305f63ff7a56ee5df4fb5a1ac49d1cca6bd0.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tod - Knows All the Tricks"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 2,
+    "strength": 6,
     "willpower": 6,
     "color": [
       "Emerald"
@@ -81455,6 +82055,33 @@
     "cost": 4,
     "rarity": {
       "en": "Rare"
+    },
+    "color": [
+      "Emerald"
+    ]
+  },
+  "97/204-EN-11": {
+    "id": "97/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Education or Elimination"
+        },
+        "type": "Action",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/97_e4a765f635601995d7827b0800826a8338a3fa4e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Education or Elimination"
+    },
+    "type": "Action",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
     },
     "color": [
       "Emerald"
@@ -81628,6 +82255,36 @@
       "Ruby"
     ]
   },
+  "108/204-EN-11": {
+    "id": "108/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mulan - Ready for Battle"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/108_ef551341cc0f7d7ba40c1e9b2d78b981a4104a8c.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mulan - Ready for Battle"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
   "109/204-EN-11": {
     "id": "109/204-EN-11",
     "face": {
@@ -81658,6 +82315,36 @@
       "Ruby"
     ]
   },
+  "111/204-EN-11": {
+    "id": "111/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Liquidator - Iced Over"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/111_3b70b2d1d364c929ea542a35188fa9fbf1cbb31d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Liquidator - Iced Over"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 0,
+    "strength": 4,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
   "112/204-EN-11": {
     "id": "112/204-EN-11",
     "face": {
@@ -81683,6 +82370,66 @@
     },
     "lore": 1,
     "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "113/204-EN-11": {
+    "id": "113/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Iduna - Alarmed Queen"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/113_7e565ba5b76e6ec52d5b880b0a54425c0685c97e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Iduna - Alarmed Queen"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "114/204-EN-11": {
+    "id": "114/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Agnarr - King of Arendelle"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/114_ae155839a2e035cd78f363379043cb2c6f71347d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Agnarr - King of Arendelle"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 3,
     "willpower": 4,
     "color": [
       "Ruby"
@@ -81748,6 +82495,36 @@
       "Ruby"
     ]
   },
+  "117/204-EN-11": {
+    "id": "117/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Hercules - Spectral Demigod"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/117_4e9858ac5f9ad17952668fe21e91cbf9982650b3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Hercules - Spectral Demigod"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
   "118/204-EN-11": {
     "id": "118/204-EN-11",
     "face": {
@@ -81774,6 +82551,66 @@
     "lore": 1,
     "strength": 3,
     "willpower": 1,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "119/204-EN-11": {
+    "id": "119/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Slushy - Glacial Guster"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/119_55a0365b649f9cf23a9f9334e81202fb3840f7b6.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Slushy - Glacial Guster"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "120/204-EN-11": {
+    "id": "120/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Goofy - Marley's Clumsy Spirit"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/120_de8877157fa42adf8ae5cc36907e4b5bb572049a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Goofy - Marley's Clumsy Spirit"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
     "color": [
       "Ruby"
     ]
@@ -81925,6 +82762,33 @@
       "Ruby"
     ]
   },
+  "129/204-EN-11": {
+    "id": "129/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Marching Off to Battle"
+        },
+        "type": "Action",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/129_efaf52d553c5ec7ccdbd8e444efb153da5081927.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Marching Off to Battle"
+    },
+    "type": "Action",
+    "cost": 4,
+    "rarity": {
+      "en": "Common"
+    },
+    "color": [
+      "Ruby"
+    ]
+  },
   "130/204-EN-11": {
     "id": "130/204-EN-11",
     "face": {
@@ -82033,6 +82897,35 @@
       "Ruby"
     ]
   },
+  "134/204-EN-11": {
+    "id": "134/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Scrooge's Counting House - Ebenezer's Office"
+        },
+        "type": "Location",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/134_71b29616c0464fe11dceac2b59a50778b7e17a37.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Scrooge's Counting House - Ebenezer's Office"
+    },
+    "type": "Location",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
   "135/204-EN-11": {
     "id": "135/204-EN-11",
     "face": {
@@ -82089,6 +82982,66 @@
     "willpower": 6,
     "color": [
       "Ruby"
+    ]
+  },
+  "137/204-EN-11": {
+    "id": "137/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Roo - Little Helper"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/137_31e4190639abf014ce9010eadfffa18dfc4e2155.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Roo - Little Helper"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 1,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "138/204-EN-11": {
+    "id": "138/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kanga - Peaceful Gatherer"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/138_74bbf68868f8ea3418716b40e9fd7a277e78044b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kanga - Peaceful Gatherer"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
     ]
   },
   "139/204-EN-11": {
@@ -82177,6 +83130,66 @@
     "lore": 2,
     "strength": 2,
     "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "142/204-EN-11": {
+    "id": "142/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sina - Vigilant Parent"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/142_3194d0286645e9b64d18c7a37a1e1d73e017bab3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sina - Vigilant Parent"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "144/204-EN-11": {
+    "id": "144/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Daisy Duck - Isabel"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/144_2bdf82e0aac0201bc2d810fbf842e410472a81e3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Daisy Duck - Isabel"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 3,
+    "strength": 2,
+    "willpower": 2,
     "color": [
       "Sapphire"
     ]
@@ -82387,6 +83400,36 @@
     "lore": 2,
     "strength": 4,
     "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "153/204-EN-11": {
+    "id": "153/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Splatter Phoenix - Rejected Artist"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/153_e0a133c377c859b0635d0100ed53771ceeae87f9.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Splatter Phoenix - Rejected Artist"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 2,
     "color": [
       "Sapphire"
     ]
@@ -82675,6 +83718,60 @@
     },
     "type": "Action",
     "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "165/204-EN-11": {
+    "id": "165/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Wipe Out!"
+        },
+        "type": "Action",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/165_2d63f75a73b132faef609397aa9efab7523d2212.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Wipe Out!"
+    },
+    "type": "Action",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "166/204-EN-11": {
+    "id": "166/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Blue Smoke"
+        },
+        "type": "Item",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/166_eda537b464bab67a8cfe8cb67bc7626e6b70764e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Blue Smoke"
+    },
+    "type": "Item",
+    "cost": 1,
     "rarity": {
       "en": "Common"
     },
@@ -83060,6 +84157,36 @@
       "Steel"
     ]
   },
+  "182/204-EN-11": {
+    "id": "182/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Duke Weaselton - Surly Crook"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/182_624d157cf6643b829b13d0f684f9d895ad01c9b3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Duke Weaselton - Surly Crook"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
   "184/204-EN-11": {
     "id": "184/204-EN-11",
     "face": {
@@ -83180,6 +84307,36 @@
       "Steel"
     ]
   },
+  "190/204-EN-11": {
+    "id": "190/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Grand Councilwoman - Galactic Authority"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/190_9ebd5108d2d6642721ffdb2e796b19f774116dd2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Grand Councilwoman - Galactic Authority"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 3,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
   "191/204-EN-11": {
     "id": "191/204-EN-11",
     "face": {
@@ -83266,6 +84423,66 @@
     "lore": 2,
     "strength": 3,
     "willpower": 6,
+    "color": [
+      "Steel"
+    ]
+  },
+  "194/204-EN-11": {
+    "id": "194/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Judy Hopps - Snowball Patrol"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/194_aad83c5d00e2018635d8f825108f1ddb469e8a0d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Judy Hopps - Snowball Patrol"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ]
+  },
+  "195/204-EN-11": {
+    "id": "195/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lilo - Bundled Up"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/195_d87db74760ed0da6d1f2c4f284e84c7c381779e1.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lilo - Bundled Up"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 2,
     "color": [
       "Steel"
     ]
@@ -83403,6 +84620,92 @@
     },
     "color": [
       "Steel"
+    ]
+  },
+  "203/204-EN-11": {
+    "id": "203/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Containment Unit"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/203_d5ecd81c286c8315dc98c03e3efeecef93ee5693.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Containment Unit"
+    },
+    "type": "Item",
+    "cost": 2,
+    "rarity": {
+      "en": "Rare"
+    },
+    "color": [
+      "Steel"
+    ]
+  },
+  "204/204-EN-11": {
+    "id": "204/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Darkwing Tower - Icy Headquarters"
+        },
+        "type": "Location",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/204_33f4586f7a8eb95186cbd7fea602dd7f8190c9e8.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Darkwing Tower - Icy Headquarters"
+    },
+    "type": "Location",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "willpower": 8,
+    "color": [
+      "Steel"
+    ]
+  },
+  "207/204-EN-11": {
+    "id": "207/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Stitch - Carefree Snowboarder"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/207_3ba127230fa5e545904a0e9c55b584f018b67841.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Stitch - Carefree Snowboarder"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Amber"
     ]
   },
   "210/204-EN-11": {
@@ -83552,6 +84855,36 @@
       "Amethyst"
     ]
   },
+  "230/204-EN-11": {
+    "id": "230/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tod - Knows All the Tricks"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/230_b7e8c0b77dd13291ddb501be94bbc569f2a62567.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tod - Knows All the Tricks"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 6,
+    "willpower": 6,
+    "color": [
+      "Emerald"
+    ]
+  },
   "231/204-EN-11": {
     "id": "231/204-EN-11",
     "face": {
@@ -83577,6 +84910,36 @@
     },
     "color": [
       "Emerald"
+    ]
+  },
+  "233/204-EN-11": {
+    "id": "233/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Elsa - Ice Artisan"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/233_9976ce443fc2c5d3019e2da31bc3c1e0cd4081a8.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Elsa - Ice Artisan"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Ruby"
     ]
   },
   "241/204-EN-11": {
