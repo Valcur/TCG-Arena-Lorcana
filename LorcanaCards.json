@@ -79944,6 +79944,66 @@
       "Amber"
     ]
   },
+  "12/204-EN-11": {
+    "id": "12/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sarabi - Protecting the Pride"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/12_802ee3fe39732543a7fb7dccc630e19aabff741e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sarabi - Protecting the Pride"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "13/204-EN-11": {
+    "id": "13/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Grandmother Willow - Ancient Advisor"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/13_029a39d6457c988e3c450a7e3c49417d9b3bbca8.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Grandmother Willow - Ancient Advisor"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ]
+  },
   "14/204-EN-11": {
     "id": "14/204-EN-11",
     "face": {
@@ -80360,6 +80420,33 @@
     "lore": 3,
     "strength": 1,
     "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "28/204-EN-11": {
+    "id": "28/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Raging Storm"
+        },
+        "type": "Action",
+        "cost": 8,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/28_442af4c97e4283ec89194170368098cf5360ed61.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Raging Storm"
+    },
+    "type": "Action",
+    "cost": 8,
+    "rarity": {
+      "en": "Super Rare"
+    },
     "color": [
       "Amber"
     ]
@@ -81071,6 +81158,36 @@
       "Amethyst"
     ]
   },
+  "54/204-EN-11": {
+    "id": "54/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Space Cows - Unexpected Allies"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/54_fccbf48815f86726d808ca2d5312ac1dbb50ebff.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Space Cows - Unexpected Allies"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 3,
+    "strength": 6,
+    "willpower": 8,
+    "color": [
+      "Amethyst"
+    ]
+  },
   "55/204-EN-11": {
     "id": "55/204-EN-11",
     "face": {
@@ -81217,6 +81334,36 @@
     "lore": 1,
     "strength": 2,
     "willpower": 2,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "60/204-EN-11": {
+    "id": "60/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sven - Leaping Reindeer"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/60_f21a436d5622a2f70b2e9a04e089f7370088f03a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sven - Leaping Reindeer"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
     "color": [
       "Amethyst"
     ]
@@ -81499,6 +81646,36 @@
       "Emerald"
     ]
   },
+  "71/204-EN-11": {
+    "id": "71/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Big Mama - Clever and Calming"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/71_36fe0369fa5b26015367a45e9f0c203184fab94e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Big Mama - Clever and Calming"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
   "72/204-EN-11": {
     "id": "72/204-EN-11",
     "face": {
@@ -81619,6 +81796,96 @@
       "Emerald"
     ]
   },
+  "76/204-EN-11": {
+    "id": "76/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Boomer - Has the Beak"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/76_b4a106cb3b68bbd6786115c10ab51db196a4cba5.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Boomer - Has the Beak"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "77/204-EN-11": {
+    "id": "77/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chernabog - Unnatural Force"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/77_b172de0ee42231e882fe11ebcd1f9dba90c6bf53.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chernabog - Unnatural Force"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "78/204-EN-11": {
+    "id": "78/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dinky - Has the Brains"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/78_f45ab7f744c792eabde14713c18656455d0c7212.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dinky - Has the Brains"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ]
+  },
   "79/204-EN-11": {
     "id": "79/204-EN-11",
     "face": {
@@ -81645,6 +81912,36 @@
     "lore": 2,
     "strength": 7,
     "willpower": 7,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "80/204-EN-11": {
+    "id": "80/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Squeaks - Cozy Caterpillar"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/80_9b53598b47d965e933e7754cb43bc8c4e93950e8.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Squeaks - Cozy Caterpillar"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 4,
     "color": [
       "Emerald"
     ]
@@ -81769,6 +82066,36 @@
       "Emerald"
     ]
   },
+  "85/204-EN-11": {
+    "id": "85/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Copper - Hound Pup"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/85_a13de7b47261d332a6444d20a1644ecfa8cdcf0c.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Copper - Hound Pup"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ]
+  },
   "86/204-EN-11": {
     "id": "86/204-EN-11",
     "face": {
@@ -81795,6 +82122,36 @@
     "lore": 2,
     "strength": 1,
     "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "87/204-EN-11": {
+    "id": "87/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tod - All Alone"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/87_0b238952ecada204aff5850d7d18c0b95ec89898.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tod - All Alone"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
     "color": [
       "Emerald"
     ]
@@ -82195,6 +82552,36 @@
       "Emerald"
     ]
   },
+  "104/204-EN-11": {
+    "id": "104/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Scrooge McDuck - Ghostly Ebenezer"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/104_a2d5888471f07a25f86b34892f35c84abbeec969.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Scrooge McDuck - Ghostly Ebenezer"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
   "105/204-EN-11": {
     "id": "105/204-EN-11",
     "face": {
@@ -82221,6 +82608,36 @@
     "lore": 1,
     "strength": 2,
     "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "106/204-EN-11": {
+    "id": "106/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Taurus Bulba - Steerminator"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/106_e47007c0d6e2d522fb0706f3eefa6eef38c6fe82.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Taurus Bulba - Steerminator"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 5,
+    "willpower": 3,
     "color": [
       "Ruby"
     ]
@@ -82311,6 +82728,36 @@
     "lore": 2,
     "strength": 4,
     "willpower": 3,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "110/204-EN-11": {
+    "id": "110/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fa Zhou - Honorable Warrior"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/110_ba45180ecfa8e01c1dab755f95ff76c4e3414cd9.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fa Zhou - Honorable Warrior"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 4,
     "color": [
       "Ruby"
     ]
@@ -82645,6 +83092,36 @@
       "Ruby"
     ]
   },
+  "122/204-EN-11": {
+    "id": "122/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Olaf - Snowman of Action"
+        },
+        "type": "Character",
+        "cost": 9,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/122_5cdd5035b134f8a357da111a4ae5357146d488b0.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Olaf - Snowman of Action"
+    },
+    "type": "Character",
+    "cost": 9,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ]
+  },
   "123/204-EN-11": {
     "id": "123/204-EN-11",
     "face": {
@@ -82671,6 +83148,36 @@
     "lore": 1,
     "strength": 5,
     "willpower": 5,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "124/204-EN-11": {
+    "id": "124/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Scrooge McDuck - Ebenezer Scrooge"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/124_1ac8712e92b3ef75adb4e44a64e9fe9ae0a674e1.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Scrooge McDuck - Ebenezer Scrooge"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
     "color": [
       "Ruby"
     ]
@@ -82731,6 +83238,33 @@
     "lore": 2,
     "strength": 7,
     "willpower": 7,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "127/204-EN-11": {
+    "id": "127/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nani's Payback"
+        },
+        "type": "Action",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/127_270f73d8bdccedfac6dfc7d174669014eacc85c3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nani's Payback"
+    },
+    "type": "Action",
+    "cost": 4,
+    "rarity": {
+      "en": "Super Rare"
+    },
     "color": [
       "Ruby"
     ]
@@ -83314,6 +83848,36 @@
       "Sapphire"
     ]
   },
+  "149/204-EN-11": {
+    "id": "149/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gosalyn Mallard - Curious Child"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/149_c76aaf8414696abe0b88c4478c8c51df1da26817.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gosalyn Mallard - Curious Child"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
   "150/204-EN-11": {
     "id": "150/204-EN-11",
     "face": {
@@ -83580,6 +84144,36 @@
     "lore": 2,
     "strength": 2,
     "willpower": 3,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "159/204-EN-11": {
+    "id": "159/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mickey Mouse - Bob Cratchit"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/159_1f927c80fa25433eeb283aafd51e8f49254a9b7a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mickey Mouse - Bob Cratchit"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
     "color": [
       "Sapphire"
     ]
@@ -83917,6 +84511,36 @@
       "Steel"
     ]
   },
+  "172/204-EN-11": {
+    "id": "172/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Launchpad - Hideout Defender"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/172_c85e799c9f8552cb5bce52bccfb4a059e083433a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Launchpad - Hideout Defender"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
   "173/204-EN-11": {
     "id": "173/204-EN-11",
     "face": {
@@ -83943,6 +84567,36 @@
     "lore": 1,
     "strength": 7,
     "willpower": 6,
+    "color": [
+      "Steel"
+    ]
+  },
+  "174/204-EN-11": {
+    "id": "174/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Darkwing Duck - Crime Fighter"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/174_28e79a2685457dc0b0ea7ee499941adacf71ad56.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Darkwing Duck - Crime Fighter"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
     "color": [
       "Steel"
     ]
@@ -84187,6 +84841,36 @@
       "Steel"
     ]
   },
+  "183/204-EN-11": {
+    "id": "183/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Li Shang - Valiant Leader"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/183_45d4b7da6063aa7ee98fdb1e9f2b5d0fb854ab30.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Li Shang - Valiant Leader"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 9,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
   "184/204-EN-11": {
     "id": "184/204-EN-11",
     "face": {
@@ -84272,6 +84956,66 @@
     },
     "lore": 2,
     "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ]
+  },
+  "187/204-EN-11": {
+    "id": "187/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Angela - Night Warrior"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/187_e06c7ed9431f69f68b3129ec101b33e3c2a6d57c.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Angela - Night Warrior"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ]
+  },
+  "188/204-EN-11": {
+    "id": "188/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Darkwing Duck - Darkwarrior"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/188_f59d828e74e02cd5228cbcbd2ebb55b566d2fc3e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Darkwing Duck - Darkwarrior"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 4,
     "willpower": 5,
     "color": [
       "Steel"
@@ -84514,6 +85258,33 @@
       "Steel"
     ]
   },
+  "197/204-EN-11": {
+    "id": "197/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "The Terror That Flaps in the Night"
+        },
+        "type": "Action",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/197_5fa163ed23edd53f1e90a30fd397993f64bd40d1.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "The Terror That Flaps in the Night"
+    },
+    "type": "Action",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "color": [
+      "Steel"
+    ]
+  },
   "198/204-EN-11": {
     "id": "198/204-EN-11",
     "face": {
@@ -84622,6 +85393,33 @@
       "Steel"
     ]
   },
+  "202/204-EN-11": {
+    "id": "202/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "The Thunderquack"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/202_89b365db40f15b6bf6675fce7378a81fd8bfd955.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "The Thunderquack"
+    },
+    "type": "Item",
+    "cost": 3,
+    "rarity": {
+      "en": "Rare"
+    },
+    "color": [
+      "Steel"
+    ]
+  },
   "203/204-EN-11": {
     "id": "203/204-EN-11",
     "face": {
@@ -84676,6 +85474,66 @@
     "willpower": 8,
     "color": [
       "Steel"
+    ]
+  },
+  "205/204-EN-11": {
+    "id": "205/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tiana - Warm and Happy"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/205_8443184e5cb986452d3b62b7b7dc46dafaa77ccb.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tiana - Warm and Happy"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ]
+  },
+  "206/204-EN-11": {
+    "id": "206/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Grandmother Willow - Ancient Advisor"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/206_e07dabf14752a76a8cc3cf4b16a140741c0d0dfc.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Grandmother Willow - Ancient Advisor"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
     ]
   },
   "207/204-EN-11": {
@@ -84738,6 +85596,96 @@
       "Amethyst"
     ]
   },
+  "211/204-EN-11": {
+    "id": "211/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Aladdin - On the Edge of Adventure"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/211_d4727d412a1f02e8c019e4411f154a566f37939a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Aladdin - On the Edge of Adventure"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ]
+  },
+  "216/204-EN-11": {
+    "id": "216/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Goofy - Klutzy Skier"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/216_5afa06d4563579f59b97ce7a060a1bde9a2a99cc.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Goofy - Klutzy Skier"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ]
+  },
+  "217/204-EN-11": {
+    "id": "217/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Winnie the Pooh - Hungry Bear"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/217_272c48c5faf6200f9b1027620d111fdd58178fd4.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Winnie the Pooh - Hungry Bear"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ]
+  },
   "218/204-EN-11": {
     "id": "218/204-EN-11",
     "face": {
@@ -84766,6 +85714,96 @@
     "willpower": 4,
     "color": [
       "Sapphire"
+    ]
+  },
+  "219/204-EN-11": {
+    "id": "219/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mickey Mouse - Bob Cratchit"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/219_a13b6dea0ca423fcaed836a6d84eafefca5fab1e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mickey Mouse - Bob Cratchit"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "220/204-EN-11": {
+    "id": "220/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Donald Duck - Along for the Ride"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/220_06702237d69f7995055cd17fa695adf4c7d1c580.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Donald Duck - Along for the Ride"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Steel"
+    ]
+  },
+  "221/204-EN-11": {
+    "id": "221/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Judy Hopps - Snowball Patrol"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/221_dd51b5e751e4396f94959a0437aa279038ea0375.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Judy Hopps - Snowball Patrol"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Steel"
     ]
   },
   "222/204-EN-11": {
@@ -84798,6 +85836,36 @@
       "Steel"
     ]
   },
+  "223/204-EN-11": {
+    "id": "223/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lilo - Rock Star"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/223_488ba872f5899a5448d6486fc58b3b4ec4dee566.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lilo - Rock Star"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ]
+  },
   "224/204-EN-11": {
     "id": "224/204-EN-11",
     "face": {
@@ -84818,6 +85886,33 @@
     },
     "type": "Action",
     "cost": 3,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "color": [
+      "Amber"
+    ]
+  },
+  "225/204-EN-11": {
+    "id": "225/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Raging Storm"
+        },
+        "type": "Action",
+        "cost": 8,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/225_62bd1edbc6df8530da20dad9b8006d209bdbb4fd.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Raging Storm"
+    },
+    "type": "Action",
+    "cost": 8,
     "rarity": {
       "en": "Enchanted"
     },
@@ -84853,6 +85948,66 @@
     "willpower": 5,
     "color": [
       "Amethyst"
+    ]
+  },
+  "227/204-EN-11": {
+    "id": "227/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Anna - Soothing Sister"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/227_f8d28117357d9e1713e11e250f15b5130502fb00.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Anna - Soothing Sister"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amethyst"
+    ]
+  },
+  "229/204-EN-11": {
+    "id": "229/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mulan - Resourceful Recruit"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/229_11ef687182293e556172f0e3a32c0746de52c77a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mulan - Resourceful Recruit"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 0,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Emerald"
     ]
   },
   "230/204-EN-11": {
@@ -84940,6 +86095,93 @@
     "willpower": 5,
     "color": [
       "Ruby"
+    ]
+  },
+  "237/204-EN-11": {
+    "id": "237/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tamatoa - Seeker of Shine"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/237_286182c43884d2d3b94ea6aeeb8d4ff6c12cc5e6.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tamatoa - Seeker of Shine"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 6,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ]
+  },
+  "239/204-EN-11": {
+    "id": "239/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Darkwing Duck - Cool Under Pressure"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/239_4feae65886c813ed868822c4c93cab0941a28618.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Darkwing Duck - Cool Under Pressure"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 6,
+    "willpower": 8,
+    "color": [
+      "Steel"
+    ]
+  },
+  "240/204-EN-11": {
+    "id": "240/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Let's Get Dangerous"
+        },
+        "type": "Action",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/240_dc71c8df57f4aa805c79c7c9fdecfbf84cbb7554.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Let's Get Dangerous"
+    },
+    "type": "Action",
+    "cost": 4,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "color": [
+      "Steel"
     ]
   },
   "241/204-EN-11": {
