@@ -11,24 +11,20 @@
             {
                 "title": "Classic",
                 "gameplay": "Classic",
-                "deckRuleset": "COR"
+                "compatibility": "Classic",
+                "legalityCode": "COR",
+                "deckRuleset": "Classic"
             },
             {
                 "title": "f.inf",
                 "gameplay": "Classic",
-                "deckRuleset": "INF"
+                "compatibility": "Classic",
+                "legalityCode": "INF",
+                "deckRuleset": "Classic"
             }
         ],
         "deckRulesets": {
-            "COR": {
-                "checkCardLegality": true,
-                "general": {
-                    "min": 60,
-                    "maxPerCard": 4
-                }
-            },
-            "INF": {
-                "checkCardLegality": true,
+            "Classic": {
                 "general": {
                     "min": 60,
                     "maxPerCard": 4
