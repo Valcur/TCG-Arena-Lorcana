@@ -42,9 +42,15 @@ async function modifyJsonFile(outputFilePath) {
       const f = c.allowedInFormats
       if (f?.Core?.allowed === true) {
         legality.COR = true
+        if (c.fullName === "Dalmatian Puppy - Tail Wagger") {
+          legality.COR = 99
+        }
       }
       if (f?.Infinity?.allowed === true) {
         legality.INF = true
+        if (c.fullName === "Dalmatian Puppy - Tail Wagger") {
+          legality.INF = 99
+        }
       }
 
       const newCard = {
