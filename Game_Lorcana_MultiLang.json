@@ -11,14 +11,12 @@
             {
                 "title": "Classic",
                 "gameplay": "Classic",
-                "compatibility": "Classic",
                 "legalityCode": "COR",
                 "deckRuleset": "Classic"
             },
             {
                 "title": "f.inf",
                 "gameplay": "Classic",
-                "compatibility": "Classic",
                 "legalityCode": "INF",
                 "deckRuleset": "Classic"
             }

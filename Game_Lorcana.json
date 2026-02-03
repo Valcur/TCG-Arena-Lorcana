@@ -10,9 +10,25 @@
         "formats": [
             {
                 "title": "Classic",
-                "gameplay": "Classic"
+                "gameplay": "Classic",
+                "legalityCode": "COR",
+                "deckRuleset": "Classic"
+            },
+            {
+                "title": "f.inf",
+                "gameplay": "Classic",
+                "legalityCode": "INF",
+                "deckRuleset": "Classic"
             }
-        ]
+        ],
+        "deckRulesets": {
+            "Classic": {
+                "general": {
+                    "min": 60,
+                    "maxPerCard": 4
+                }
+            }
+        }
     },
     "gameplay": {
         "Classic": {
