@@ -5155,7 +5155,7 @@
         "type": "Character",
         "cost": 4,
         "image": {
-          "en": "https://api.lorcana.ravensburger.com/images/en/set1/142_792170ae6f2195e5ab70db40048d260616de3904.jpg",
+          "en": "https://api.lorcana.ravensburger.com/images/en/set1/142_ce86e79a408434b4e04ab4e0dbe97d8977551753.jpg",
           "fr": "https://api.lorcana.ravensburger.com/images/fr/set1/142_708fde9741528f97c92b764c9913a1b996e103e2.jpg"
         },
         "isHorizontal": false
@@ -7779,7 +7779,7 @@
         "type": "Character",
         "cost": 4,
         "image": {
-          "en": "https://api.lorcana.ravensburger.com/images/en/set1/214_43f5c0bb501d2c704486196e432a366d93e91f78.jpg",
+          "en": "https://api.lorcana.ravensburger.com/images/en/set1/214_52e0da8b5ca3a5eac6175e7221d284cbca650c54.jpg",
           "fr": "https://api.lorcana.ravensburger.com/images/fr/set1/214_e7ecf5f931cdfd9dfd47b1255b0745f4ec73695e.jpg"
         },
         "isHorizontal": false
@@ -46707,7 +46707,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Vanellope Von Schweetz - Gutsy Go-Getter",
+          "en": "Vanellope von Schweetz - Gutsy Go-Getter",
           "fr": "Vanellope von Schweetz - Fonceuse hardie"
         },
         "type": "Character",
@@ -46720,7 +46720,7 @@
       }
     },
     "name": {
-      "en": "Vanellope Von Schweetz - Gutsy Go-Getter",
+      "en": "Vanellope von Schweetz - Gutsy Go-Getter",
       "fr": "Vanellope von Schweetz - Fonceuse hardie"
     },
     "type": "Character",
@@ -48701,7 +48701,7 @@
         "type": "Action",
         "cost": 2,
         "image": {
-          "en": "https://api.lorcana.ravensburger.com/images/en/set6/163_d07389f98aa8a20a36f7dda2ef316f3ad8d0b988.jpg",
+          "en": "https://api.lorcana.ravensburger.com/images/en/set6/163_d278d57fd15e17ac6d725aa3f868625ce4f970d8.jpg",
           "fr": "https://api.lorcana.ravensburger.com/images/fr/set6/163_8802b9830d5eaaabb903a214050378cf5068c008.jpg"
         },
         "isHorizontal": false
@@ -64712,7 +64712,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Vanellope Von Schweetz - Spunky Speedster",
+          "en": "Vanellope von Schweetz - Spunky Speedster",
           "fr": "Vanellope von Schweetz - Bolide culotté"
         },
         "type": "Character",
@@ -64725,7 +64725,7 @@
       }
     },
     "name": {
-      "en": "Vanellope Von Schweetz - Spunky Speedster",
+      "en": "Vanellope von Schweetz - Spunky Speedster",
       "fr": "Vanellope von Schweetz - Bolide culotté"
     },
     "type": "Character",
@@ -69030,7 +69030,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "2/204-EN-9": {
@@ -69143,7 +69144,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "5/204-EN-9": {
@@ -69180,7 +69182,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "6/204-EN-9": {
@@ -69217,7 +69220,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "7/204-EN-9": {
@@ -69970,7 +69974,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "27/204-EN-9": {
@@ -70631,7 +70636,8 @@
       "Amethyst"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "45/204-EN-9": {
@@ -70668,7 +70674,8 @@
       "Amethyst"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "46/204-EN-9": {
@@ -70705,7 +70712,8 @@
       "Amethyst"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "47/204-EN-9": {
@@ -70742,7 +70750,8 @@
       "Amethyst"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "48/204-EN-9": {
@@ -71372,7 +71381,8 @@
       "Amethyst"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "65/204-EN-9": {
@@ -71741,7 +71751,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "75/204-EN-9": {
@@ -71778,7 +71789,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "76/204-EN-9": {
@@ -71815,7 +71827,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "77/204-EN-9": {
@@ -71852,7 +71865,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "78/204-EN-9": {
@@ -71889,7 +71903,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "79/204-EN-9": {
@@ -72493,7 +72508,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "95/204-EN-9": {
@@ -72702,7 +72718,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "101/204-EN-9": {
@@ -73039,7 +73056,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "110/204-EN-9": {
@@ -73076,7 +73094,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "111/204-EN-9": {
@@ -73113,7 +73132,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "112/204-EN-9": {
@@ -73150,7 +73170,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "113/204-EN-9": {
@@ -73187,7 +73208,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "114/204-EN-9": {
@@ -73224,7 +73246,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "115/204-EN-9": {
@@ -73337,7 +73360,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "118/204-EN-9": {
@@ -73827,7 +73851,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "131/204-EN-9": {
@@ -74228,7 +74253,8 @@
       "Sapphire"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "142/204-EN-9": {
@@ -74265,7 +74291,8 @@
       "Sapphire"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "143/204-EN-9": {
@@ -74302,7 +74329,8 @@
       "Sapphire"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "144/204-EN-9": {
@@ -75419,7 +75447,8 @@
       "Steel"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "174/204-EN-9": {
@@ -75456,7 +75485,8 @@
       "Steel"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "175/204-EN-9": {
@@ -75493,7 +75523,8 @@
       "Steel"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "176/204-EN-9": {
@@ -75530,7 +75561,8 @@
       "Steel"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "177/204-EN-9": {
@@ -75605,7 +75637,8 @@
       "Steel"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "179/204-EN-9": {
@@ -76646,7 +76679,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "225/204-EN-9": {
@@ -76680,7 +76714,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "226/204-EN-9": {
@@ -76793,7 +76828,8 @@
       "Amethyst"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "229/204-EN-9": {
@@ -76830,7 +76866,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "230/204-EN-9": {
@@ -76867,7 +76904,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "231/204-EN-9": {
@@ -76980,7 +77018,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "234/204-EN-9": {
@@ -77014,7 +77053,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "235/204-EN-9": {
@@ -77051,7 +77091,8 @@
       "Sapphire"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "236/204-EN-9": {
@@ -77088,7 +77129,8 @@
       "Sapphire"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "237/204-EN-9": {
@@ -77163,7 +77205,8 @@
       "Steel"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "239/204-EN-9": {
@@ -77200,7 +77243,8 @@
       "Steel"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "240/204-EN-9": {
@@ -77237,7 +77281,8 @@
       "Steel"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "205/204-EN-9": {
@@ -77274,7 +77319,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "206/204-EN-9": {
@@ -77311,7 +77357,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "207/204-EN-9": {
@@ -77500,7 +77547,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "212/204-EN-9": {
@@ -77572,7 +77620,8 @@
       "Emerald"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "214/204-EN-9": {
@@ -77609,7 +77658,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "215/204-EN-9": {
@@ -77646,7 +77696,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "216/204-EN-9": {
@@ -77718,7 +77769,8 @@
       "Sapphire"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "218/204-EN-9": {
@@ -77942,7 +77994,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "242/204-EN-9": {
@@ -77979,7 +78032,8 @@
       "Ruby"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "1/P3-EN-9": {
@@ -78016,7 +78070,8 @@
       "Amethyst"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "2/P3-EN-9": {
@@ -78053,7 +78108,8 @@
       "Sapphire"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "3/P3-EN-9": {
@@ -78090,7 +78146,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "4/P3-EN-9": {
@@ -88322,7 +88379,8 @@
       "Amber"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "INF": true
     }
   },
   "41/P3-EN-4": {
@@ -91495,7 +91553,7 @@
     "face": {
       "front": {
         "name": {
-          "en": "Wreck-it Ralph - Raging Wrecker"
+          "en": "Wreck-It Ralph - Raging Wrecker"
         },
         "type": "Character",
         "cost": 7,
@@ -91506,7 +91564,7 @@
       }
     },
     "name": {
-      "en": "Wreck-it Ralph - Raging Wrecker"
+      "en": "Wreck-It Ralph - Raging Wrecker"
     },
     "type": "Character",
     "cost": 7,
@@ -94673,6 +94731,37 @@
     ],
     "_legal": {}
   },
+  "208/204-EN-11": {
+    "id": "208/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tigger - Bouncing All the Way"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/208_4f547ec091d4f489c222831f14f5506414d7a726.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tigger - Bouncing All the Way"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {}
+  },
   "209/204-EN-11": {
     "id": "209/204-EN-11",
     "face": {
@@ -94763,6 +94852,99 @@
     "willpower": 3,
     "color": [
       "Emerald"
+    ],
+    "_legal": {}
+  },
+  "212/204-EN-11": {
+    "id": "212/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mushu - Sneaky Dragon"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/212_2d6f0fa1d6cd1c07107317f64562ed97544d8da0.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mushu - Sneaky Dragon"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 3,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {}
+  },
+  "213/204-EN-11": {
+    "id": "213/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Minnie Mouse - Mrs. Cratchit"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/213_305c586e25cc42765a78f699a52cbf4ee523eab7.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Minnie Mouse - Mrs. Cratchit"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {}
+  },
+  "214/204-EN-11": {
+    "id": "214/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Hercules - Spectral Demigod"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/214_7b60a60e68304aaeb68a68773bbb0d7ea79483fb.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Hercules - Spectral Demigod"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 3,
+    "color": [
+      "Ruby"
     ],
     "_legal": {}
   },
@@ -95281,6 +95463,37 @@
     ],
     "_legal": {}
   },
+  "232/204-EN-11": {
+    "id": "232/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Negaduck - Public Enemy Number One"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/232_8233fc7ecfbd8f86d09e4cf7a23a52b9c303e21f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Negaduck - Public Enemy Number One"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 6,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {}
+  },
   "233/204-EN-11": {
     "id": "233/204-EN-11",
     "face": {
@@ -95366,6 +95579,37 @@
     "lore": 2,
     "strength": 4,
     "willpower": 6,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {}
+  },
+  "236/204-EN-11": {
+    "id": "236/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Belle - Snowfield Strategist"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/236_67cf6d2ec20cac7c617b6f10af9fa4919e50ba45.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Belle - Snowfield Strategist"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
     "color": [
       "Sapphire"
     ],
@@ -95553,5 +95797,322 @@
       "Sapphire"
     ],
     "_legal": {}
+  },
+  "28/P3-EN-11": {
+    "id": "28/P3-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gramma Tala - Connected to Nature"
+        },
+        "type": "Character",
+        "cost": 12,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/28_578f7de00facc558f1fff8fe1c4273851ee50517.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gramma Tala - Connected to Nature"
+    },
+    "type": "Character",
+    "cost": 12,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 2,
+    "strength": 6,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {}
+  },
+  "29/P3-EN-11": {
+    "id": "29/P3-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "White Rabbit - Late Again"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/29_9c43f52e18d06b986d0edb9b600dd9a836d45a8a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "White Rabbit - Late Again"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {}
+  },
+  "30/P3-EN-11": {
+    "id": "30/P3-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Elisa Maza - Transformed Gargoyle"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/30_b0fb840d90ea1bcaca3149bc8761ee87d7a65db6.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Elisa Maza - Transformed Gargoyle"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {}
+  },
+  "31/P3-EN-11": {
+    "id": "31/P3-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Beast - Snowfield Troublemaker"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/31_a76fb0f5f761d22cd64cc72b5757fc6f16d58c53.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Beast - Snowfield Troublemaker"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 1,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {}
+  },
+  "32/P3-EN-11": {
+    "id": "32/P3-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Timon - Snowball Swiper"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/32_2ad30ba45e36419e4437bc490823bff2c5ee0d4f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Timon - Snowball Swiper"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {}
+  },
+  "33/P3-EN-11": {
+    "id": "33/P3-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tinker Bell - Snowflake Collector"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/33_b4d467889866b542ab5b9e296fd12425790dcf2d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tinker Bell - Snowflake Collector"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {}
+  },
+  "34/P3-EN-11": {
+    "id": "34/P3-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tinker Bell - Snowflake Collector"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/34_f8a4d6956f737fee8f55bf273a90fd9101e79c9d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tinker Bell - Snowflake Collector"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {}
+  },
+  "35/P3-EN-11": {
+    "id": "35/P3-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Stitch - High Badness Level"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/35_d0151d04ae5343fed9473367820fe1250fa8239b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Stitch - High Badness Level"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {}
+  },
+  "36/P3-EN-10": {
+    "id": "36/P3-EN-10",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Scrooge McDuck - S.H.U.S.H. Agent"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/36_51c338a1fd293aa6a51d0db281d362b837f46ff2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Scrooge McDuck - S.H.U.S.H. Agent"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 2,
+    "strength": 0,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
+  "16/D23-EN-7": {
+    "id": "16/D23-EN-7",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mad Hatter - Unruly Eccentric"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/d23/16_05961dfd4070633ba8808b9827727eca4c8aca32.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mad Hatter - Unruly Eccentric"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Emerald",
+      "Ruby"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   }
 }
