@@ -5952,6 +5952,7 @@
       "Sapphire"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -9452,6 +9453,7 @@
       "Amethyst"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -19438,6 +19440,7 @@
       "Emerald"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -21744,6 +21747,7 @@
       "Sapphire"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -42267,6 +42271,7 @@
       "Sapphire"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -88073,6 +88078,40 @@
       "INF": true
     }
   },
+  "39/P3-EN-9": {
+    "id": "39/P3-EN-9",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Goofy - Set for Adventure"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/39_153622ed69420106f8eaace410f9e2cfa306908a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Goofy - Set for Adventure"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
   "1/C2-EN-9": {
     "id": "1/C2-EN-9",
     "face": {
@@ -88485,7 +88524,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "2/204-EN-11": {
     "id": "2/204-EN-11",
@@ -88520,7 +88562,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "3/204-EN-11": {
     "id": "3/204-EN-11",
@@ -88555,7 +88600,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "4/204-EN-11": {
     "id": "4/204-EN-11",
@@ -88590,7 +88638,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "5/204-EN-11": {
     "id": "5/204-EN-11",
@@ -88625,7 +88676,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "6/204-EN-11": {
     "id": "6/204-EN-11",
@@ -88660,7 +88714,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "7/204-EN-11": {
     "id": "7/204-EN-11",
@@ -88695,7 +88752,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "8/204-EN-11": {
     "id": "8/204-EN-11",
@@ -88730,7 +88790,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "9/204-EN-11": {
     "id": "9/204-EN-11",
@@ -88765,7 +88828,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "10/204-EN-11": {
     "id": "10/204-EN-11",
@@ -88800,7 +88866,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "11/204-EN-11": {
     "id": "11/204-EN-11",
@@ -88835,7 +88904,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "12/204-EN-11": {
     "id": "12/204-EN-11",
@@ -88870,7 +88942,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "13/204-EN-11": {
     "id": "13/204-EN-11",
@@ -88905,7 +88980,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "14/204-EN-11": {
     "id": "14/204-EN-11",
@@ -88940,7 +89018,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "15/204-EN-11": {
     "id": "15/204-EN-11",
@@ -88975,7 +89056,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "16/204-EN-11": {
     "id": "16/204-EN-11",
@@ -89010,7 +89094,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "17/204-EN-11": {
     "id": "17/204-EN-11",
@@ -89045,7 +89132,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "18/204-EN-11": {
     "id": "18/204-EN-11",
@@ -89080,7 +89170,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "19/204-EN-11": {
     "id": "19/204-EN-11",
@@ -89115,7 +89208,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "20/204-EN-11": {
     "id": "20/204-EN-11",
@@ -89150,7 +89246,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "21/204-EN-11": {
     "id": "21/204-EN-11",
@@ -89185,7 +89284,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "22/204-EN-11": {
     "id": "22/204-EN-11",
@@ -89220,7 +89322,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "23/204-EN-11": {
     "id": "23/204-EN-11",
@@ -89255,7 +89360,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "24/204-EN-11": {
     "id": "24/204-EN-11",
@@ -89290,7 +89398,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "25/204-EN-11": {
     "id": "25/204-EN-11",
@@ -89325,7 +89436,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "26/204-EN-11": {
     "id": "26/204-EN-11",
@@ -89360,7 +89474,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "27/204-EN-11": {
     "id": "27/204-EN-11",
@@ -89395,7 +89512,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "28/204-EN-11": {
     "id": "28/204-EN-11",
@@ -89427,7 +89547,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "29/204-EN-11": {
     "id": "29/204-EN-11",
@@ -89459,7 +89582,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "30/204-EN-11": {
     "id": "30/204-EN-11",
@@ -89491,7 +89617,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "31/204-EN-11": {
     "id": "31/204-EN-11",
@@ -89523,7 +89652,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "32/204-EN-11": {
     "id": "32/204-EN-11",
@@ -89555,7 +89687,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "33/204-EN-11": {
     "id": "33/204-EN-11",
@@ -89587,7 +89722,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "34/204-EN-11": {
     "id": "34/204-EN-11",
@@ -89621,7 +89759,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "35/204-EN-11": {
     "id": "35/204-EN-11",
@@ -89656,7 +89797,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "36/204-EN-11": {
     "id": "36/204-EN-11",
@@ -89691,7 +89835,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "37/204-EN-11": {
     "id": "37/204-EN-11",
@@ -89726,7 +89873,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "38/204-EN-11": {
     "id": "38/204-EN-11",
@@ -89761,7 +89911,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "39/204-EN-11": {
     "id": "39/204-EN-11",
@@ -89796,7 +89949,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "40/204-EN-11": {
     "id": "40/204-EN-11",
@@ -89831,7 +89987,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "41/204-EN-11": {
     "id": "41/204-EN-11",
@@ -89866,7 +90025,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "42/204-EN-11": {
     "id": "42/204-EN-11",
@@ -89901,7 +90063,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "43/204-EN-11": {
     "id": "43/204-EN-11",
@@ -89936,7 +90101,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "44/204-EN-11": {
     "id": "44/204-EN-11",
@@ -89971,7 +90139,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "45/204-EN-11": {
     "id": "45/204-EN-11",
@@ -90006,7 +90177,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "46/204-EN-11": {
     "id": "46/204-EN-11",
@@ -90041,7 +90215,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "47/204-EN-11": {
     "id": "47/204-EN-11",
@@ -90076,7 +90253,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "48/204-EN-11": {
     "id": "48/204-EN-11",
@@ -90111,7 +90291,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "49/204-EN-11": {
     "id": "49/204-EN-11",
@@ -90146,7 +90329,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "50/204-EN-11": {
     "id": "50/204-EN-11",
@@ -90181,7 +90367,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "51/204-EN-11": {
     "id": "51/204-EN-11",
@@ -90216,7 +90405,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "52/204-EN-11": {
     "id": "52/204-EN-11",
@@ -90251,7 +90443,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "53/204-EN-11": {
     "id": "53/204-EN-11",
@@ -90286,7 +90481,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "54/204-EN-11": {
     "id": "54/204-EN-11",
@@ -90321,7 +90519,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "55/204-EN-11": {
     "id": "55/204-EN-11",
@@ -90356,7 +90557,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "56/204-EN-11": {
     "id": "56/204-EN-11",
@@ -90391,7 +90595,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "57/204-EN-11": {
     "id": "57/204-EN-11",
@@ -90426,7 +90633,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "58/204-EN-11": {
     "id": "58/204-EN-11",
@@ -90462,6 +90672,7 @@
       "Amethyst"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -90498,7 +90709,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "60/204-EN-11": {
     "id": "60/204-EN-11",
@@ -90533,7 +90747,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "61/204-EN-11": {
     "id": "61/204-EN-11",
@@ -90565,7 +90782,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "62/204-EN-11": {
     "id": "62/204-EN-11",
@@ -90597,7 +90817,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "63/204-EN-11": {
     "id": "63/204-EN-11",
@@ -90629,7 +90852,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "64/204-EN-11": {
     "id": "64/204-EN-11",
@@ -90661,7 +90887,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "65/204-EN-11": {
     "id": "65/204-EN-11",
@@ -90693,7 +90922,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "66/204-EN-11": {
     "id": "66/204-EN-11",
@@ -90725,7 +90957,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "67/204-EN-11": {
     "id": "67/204-EN-11",
@@ -90757,7 +90992,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "68/204-EN-11": {
     "id": "68/204-EN-11",
@@ -90791,7 +91029,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "69/204-EN-11": {
     "id": "69/204-EN-11",
@@ -90826,7 +91067,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "70/204-EN-11": {
     "id": "70/204-EN-11",
@@ -90861,7 +91105,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "71/204-EN-11": {
     "id": "71/204-EN-11",
@@ -90896,7 +91143,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "72/204-EN-11": {
     "id": "72/204-EN-11",
@@ -90931,7 +91181,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "73/204-EN-11": {
     "id": "73/204-EN-11",
@@ -90966,7 +91219,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "74/204-EN-11": {
     "id": "74/204-EN-11",
@@ -91001,7 +91257,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "75/204-EN-11": {
     "id": "75/204-EN-11",
@@ -91036,7 +91295,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "76/204-EN-11": {
     "id": "76/204-EN-11",
@@ -91071,7 +91333,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "77/204-EN-11": {
     "id": "77/204-EN-11",
@@ -91106,7 +91371,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "78/204-EN-11": {
     "id": "78/204-EN-11",
@@ -91141,7 +91409,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "79/204-EN-11": {
     "id": "79/204-EN-11",
@@ -91176,7 +91447,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "80/204-EN-11": {
     "id": "80/204-EN-11",
@@ -91211,7 +91485,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "81/204-EN-11": {
     "id": "81/204-EN-11",
@@ -91246,7 +91523,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "82/204-EN-11": {
     "id": "82/204-EN-11",
@@ -91281,7 +91561,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "83/204-EN-11": {
     "id": "83/204-EN-11",
@@ -91316,7 +91599,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "84/204-EN-11": {
     "id": "84/204-EN-11",
@@ -91351,7 +91637,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "85/204-EN-11": {
     "id": "85/204-EN-11",
@@ -91386,7 +91675,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "86/204-EN-11": {
     "id": "86/204-EN-11",
@@ -91421,7 +91713,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "87/204-EN-11": {
     "id": "87/204-EN-11",
@@ -91456,7 +91751,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "88/204-EN-11": {
     "id": "88/204-EN-11",
@@ -91491,7 +91789,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "89/204-EN-11": {
     "id": "89/204-EN-11",
@@ -91526,7 +91827,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "90/204-EN-11": {
     "id": "90/204-EN-11",
@@ -91561,7 +91865,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "91/204-EN-11": {
     "id": "91/204-EN-11",
@@ -91596,7 +91903,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "92/204-EN-11": {
     "id": "92/204-EN-11",
@@ -91631,7 +91941,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "93/204-EN-11": {
     "id": "93/204-EN-11",
@@ -91666,7 +91979,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "94/204-EN-11": {
     "id": "94/204-EN-11",
@@ -91699,6 +92015,7 @@
       "Emerald"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -91732,7 +92049,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "96/204-EN-11": {
     "id": "96/204-EN-11",
@@ -91764,7 +92084,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "97/204-EN-11": {
     "id": "97/204-EN-11",
@@ -91796,7 +92119,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "98/204-EN-11": {
     "id": "98/204-EN-11",
@@ -91828,7 +92154,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "99/204-EN-11": {
     "id": "99/204-EN-11",
@@ -91860,7 +92189,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "100/204-EN-11": {
     "id": "100/204-EN-11",
@@ -91892,7 +92224,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "101/204-EN-11": {
     "id": "101/204-EN-11",
@@ -91924,7 +92259,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "102/204-EN-11": {
     "id": "102/204-EN-11",
@@ -91958,7 +92296,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "103/204-EN-11": {
     "id": "103/204-EN-11",
@@ -91993,7 +92334,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "104/204-EN-11": {
     "id": "104/204-EN-11",
@@ -92028,7 +92372,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "105/204-EN-11": {
     "id": "105/204-EN-11",
@@ -92063,7 +92410,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "106/204-EN-11": {
     "id": "106/204-EN-11",
@@ -92098,7 +92448,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "107/204-EN-11": {
     "id": "107/204-EN-11",
@@ -92133,7 +92486,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "108/204-EN-11": {
     "id": "108/204-EN-11",
@@ -92168,7 +92524,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "109/204-EN-11": {
     "id": "109/204-EN-11",
@@ -92203,7 +92562,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "110/204-EN-11": {
     "id": "110/204-EN-11",
@@ -92238,7 +92600,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "111/204-EN-11": {
     "id": "111/204-EN-11",
@@ -92273,7 +92638,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "112/204-EN-11": {
     "id": "112/204-EN-11",
@@ -92308,7 +92676,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "113/204-EN-11": {
     "id": "113/204-EN-11",
@@ -92343,7 +92714,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "114/204-EN-11": {
     "id": "114/204-EN-11",
@@ -92378,7 +92752,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "115/204-EN-11": {
     "id": "115/204-EN-11",
@@ -92413,7 +92790,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "116/204-EN-11": {
     "id": "116/204-EN-11",
@@ -92448,7 +92828,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "117/204-EN-11": {
     "id": "117/204-EN-11",
@@ -92483,7 +92866,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "118/204-EN-11": {
     "id": "118/204-EN-11",
@@ -92518,7 +92904,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "119/204-EN-11": {
     "id": "119/204-EN-11",
@@ -92553,7 +92942,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "120/204-EN-11": {
     "id": "120/204-EN-11",
@@ -92588,7 +92980,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "121/204-EN-11": {
     "id": "121/204-EN-11",
@@ -92623,7 +93018,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "122/204-EN-11": {
     "id": "122/204-EN-11",
@@ -92658,7 +93056,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "123/204-EN-11": {
     "id": "123/204-EN-11",
@@ -92693,7 +93094,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "124/204-EN-11": {
     "id": "124/204-EN-11",
@@ -92728,7 +93132,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "125/204-EN-11": {
     "id": "125/204-EN-11",
@@ -92763,7 +93170,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "126/204-EN-11": {
     "id": "126/204-EN-11",
@@ -92798,7 +93208,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "127/204-EN-11": {
     "id": "127/204-EN-11",
@@ -92830,7 +93243,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "128/204-EN-11": {
     "id": "128/204-EN-11",
@@ -92862,7 +93278,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "129/204-EN-11": {
     "id": "129/204-EN-11",
@@ -92894,7 +93313,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "130/204-EN-11": {
     "id": "130/204-EN-11",
@@ -92926,7 +93348,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "131/204-EN-11": {
     "id": "131/204-EN-11",
@@ -92958,7 +93383,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "132/204-EN-11": {
     "id": "132/204-EN-11",
@@ -92990,7 +93418,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "133/204-EN-11": {
     "id": "133/204-EN-11",
@@ -93022,7 +93453,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "134/204-EN-11": {
     "id": "134/204-EN-11",
@@ -93056,7 +93490,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "135/204-EN-11": {
     "id": "135/204-EN-11",
@@ -93090,7 +93527,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "136/204-EN-11": {
     "id": "136/204-EN-11",
@@ -93124,7 +93564,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "137/204-EN-11": {
     "id": "137/204-EN-11",
@@ -93159,7 +93602,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "138/204-EN-11": {
     "id": "138/204-EN-11",
@@ -93194,7 +93640,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "139/204-EN-11": {
     "id": "139/204-EN-11",
@@ -93229,7 +93678,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "140/204-EN-11": {
     "id": "140/204-EN-11",
@@ -93264,7 +93716,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "141/204-EN-11": {
     "id": "141/204-EN-11",
@@ -93299,7 +93754,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "142/204-EN-11": {
     "id": "142/204-EN-11",
@@ -93334,7 +93792,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "143/204-EN-11": {
     "id": "143/204-EN-11",
@@ -93369,7 +93830,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "144/204-EN-11": {
     "id": "144/204-EN-11",
@@ -93404,7 +93868,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "145/204-EN-11": {
     "id": "145/204-EN-11",
@@ -93439,7 +93906,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "146/204-EN-11": {
     "id": "146/204-EN-11",
@@ -93474,7 +93944,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "147/204-EN-11": {
     "id": "147/204-EN-11",
@@ -93509,7 +93982,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "148/204-EN-11": {
     "id": "148/204-EN-11",
@@ -93544,7 +94020,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "149/204-EN-11": {
     "id": "149/204-EN-11",
@@ -93579,7 +94058,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "150/204-EN-11": {
     "id": "150/204-EN-11",
@@ -93614,7 +94096,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "151/204-EN-11": {
     "id": "151/204-EN-11",
@@ -93649,7 +94134,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "152/204-EN-11": {
     "id": "152/204-EN-11",
@@ -93684,7 +94172,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "153/204-EN-11": {
     "id": "153/204-EN-11",
@@ -93719,7 +94210,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "154/204-EN-11": {
     "id": "154/204-EN-11",
@@ -93754,7 +94248,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "155/204-EN-11": {
     "id": "155/204-EN-11",
@@ -93789,7 +94286,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "156/204-EN-11": {
     "id": "156/204-EN-11",
@@ -93824,7 +94324,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "157/204-EN-11": {
     "id": "157/204-EN-11",
@@ -93859,7 +94362,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "158/204-EN-11": {
     "id": "158/204-EN-11",
@@ -93894,7 +94400,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "159/204-EN-11": {
     "id": "159/204-EN-11",
@@ -93929,7 +94438,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "160/204-EN-11": {
     "id": "160/204-EN-11",
@@ -93964,7 +94476,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "161/204-EN-11": {
     "id": "161/204-EN-11",
@@ -93999,7 +94514,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "162/204-EN-11": {
     "id": "162/204-EN-11",
@@ -94031,7 +94549,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "163/204-EN-11": {
     "id": "163/204-EN-11",
@@ -94064,6 +94585,7 @@
       "Sapphire"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -94098,6 +94620,7 @@
       "Sapphire"
     ],
     "_legal": {
+      "COR": true,
       "INF": true
     }
   },
@@ -94131,7 +94654,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "166/204-EN-11": {
     "id": "166/204-EN-11",
@@ -94163,7 +94689,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "167/204-EN-11": {
     "id": "167/204-EN-11",
@@ -94195,7 +94724,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "168/204-EN-11": {
     "id": "168/204-EN-11",
@@ -94227,7 +94759,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "169/204-EN-11": {
     "id": "169/204-EN-11",
@@ -94259,7 +94794,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "170/204-EN-11": {
     "id": "170/204-EN-11",
@@ -94291,7 +94829,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "171/204-EN-11": {
     "id": "171/204-EN-11",
@@ -94326,7 +94867,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "172/204-EN-11": {
     "id": "172/204-EN-11",
@@ -94361,7 +94905,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "173/204-EN-11": {
     "id": "173/204-EN-11",
@@ -94396,7 +94943,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "174/204-EN-11": {
     "id": "174/204-EN-11",
@@ -94431,7 +94981,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "175/204-EN-11": {
     "id": "175/204-EN-11",
@@ -94466,7 +95019,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "176/204-EN-11": {
     "id": "176/204-EN-11",
@@ -94501,7 +95057,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "177/204-EN-11": {
     "id": "177/204-EN-11",
@@ -94536,7 +95095,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "178/204-EN-11": {
     "id": "178/204-EN-11",
@@ -94571,7 +95133,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "179/204-EN-11": {
     "id": "179/204-EN-11",
@@ -94606,7 +95171,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "180/204-EN-11": {
     "id": "180/204-EN-11",
@@ -94641,7 +95209,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "181/204-EN-11": {
     "id": "181/204-EN-11",
@@ -94676,7 +95247,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "182/204-EN-11": {
     "id": "182/204-EN-11",
@@ -94711,7 +95285,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "183/204-EN-11": {
     "id": "183/204-EN-11",
@@ -94746,7 +95323,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "184/204-EN-11": {
     "id": "184/204-EN-11",
@@ -94781,7 +95361,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "185/204-EN-11": {
     "id": "185/204-EN-11",
@@ -94816,7 +95399,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "186/204-EN-11": {
     "id": "186/204-EN-11",
@@ -94851,7 +95437,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "187/204-EN-11": {
     "id": "187/204-EN-11",
@@ -94886,7 +95475,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "188/204-EN-11": {
     "id": "188/204-EN-11",
@@ -94921,7 +95513,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "189/204-EN-11": {
     "id": "189/204-EN-11",
@@ -94956,7 +95551,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "190/204-EN-11": {
     "id": "190/204-EN-11",
@@ -94991,7 +95589,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "191/204-EN-11": {
     "id": "191/204-EN-11",
@@ -95026,7 +95627,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "192/204-EN-11": {
     "id": "192/204-EN-11",
@@ -95061,7 +95665,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "193/204-EN-11": {
     "id": "193/204-EN-11",
@@ -95096,7 +95703,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "194/204-EN-11": {
     "id": "194/204-EN-11",
@@ -95131,7 +95741,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "195/204-EN-11": {
     "id": "195/204-EN-11",
@@ -95166,7 +95779,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "196/204-EN-11": {
     "id": "196/204-EN-11",
@@ -95198,7 +95814,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "197/204-EN-11": {
     "id": "197/204-EN-11",
@@ -95230,7 +95849,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "198/204-EN-11": {
     "id": "198/204-EN-11",
@@ -95262,7 +95884,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "199/204-EN-11": {
     "id": "199/204-EN-11",
@@ -95294,7 +95919,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "200/204-EN-11": {
     "id": "200/204-EN-11",
@@ -95326,7 +95954,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "201/204-EN-11": {
     "id": "201/204-EN-11",
@@ -95358,7 +95989,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "202/204-EN-11": {
     "id": "202/204-EN-11",
@@ -95390,7 +96024,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "203/204-EN-11": {
     "id": "203/204-EN-11",
@@ -95422,7 +96059,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "204/204-EN-11": {
     "id": "204/204-EN-11",
@@ -95456,7 +96096,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "205/204-EN-11": {
     "id": "205/204-EN-11",
@@ -95491,7 +96134,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "206/204-EN-11": {
     "id": "206/204-EN-11",
@@ -95526,7 +96172,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "207/204-EN-11": {
     "id": "207/204-EN-11",
@@ -95561,7 +96210,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "208/204-EN-11": {
     "id": "208/204-EN-11",
@@ -95596,7 +96248,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "209/204-EN-11": {
     "id": "209/204-EN-11",
@@ -95631,7 +96286,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "210/204-EN-11": {
     "id": "210/204-EN-11",
@@ -95666,7 +96324,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "211/204-EN-11": {
     "id": "211/204-EN-11",
@@ -95701,7 +96362,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "212/204-EN-11": {
     "id": "212/204-EN-11",
@@ -95736,7 +96400,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "213/204-EN-11": {
     "id": "213/204-EN-11",
@@ -95771,7 +96438,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "214/204-EN-11": {
     "id": "214/204-EN-11",
@@ -95806,7 +96476,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "215/204-EN-11": {
     "id": "215/204-EN-11",
@@ -95841,7 +96514,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "216/204-EN-11": {
     "id": "216/204-EN-11",
@@ -95876,7 +96552,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "217/204-EN-11": {
     "id": "217/204-EN-11",
@@ -95911,7 +96590,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "218/204-EN-11": {
     "id": "218/204-EN-11",
@@ -95946,7 +96628,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "219/204-EN-11": {
     "id": "219/204-EN-11",
@@ -95981,7 +96666,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "220/204-EN-11": {
     "id": "220/204-EN-11",
@@ -96016,7 +96704,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "221/204-EN-11": {
     "id": "221/204-EN-11",
@@ -96051,7 +96742,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "222/204-EN-11": {
     "id": "222/204-EN-11",
@@ -96086,7 +96780,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "223/204-EN-11": {
     "id": "223/204-EN-11",
@@ -96121,7 +96818,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "224/204-EN-11": {
     "id": "224/204-EN-11",
@@ -96153,7 +96853,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "225/204-EN-11": {
     "id": "225/204-EN-11",
@@ -96185,7 +96888,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "226/204-EN-11": {
     "id": "226/204-EN-11",
@@ -96220,7 +96926,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "227/204-EN-11": {
     "id": "227/204-EN-11",
@@ -96255,7 +96964,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "228/204-EN-11": {
     "id": "228/204-EN-11",
@@ -96287,7 +96999,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "229/204-EN-11": {
     "id": "229/204-EN-11",
@@ -96322,7 +97037,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "230/204-EN-11": {
     "id": "230/204-EN-11",
@@ -96357,7 +97075,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "231/204-EN-11": {
     "id": "231/204-EN-11",
@@ -96389,7 +97110,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "232/204-EN-11": {
     "id": "232/204-EN-11",
@@ -96424,7 +97148,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "233/204-EN-11": {
     "id": "233/204-EN-11",
@@ -96459,7 +97186,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "234/204-EN-11": {
     "id": "234/204-EN-11",
@@ -96491,7 +97221,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "235/204-EN-11": {
     "id": "235/204-EN-11",
@@ -96526,7 +97259,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "236/204-EN-11": {
     "id": "236/204-EN-11",
@@ -96561,7 +97297,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "237/204-EN-11": {
     "id": "237/204-EN-11",
@@ -96596,7 +97335,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "238/204-EN-11": {
     "id": "238/204-EN-11",
@@ -96631,7 +97373,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "239/204-EN-11": {
     "id": "239/204-EN-11",
@@ -96666,7 +97411,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "240/204-EN-11": {
     "id": "240/204-EN-11",
@@ -96698,7 +97446,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "241/204-EN-11": {
     "id": "241/204-EN-11",
@@ -96733,7 +97484,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "242/204-EN-11": {
     "id": "242/204-EN-11",
@@ -96768,7 +97522,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "28/P3-EN-11": {
     "id": "28/P3-EN-11",
@@ -96803,7 +97560,10 @@
     "color": [
       "Sapphire"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "29/P3-EN-11": {
     "id": "29/P3-EN-11",
@@ -96838,7 +97598,10 @@
     "color": [
       "Emerald"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "30/P3-EN-11": {
     "id": "30/P3-EN-11",
@@ -96873,7 +97636,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "31/P3-EN-11": {
     "id": "31/P3-EN-11",
@@ -96908,7 +97674,10 @@
     "color": [
       "Ruby"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "32/P3-EN-11": {
     "id": "32/P3-EN-11",
@@ -96943,7 +97712,10 @@
     "color": [
       "Amber"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "33/P3-EN-11": {
     "id": "33/P3-EN-11",
@@ -96978,7 +97750,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "34/P3-EN-11": {
     "id": "34/P3-EN-11",
@@ -97013,7 +97788,10 @@
     "color": [
       "Amethyst"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "35/P3-EN-11": {
     "id": "35/P3-EN-11",
@@ -97048,7 +97826,10 @@
     "color": [
       "Steel"
     ],
-    "_legal": {}
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   },
   "36/P3-EN-10": {
     "id": "36/P3-EN-10",
