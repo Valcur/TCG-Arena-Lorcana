@@ -63,7 +63,9 @@
                                 },
                                 {
                                     "section": "Test",
-                                    "isOptional": true
+                                    "optional": {
+                                        "key": "Test"
+                                    }
                                 }
                             ]
                         },
