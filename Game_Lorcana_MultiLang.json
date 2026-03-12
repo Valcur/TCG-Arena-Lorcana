@@ -49,13 +49,23 @@
                 "customSections": [
                     "Main",
                     "Mana",
-                    "Items"
+                    "Items",
+                    "Test"
                 ],
                 "layout": {
                     "direction": "column",
                     "content": [
                         {
-                            "section": "Main"
+                            "direction": "row",
+                            "content": [
+                                {
+                                    "section": "Main"
+                                },
+                                {
+                                    "section": "Test",
+                                    "isOptional": true
+                                }
+                            ]
                         },
                         {
                             "direction": "row",
@@ -83,18 +93,15 @@
                     "Location": "Main"
                 },
                 "sectionsDict": {
-                    "Stack": {
-                        "isDefaultSection": true,
-                        "title": "Stack",
-                        "isHidden": "no",
-                        "height": "HUGE",
-                        "alignment": "NONE",
-                        "isHorizontalAllowed": false,
-                        "isGroupForbidden": true,
-                        "displayedTitle": "Pile"
-                    },
                     "Main": {
                         "title": "Main",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true
+                    },
+                    "Test": {
+                        "title": "Test",
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "alignment": "CENTER",
