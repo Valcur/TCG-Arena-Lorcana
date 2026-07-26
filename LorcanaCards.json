@@ -116263,5 +116263,205 @@
       "COR": true,
       "INF": true
     }
+  },
+  "1/CC1-EN-1": {
+    "id": "1/CC1-EN-1",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ariel - Spectacular Singer"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/cc1/1_8b9a7e833b92bd801bae7cd7f2870e4ff586846d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ariel - Spectacular Singer"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "INF": true
+    }
+  },
+  "2/CC1-EN-7": {
+    "id": "2/CC1-EN-7",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Elsa - Trusted Sister"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/cc1/2_9c32f615d0aad3880af38351ff0e9d2d51bb1b23.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Elsa - Trusted Sister"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "INF": true
+    }
+  },
+  "3/CC1-EN-6": {
+    "id": "3/CC1-EN-6",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Jasmine - Royal Seafarer"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/cc1/3_8d0410895e534d0023961cae952afbb559525130.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Jasmine - Royal Seafarer"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "INF": true
+    }
+  },
+  "4/CC1-EN-9": {
+    "id": "4/CC1-EN-9",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mulan - Elite Archer"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/cc1/4_9de4f8ae9f39c0d5cfc80c0b6bb683918bc5e862.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mulan - Elite Archer"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 6,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
+  "5/CC1-EN-8": {
+    "id": "5/CC1-EN-8",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Anna - Trusting Sister"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/cc1/5_5effe1342b93d6bc066b1c1cdc2bc656ecfb573e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Anna - Trusting Sister"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "INF": true
+    }
+  },
+  "6/CC1-EN-9": {
+    "id": "6/CC1-EN-9",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tinker Bell - Giant Fairy"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/cc1/6_1ddbd993c07b3126567ff9561a23009fa1f4e4c3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tinker Bell - Giant Fairy"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
   }
 }
