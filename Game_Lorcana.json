@@ -171,6 +171,9 @@
             "countersStartingValues": [
                 0
             ],
+            "categoriesAlreadyOnBoard": [
+                "Coconut"
+            ],
             "hideFacedDownCards": true,
             "sections": {
                 "customSections": [
@@ -185,7 +188,10 @@
                             "direction": "row",
                             "content": [
                                 {
-                                    "section": "Coconut"
+                                    "section": "Coconut",
+                                    "style": {
+                                        "width": "9vh"
+                                    } 
                                 },
                                 {
                                     "section": "Main"
