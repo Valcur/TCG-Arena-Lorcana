@@ -171,15 +171,15 @@
             "countersStartingValues": [
                 0
             ],
-            "categoriesAlreadyOnBoard": [
-                "Coconut"
-            ],
             "hideFacedDownCards": true,
             "sections": {
                 "customSections": [
                     "Main",
                     "Mana",
                     "Items"
+                ],
+                "categoriesAlreadyOnBoard": [
+                    "Coconut"
                 ],
                 "layout": {
                     "direction": "column",
@@ -190,8 +190,8 @@
                                 {
                                     "section": "Coconut",
                                     "style": {
-                                        "width": "9vh"
-                                    } 
+                                        "width": "10.4vh"
+                                    }
                                 },
                                 {
                                     "section": "Main"
@@ -263,7 +263,8 @@
                     "Coconut": {
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "CENTER"
+                        "alignment": "CENTER",
+                        "noQuickActions": true
                     }
                 }
             }
