@@ -19,6 +19,12 @@
                 "gameplay": "Classic",
                 "legalityCode": "INF",
                 "deckRuleset": "Classic"
+            },
+            {
+                "title": "f.coco",
+                "gameplay": "Coconut",
+                "legalityCode": "COCO",
+                "deckRuleset": "Coconut"
             }
         ],
         "deckRulesets": {
@@ -27,6 +33,20 @@
                     "min": 60,
                     "maxPerCard": 4
                 }
+            },
+            "Coconut": {
+                "general": {
+                    "min": 61,
+                    "max": 61,
+                    "maxPerCard": 4
+                },
+                "categories": [
+                    {
+                        "category": "Coconut",
+                        "min": 1,
+                        "max": 1
+                    }
+                ]
             }
         }
     },
@@ -126,6 +146,118 @@
                         "height": "SMALL",
                         "alignment": "END",
                         "isHorizontalAllowed": true
+                    }
+                }
+            }
+        },
+        "Coconut": {
+            "mulligan": {
+                "startingHandSize": 7,
+                "mulliganCount": {
+                    "max": 1
+                },
+                "mulliganCycle": {
+                    "info": "You put as many as you want of the seven cards in your hand to the bottom of your deck then draw the same number of new cards as you put down from the top of your deck.",
+                    "steps": [
+                        "toBottom",
+                        "draw"
+                    ]
+                }
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": false
+            },
+            "countersStartingValues": [
+                0
+            ],
+            "hideFacedDownCards": true,
+            "sections": {
+                "customSections": [
+                    "Main",
+                    "Mana",
+                    "Items"
+                ],
+                "layout": {
+                    "direction": "column",
+                    "content": [
+                        {
+                            "direction": "row",
+                            "content": [
+                                {
+                                    "section": "Coconut"
+                                },
+                                {
+                                    "section": "Main"
+                                }
+                            ]
+                        },
+                        {
+                            "direction": "row",
+                            "content": [
+                                {
+                                    "section": "Mana"
+                                },
+                                {
+                                    "section": "Items"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "autoPlayFromHand": {
+                    "Action": "Stack",
+                    "Character": "Main",
+                    "Item": "Items",
+                    "Location": "Main"
+                },
+                "autoPlayFromStack": {
+                    "Action": "Discard",
+                    "Character": "Main",
+                    "Item": "Items",
+                    "Location": "Main"
+                },
+                "sectionsDict": {
+                    "Stack": {
+                        "isDefaultSection": true,
+                        "title": "Stack",
+                        "isHidden": "no",
+                        "height": "HUGE",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Pile"
+                    },
+                    "Main": {
+                        "title": "Main",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true
+                    },
+                    "Mana": {
+                        "title": "Mana",
+                        "isHidden": "yes",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Inkwell",
+                        "isGroupForbidden": true,
+                        "showHiddenCardInHistory": true,
+                        "logWhenPlayed": true
+                    },
+                    "Items": {
+                        "title": "Items",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "END",
+                        "isHorizontalAllowed": true
+                    },
+                    "Coconut": {
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "CENTER"
                     }
                 }
             }

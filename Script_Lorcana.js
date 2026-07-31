@@ -38,7 +38,9 @@ async function modifyJsonFile(outputFilePath) {
         return;
       }
 
-      const legality = {}
+      const legality = {
+        COCO: true
+      }
       const f = c.allowedInFormats
       if (f?.Core?.allowed === true) {
         legality.COR = true
@@ -105,6 +107,10 @@ async function modifyJsonFile(outputFilePath) {
       }
     });
 
+    Object.keys(coconutCards).forEach((id) => {
+      result[id] = createCoconutCard(id)
+    })
+
     fs.writeFileSync(outputFilePath, JSON.stringify(result, null, 2), 'utf8');
 
     console.log(`\n✅ Saved ${Object.keys(result).length} cards`);
@@ -117,3 +123,89 @@ async function modifyJsonFile(outputFilePath) {
 }
 
 modifyJsonFile('LorcanaCards.json');
+
+const base = "https://valcur.github.io/TCG-Arena-Lorcana/Cards/"
+const createCoconutCard = (cardId) => {
+  const name = coconutCards[cardId]
+  return {
+    id: cardId,
+    face: {
+      front: {
+        name: name,
+        type: "Coconut",
+        cost: 0,
+        image: base + cardId + ".webp"
+      }
+    },
+    name: name,
+    type: "Coconut",
+    cost: 0,
+    rarity: "Coconut",
+    lore: 0,
+    strength: 0,
+    willpower: 0,
+    color: [],
+    _legal: {
+      COCO: true,
+      INF: true,
+      COR: true
+    }
+  };
+}
+
+const coconutCards = {
+  "coconut-1": {
+    "name": "Scar"
+  },
+  "coconut-2": {
+    "name": "Ariel"
+  },
+  "coconut-3": {
+    "name": "Winnie the pooh"
+  },
+  "coconut-4": {
+    "name": "Stitch"
+  },
+  "coconut-5": {
+    "name": "Ursula"
+  },
+  "coconut-6": {
+    "name": "Mickey Mouse"
+  },
+  "coconut-7": {
+    "name": "Mufasa"
+  },
+  "coconut-8": {
+    "name": "Nick Wilde"
+  },
+  "coconut-9": {
+    "name": "Snow white"
+  },
+  "coconut-10": {
+    "name": "Donald Duck"
+  },
+  "coconut-11": {
+    "name": "Mr. Incredible"
+  },
+  "coconut-12": {
+    "name": "Moana"
+  },
+  "coconut-13": {
+    "name": "John Silver"
+  },
+  "coconut-14": {
+    "name": "Robin Hood"
+  },
+  "coconut-15": {
+    "name": "Tinker Bell"
+  },
+  "coconut-16": {
+    "name": "Sisu"
+  },
+  "coconut-17": {
+    "name": "Pocahontas"
+  },
+  "coconut-18": {
+    "name": "Dumbo"
+  }
+}
