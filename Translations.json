@@ -36,7 +36,8 @@
         },
         "Gameplay": {
             "Classic": "Classique",
-            "f.inf": "Infinity"
+            "f.inf": "Infinity",
+            "f.coco": "Coconut"
         },
         "Sections": {
             "Main": "Principale",
