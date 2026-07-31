@@ -115884,6 +115884,117 @@
       "INF": true
     }
   },
+  "12/P4-EN-13": {
+    "id": "12/P4-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tigger - Hunny Barbarian",
+          "fr": "Tigrou - Barbare mellifique"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo4/12_57b02ba2f9714c298bf99f895d44a61530638071.jpg",
+          "fr": "https://api.lorcana.ravensburger.com/images/fr/promo4/12_edb026c90926f558610c3317199e334f92e6ae0b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tigger - Hunny Barbarian",
+      "fr": "Tigrou - Barbare mellifique"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Special",
+      "fr": "Spécial"
+    },
+    "lore": 0,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
+  "13/P4-EN-13": {
+    "id": "13/P4-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Belle - Always Reading",
+          "fr": "Belle - Toujours en train de lire"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo4/13_f3a0fbc7abbc6bcb4155e243b425a35f281a8e89.jpg",
+          "fr": "https://api.lorcana.ravensburger.com/images/fr/promo4/13_d4b202a60fc9d61f65cedd25a2ed65637a009812.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Belle - Always Reading",
+      "fr": "Belle - Toujours en train de lire"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special",
+      "fr": "Spécial"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
+  "14/P4-EN-13": {
+    "id": "14/P4-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "If I Didn't Have You",
+          "fr": "Si je ne t'avais pas"
+        },
+        "type": "Action",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo4/14_6891a2880ea856b94622b710ba1a9c75965aed59.jpg",
+          "fr": "https://api.lorcana.ravensburger.com/images/fr/promo4/14_12cfe0c54a3db9b837be58c19cc2c359c13d5b22.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "If I Didn't Have You",
+      "fr": "Si je ne t'avais pas"
+    },
+    "type": "Action",
+    "cost": 3,
+    "rarity": {
+      "en": "Special",
+      "fr": "Spécial"
+    },
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
   "15/P4-EN-13": {
     "id": "15/P4-EN-13",
     "face": {
@@ -116264,6 +116375,82 @@
       "INF": true
     }
   },
+  "58/P3-EN-13": {
+    "id": "58/P3-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sulley - The New Boss",
+          "fr": "Sulli - Le nouveau Boss"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/58_f60ef7c18cfad9ebd578cca52d2b6643fc9b2555.jpg",
+          "fr": "https://api.lorcana.ravensburger.com/images/fr/promo3/58_c3db361aef8028db50d265d98b71214796ab4f36.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sulley - The New Boss",
+      "fr": "Sulli - Le nouveau Boss"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Special",
+      "fr": "Spécial"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
+  "60/P3-EN-13": {
+    "id": "60/P3-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Woody - Helping a Friend",
+          "fr": "Woody - Aide une amie"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/60_ed2d46869c77f291d299279a5998e4ff9ed3e71e.jpg",
+          "fr": "https://api.lorcana.ravensburger.com/images/fr/promo3/60_e88cec006ac2c11c67caa3d66f9313f3e22d73e2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Woody - Helping a Friend",
+      "fr": "Woody - Aide une amie"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Special",
+      "fr": "Spécial"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
   "1/CC1-EN-1": {
     "id": "1/CC1-EN-1",
     "face": {
@@ -116458,6 +116645,106 @@
     "willpower": 5,
     "color": [
       "Steel"
+    ],
+    "_legal": {
+      "COR": true,
+      "INF": true
+    }
+  },
+  "1/DIS-EN-4": {
+    "id": "1/DIS-EN-4",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rapunzel - Appreciative Artist"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/dis/1_3c05105d76d9775274bc878161a602c4c12365de.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rapunzel - Appreciative Artist"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 3,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "INF": true
+    }
+  },
+  "2/DIS-EN-5": {
+    "id": "2/DIS-EN-5",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Donald Duck - Pie Slinger"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/dis/2_c736ec129c7b7d996b2adc2cb412e1e49f50e5ad.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Donald Duck - Pie Slinger"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "INF": true
+    }
+  },
+  "3/DIS-EN-9": {
+    "id": "3/DIS-EN-9",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Stitch - Rock Star"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/dis/3_a552e08f5a1eec401bbc897eda59b00c89c599e7.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Stitch - Rock Star"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 3,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Amber"
     ],
     "_legal": {
       "COR": true,
