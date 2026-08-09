@@ -119925,6 +119925,80 @@
       "INF": true
     }
   },
+  "56/P3-EN-12": {
+    "id": "56/P3-EN-12",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Buzz Lightyear - On the Way"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/56_8506064299f97aff4cae1cb819b7900f96758007.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Buzz Lightyear - On the Way"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
+  "57/P3-EN-12": {
+    "id": "57/P3-EN-12",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Buzz Lightyear - Space Ranger",
+          "fr": "Buzz l'Éclair - Ranger de l'espace"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/promo3/57_b55c07cfe81c27edc73a7cf3de0ecef90183c4f1.jpg",
+          "fr": "https://api.lorcana.ravensburger.com/images/fr/promo3/57_f2a5f2e08aa9cfc486daebd314f7ef961d47c78b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Buzz Lightyear - Space Ranger",
+      "fr": "Buzz l'Éclair - Ranger de l'espace"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special",
+      "fr": "Spécial"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
   "coconut-1": {
     "id": "coconut-1",
     "face": {
