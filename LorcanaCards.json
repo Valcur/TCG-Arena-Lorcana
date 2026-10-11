@@ -119538,6 +119538,76 @@
       "INF": true
     }
   },
+  "18/PD1-EN-13": {
+    "id": "18/PD1-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sulley - Protective Monster"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/18_68ae3bf21c03514f31ce640ef3c76962a9d70669.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sulley - Protective Monster"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
+  "19/PD1-EN-13": {
+    "id": "19/PD1-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Violet Parr - Super Resilient"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/19_886d1c67852e33a81480ad57deaf6670b9c4d445.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Violet Parr - Super Resilient"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
   "58/P3-EN-13": {
     "id": "58/P3-EN-13",
     "face": {
@@ -120187,6 +120257,105 @@
       "COCO": true
     }
   },
+  "2/204-EN-14": {
+    "id": "2/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Abuelita - Loving Grandmother"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/2_05df526e3752caeddcc5d33a7bf0ba84cee92b8c.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Abuelita - Loving Grandmother"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "3/204-EN-14": {
+    "id": "3/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Max Goof - Music Lover"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/3_dde4bd78d93917903a3c3a7ef8c274543b4fb200.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Max Goof - Music Lover"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "4/204-EN-14": {
+    "id": "4/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Gazelle - Pop Diva"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/4_08267e6d61dbbcfc0104312dce3e91ba82a68cb2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Gazelle - Pop Diva"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "5/204-EN-14": {
     "id": "5/204-EN-14",
     "face": {
@@ -120372,6 +120541,39 @@
       "COCO": true
     }
   },
+  "10/204-EN-14": {
+    "id": "10/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Miguel Rivera - Promising Musician"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/10_d812fb8e5fab885d50504b4fddedc940b433823d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Miguel Rivera - Promising Musician"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "11/204-EN-14": {
     "id": "11/204-EN-14",
     "face": {
@@ -120400,6 +120602,138 @@
       "fr": "Rare"
     },
     "lore": 3,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "12/204-EN-14": {
+    "id": "12/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "P.J. Pete - Devoted Fan"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/12_120c41c2daeaa0667d78704adf34212a8899212e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "P.J. Pete - Devoted Fan"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "13/204-EN-14": {
+    "id": "13/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mr. Manchas - Service with a Smile"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/13_da1530a760e522ca5066b54b97187d6d26de2cb2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mr. Manchas - Service with a Smile"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "14/204-EN-14": {
+    "id": "14/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nick Wilde - Toy Drive Officer"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/14_565c9bed154f1b297abb4b75f94e94acbba74947.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nick Wilde - Toy Drive Officer"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "15/204-EN-14": {
+    "id": "15/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Clawhauser - Safety Officer"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/15_707f1e60b496035455fc5e4b3f4c59eb2538f8ea.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Clawhauser - Safety Officer"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
     "strength": 3,
     "willpower": 5,
     "color": [
@@ -120557,6 +120891,105 @@
       "COCO": true
     }
   },
+  "20/204-EN-14": {
+    "id": "20/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Russell - Finding Adventure"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/20_8cf72eafdd3ec7640ad0b421a311ff86e7f4c67d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Russell - Finding Adventure"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "21/204-EN-14": {
+    "id": "21/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Miguel Rivera - Street Musician"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/21_048bc928fcdbc95404769432d10b5e82c68246c7.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Miguel Rivera - Street Musician"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "22/204-EN-14": {
+    "id": "22/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Goofy - Knows the Band"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/22_48372679b206fb664ea3e83cdc90d336e71e4b09.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Goofy - Knows the Band"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "23/204-EN-14": {
     "id": "23/204-EN-14",
     "face": {
@@ -120668,6 +121101,99 @@
       "COCO": true
     }
   },
+  "26/204-EN-14": {
+    "id": "26/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Miguel Rivera - Accomplished Musician"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/26_562f0cfc5c8f608c7d092df2659c79ef97b47101.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Miguel Rivera - Accomplished Musician"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "27/204-EN-14": {
+    "id": "27/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shed Your Weary Load"
+        },
+        "type": "Action",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/27_f777c4a57346d2197130b27252913f67aa7a246e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shed Your Weary Load"
+    },
+    "type": "Action",
+    "cost": 5,
+    "rarity": {
+      "en": "Rare"
+    },
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "28/204-EN-14": {
+    "id": "28/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Never Too Far Apart"
+        },
+        "type": "Action",
+        "cost": 9,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/28_eade1325895cde89f3d60ce9ce72a880f4af860f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Never Too Far Apart"
+    },
+    "type": "Action",
+    "cost": 9,
+    "rarity": {
+      "en": "Rare"
+    },
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "29/204-EN-14": {
     "id": "29/204-EN-14",
     "face": {
@@ -120728,6 +121254,36 @@
     "rarity": {
       "en": "Uncommon",
       "fr": "Inhabituelle"
+    },
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "31/204-EN-14": {
+    "id": "31/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ancestral Guitar"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/31_d339f45133e6c47b9273cdd5373a249c1f04f39f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ancestral Guitar"
+    },
+    "type": "Item",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
     },
     "color": [
       "Amber"
@@ -120877,6 +121433,39 @@
       "COCO": true
     }
   },
+  "36/204-EN-14": {
+    "id": "36/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Scuttle - Directing Traffic"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/36_db7c815f20ca5f5a97e0cf0c0aaaa6d6de29860e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Scuttle - Directing Traffic"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "37/204-EN-14": {
     "id": "37/204-EN-14",
     "face": {
@@ -120981,6 +121570,138 @@
     "lore": 2,
     "strength": 2,
     "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "40/204-EN-14": {
+    "id": "40/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Pepita - Watchful Alebrije"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/40_471d6645d21f16e7c9be1fe535bcbc925532fad7.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Pepita - Watchful Alebrije"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "41/204-EN-14": {
+    "id": "41/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Archimedes - Has Had Enough"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/41_6e8e17a6039fd876cf4dcb18c1833a24f2896b15.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Archimedes - Has Had Enough"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "42/204-EN-14": {
+    "id": "42/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tía Victoria - Disapproving Ancestor"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/42_883b768740df095cda008dc2feaa706cbe47d9ae.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tía Victoria - Disapproving Ancestor"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 7,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "43/204-EN-14": {
+    "id": "43/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dante - Enthusiastic Stray"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/43_63ad49999372ea03e5928b72a34093599fb2b264.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dante - Enthusiastic Stray"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
     "color": [
       "Amethyst"
     ],
@@ -121099,6 +121820,72 @@
       "COCO": true
     }
   },
+  "47/204-EN-14": {
+    "id": "47/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Peter Pan's Shadow - Elusive Prankster"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/47_7ec20d348f873927907cd0dee0b0ae08c5a923c2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Peter Pan's Shadow - Elusive Prankster"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "48/204-EN-14": {
+    "id": "48/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dante - Strange and Endearing"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/48_09ca65dbdcacc71ed38ecba4fed41f1faf31e281.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dante - Strange and Endearing"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 1,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "49/204-EN-14": {
     "id": "49/204-EN-14",
     "face": {
@@ -121173,6 +121960,39 @@
       "COCO": true
     }
   },
+  "51/204-EN-14": {
+    "id": "51/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mamá Imelda - No-Nonsense Ancestor"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/51_7edc303cef5dff880c1f0eb6507481981996632f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mamá Imelda - No-Nonsense Ancestor"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "52/204-EN-14": {
     "id": "52/204-EN-14",
     "face": {
@@ -121240,6 +122060,138 @@
     "lore": 1,
     "strength": 5,
     "willpower": 5,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "54/204-EN-14": {
+    "id": "54/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dante - Loyal Alebrije"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/54_8d41b079d0b1f99190ef0fd3a423f8115979e133.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dante - Loyal Alebrije"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 2,
+    "strength": 6,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "55/204-EN-14": {
+    "id": "55/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rapunzel - Outgoing Artist"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/55_f8c3fb00422289992db8e3927e2cc2d287e4c235.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rapunzel - Outgoing Artist"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 1,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "56/204-EN-14": {
+    "id": "56/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Demona - Imperious Spellcaster"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/56_f74016dfb84dbe9c967f2d968aa3de0f76e472cc.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Demona - Imperious Spellcaster"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "57/204-EN-14": {
+    "id": "57/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Merlin - Profoundly Curious"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/57_fd68b9b6689af7d484bdd08bc75326ef84c143fb.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Merlin - Profoundly Curious"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
     "color": [
       "Amethyst"
     ],
@@ -121355,6 +122307,36 @@
       "COCO": true
     }
   },
+  "61/204-EN-14": {
+    "id": "61/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mim's Malice"
+        },
+        "type": "Action",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/61_68538a89643cdb3a667f4390c8cefcdfbca14ef0.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mim's Malice"
+    },
+    "type": "Action",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "62/204-EN-14": {
     "id": "62/204-EN-14",
     "face": {
@@ -121381,6 +122363,36 @@
     "rarity": {
       "en": "Common",
       "fr": "Commune"
+    },
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "63/204-EN-14": {
+    "id": "63/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Un Poco Loco"
+        },
+        "type": "Action",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/63_dfb3c19dd08a7deccf926003cf95d5e93bb52a38.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Un Poco Loco"
+    },
+    "type": "Action",
+    "cost": 3,
+    "rarity": {
+      "en": "Rare"
     },
     "color": [
       "Amethyst"
@@ -121423,6 +122435,66 @@
       "COCO": true
     }
   },
+  "65/204-EN-14": {
+    "id": "65/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Creative Inspiration"
+        },
+        "type": "Action",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/65_bd2a16bbe28806544441cb0213db01197aa7a1d3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Creative Inspiration"
+    },
+    "type": "Action",
+    "cost": 7,
+    "rarity": {
+      "en": "Rare"
+    },
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "66/204-EN-14": {
+    "id": "66/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Merlin's Wand"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/66_03140ec7358213a61c596b7815cb289b62e21f32.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Merlin's Wand"
+    },
+    "type": "Item",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "67/204-EN-14": {
     "id": "67/204-EN-14",
     "face": {
@@ -121450,6 +122522,38 @@
       "en": "Rare",
       "fr": "Rare"
     },
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "68/204-EN-14": {
+    "id": "68/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Merlin's Shop and Smithy - Magical Market"
+        },
+        "type": "Location",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/68_360923476d1d5b642fd3287239eec6f52df8e5d0.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Merlin's Shop and Smithy - Magical Market"
+    },
+    "type": "Location",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 0,
+    "willpower": 6,
     "color": [
       "Amethyst"
     ],
@@ -121487,6 +122591,39 @@
     "lore": 2,
     "strength": 4,
     "willpower": 7,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "70/204-EN-14": {
+    "id": "70/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Don Karnage - Khan's Courier"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/70_577c647b741484c66ecfe4d017e35bff600221a4.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Don Karnage - Khan's Courier"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
     "color": [
       "Emerald"
     ],
@@ -121679,6 +122816,72 @@
       "COCO": true
     }
   },
+  "76/204-EN-14": {
+    "id": "76/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Fred - Assembling the Team"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/76_fdf768b7ebe1a60988cae5002d21641ec0220ef1.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Fred - Assembling the Team"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "77/204-EN-14": {
+    "id": "77/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Captain Hook - Concerned Captain"
+        },
+        "type": "Character",
+        "cost": 8,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/77_5d485110836f165cd027ded25b0e96a4b8ed8c26.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Captain Hook - Concerned Captain"
+    },
+    "type": "Character",
+    "cost": 8,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 3,
+    "strength": 9,
+    "willpower": 9,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "78/204-EN-14": {
     "id": "78/204-EN-14",
     "face": {
@@ -121709,6 +122912,39 @@
     "lore": 1,
     "strength": 4,
     "willpower": 4,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "79/204-EN-14": {
+    "id": "79/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lady - Relaxed and Rested"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/79_2ea407f2cd700219d2a88e81c649e8c73c6c77cf.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lady - Relaxed and Rested"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 1,
     "color": [
       "Emerald"
     ],
@@ -121827,6 +123063,72 @@
       "COCO": true
     }
   },
+  "83/204-EN-14": {
+    "id": "83/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shere Khan - Ruthless Entrepreneur"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/83_740e4a58b576a213b9d1f73a2d0b4e2960b5aca4.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shere Khan - Ruthless Entrepreneur"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 7,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "84/204-EN-14": {
+    "id": "84/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bobby Zimuruski - Soundboard Whiz"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/84_16927d23cfac091f9a58872ddf7450596411b294.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bobby Zimuruski - Soundboard Whiz"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "85/204-EN-14": {
     "id": "85/204-EN-14",
     "face": {
@@ -121901,6 +123203,72 @@
       "COCO": true
     }
   },
+  "87/204-EN-14": {
+    "id": "87/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lester the Possum - Park Mascot"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/87_72d2a656c620c1a336ac87dfbd351e7bf376f394.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lester the Possum - Park Mascot"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 0,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "88/204-EN-14": {
+    "id": "88/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Don Karnage - Debonair Pirate"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/88_109b3456e1d779be4a6566ea1f795103fabde790.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Don Karnage - Debonair Pirate"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 6,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "89/204-EN-14": {
     "id": "89/204-EN-14",
     "face": {
@@ -121938,6 +123306,39 @@
       "COCO": true
     }
   },
+  "90/204-EN-14": {
+    "id": "90/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Belle - Exceptional Writer"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/90_1fba75cef8ba05e713bbe0d502dac71dfd019872.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Belle - Exceptional Writer"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "91/204-EN-14": {
     "id": "91/204-EN-14",
     "face": {
@@ -121968,6 +123369,39 @@
     "lore": 2,
     "strength": 5,
     "willpower": 4,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "92/204-EN-14": {
+    "id": "92/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Minnie Mouse - Busy Go-Getter"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/92_5173f692bc25fed935e5fa7eadebf48697b5cc8b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Minnie Mouse - Busy Go-Getter"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 2,
     "color": [
       "Emerald"
     ],
@@ -122182,6 +123616,66 @@
       "COCO": true
     }
   },
+  "99/204-EN-14": {
+    "id": "99/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chemical Reaction"
+        },
+        "type": "Action",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/99_77858f308f05a301dc4aeb538a622b09c76b0b3c.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chemical Reaction"
+    },
+    "type": "Action",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "100/204-EN-14": {
+    "id": "100/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Belle's City Guide"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/100_75970c8503d099a19b7567e5cf7df6fe96f76f93.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Belle's City Guide"
+    },
+    "type": "Item",
+    "cost": 2,
+    "rarity": {
+      "en": "Rare"
+    },
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "101/204-EN-14": {
     "id": "101/204-EN-14",
     "face": {
@@ -122209,6 +123703,38 @@
       "en": "Rare",
       "fr": "Rare"
     },
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "102/204-EN-14": {
+    "id": "102/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "The Beanstalk - Onward and Upward"
+        },
+        "type": "Location",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/102_d93d0115489b05a5dbbcd69155e9d9ed5d0224e1.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "The Beanstalk - Onward and Upward"
+    },
+    "type": "Location",
+    "cost": 1,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 0,
+    "willpower": 6,
     "color": [
       "Emerald"
     ],
@@ -122327,6 +123853,138 @@
       "COCO": true
     }
   },
+  "106/204-EN-14": {
+    "id": "106/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Héctor Rivera - Worldwide Sensation"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/106_03c9e9a89821189e21b7190359bcde50b10ba882.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Héctor Rivera - Worldwide Sensation"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "107/204-EN-14": {
+    "id": "107/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Yama - Notorious Criminal"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/107_567fbb5130e709be57e907adcba0a5e72715f07f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Yama - Notorious Criminal"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "108/204-EN-14": {
+    "id": "108/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Abigail Callaghan - Seasoned Test Pilot"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/108_c47bc70643a7c417630527f13afbbe70a4a44934.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Abigail Callaghan - Seasoned Test Pilot"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 7,
+    "willpower": 6,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "109/204-EN-14": {
+    "id": "109/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Pepita - Sweet Kitty"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/109_e4edd60224a4d833d80a647bae4aa0ad90fdae12.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Pepita - Sweet Kitty"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "110/204-EN-14": {
     "id": "110/204-EN-14",
     "face": {
@@ -122394,6 +124052,39 @@
     "lore": 1,
     "strength": 0,
     "willpower": 2,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "112/204-EN-14": {
+    "id": "112/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tadashi Hamada - Making Waves"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/112_ff2bbc4fd6669111109b2e30f171b06c5b4a88bb.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tadashi Hamada - Making Waves"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 3,
+    "strength": 4,
+    "willpower": 3,
     "color": [
       "Ruby"
     ],
@@ -122475,6 +124166,39 @@
       "COCO": true
     }
   },
+  "115/204-EN-14": {
+    "id": "115/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Peg - Late-Night Vocalist"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/115_051b1f1f0aee5f61c4894fadaa88f7ce034fe925.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Peg - Late-Night Vocalist"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "116/204-EN-14": {
     "id": "116/204-EN-14",
     "face": {
@@ -122505,6 +124229,105 @@
     "lore": 3,
     "strength": 2,
     "willpower": 2,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "117/204-EN-14": {
+    "id": "117/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Héctor Rivera - Street Musician"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/117_700a5e82cb01115e3435598b94be3d4d7d836c80.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Héctor Rivera - Street Musician"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "118/204-EN-14": {
+    "id": "118/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ernesto de la Cruz - Idol of Millions"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/118_1bb5f5a8f48dd3c2e6c0395dbc07146c30879602.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ernesto de la Cruz - Idol of Millions"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 5,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "119/204-EN-14": {
+    "id": "119/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Pepita - Imelda's Right Hand"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/119_32f20b769d936377da14e6ebc9fa1ccf56aaa7b2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Pepita - Imelda's Right Hand"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 6,
     "color": [
       "Ruby"
     ],
@@ -122549,6 +124372,39 @@
       "COCO": true
     }
   },
+  "121/204-EN-14": {
+    "id": "121/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Héctor Rivera - Gone to Pieces"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/121_191bb4c44ee5b60dc314df67a98c2d7c45a5f296.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Héctor Rivera - Gone to Pieces"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 1,
+    "strength": 5,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "122/204-EN-14": {
     "id": "122/204-EN-14",
     "face": {
@@ -122579,6 +124435,39 @@
     "lore": 1,
     "strength": 2,
     "willpower": 2,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "123/204-EN-14": {
+    "id": "123/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Meilin Lee - Ecstatic Fan"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/123_5efae6b5eceb0a6c485a5d5dc492f7267d6499d8.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Meilin Lee - Ecstatic Fan"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
     "color": [
       "Ruby"
     ],
@@ -122697,6 +124586,39 @@
       "COCO": true
     }
   },
+  "127/204-EN-14": {
+    "id": "127/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mulan - Martial Arts Master"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/127_ce447dd04f0431e8bb0fa6d6425228824260e62f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mulan - Martial Arts Master"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "128/204-EN-14": {
     "id": "128/204-EN-14",
     "face": {
@@ -122765,6 +124687,126 @@
       "COCO": true
     }
   },
+  "130/204-EN-14": {
+    "id": "130/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "If She Doesn't Scare You"
+        },
+        "type": "Action",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/130_db85971cbe4c167cfbd003c659f4b7611c97a8b2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "If She Doesn't Scare You"
+    },
+    "type": "Action",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "131/204-EN-14": {
+    "id": "131/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Though I Have to Say Goodbye"
+        },
+        "type": "Action",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/131_2a5372b569ae889827eda53d9d90125e84a4641e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Though I Have to Say Goodbye"
+    },
+    "type": "Action",
+    "cost": 2,
+    "rarity": {
+      "en": "Rare"
+    },
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "132/204-EN-14": {
+    "id": "132/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rivera Family Photo"
+        },
+        "type": "Item",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/132_e1a9cc39f33251e6d2de130a45921c068eab0ace.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rivera Family Photo"
+    },
+    "type": "Item",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "133/204-EN-14": {
+    "id": "133/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "The Torn Corner"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/133_db0298461085055f9871b5b9e60672a4c0c89fce.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "The Torn Corner"
+    },
+    "type": "Item",
+    "cost": 3,
+    "rarity": {
+      "en": "Rare"
+    },
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "134/204-EN-14": {
     "id": "134/204-EN-14",
     "face": {
@@ -122794,6 +124836,103 @@
     },
     "color": [
       "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "135/204-EN-14": {
+    "id": "135/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Land of the Dead - Marigold Bridge"
+        },
+        "type": "Location",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/135_70165084363e8322563e90126e14d9309adac62e.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Land of the Dead - Marigold Bridge"
+    },
+    "type": "Location",
+    "cost": 4,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "willpower": 8,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "136/204-EN-14": {
+    "id": "136/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Khan Stadium - State of the Art"
+        },
+        "type": "Location",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/136_46e7756fa58573c0f735f61462793ec279d967a3.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Khan Stadium - State of the Art"
+    },
+    "type": "Location",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "137/204-EN-14": {
+    "id": "137/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Carl Fredricksen - Wilderness Guide"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/137_1c01b142a39ef4aa4f8c0e14269b636f474213cd.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Carl Fredricksen - Wilderness Guide"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 3,
+    "strength": 5,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
     ],
     "_legal": {
       "COCO": true
@@ -122910,6 +125049,72 @@
       "COCO": true
     }
   },
+  "141/204-EN-14": {
+    "id": "141/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "King Louie - Ice Cream Virtuoso"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/141_c3b13e7d39eccce4cdeb6516b03be9eda93a0dd6.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "King Louie - Ice Cream Virtuoso"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "142/204-EN-14": {
+    "id": "142/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Lafayette - All Ears"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/142_618e2734f0a551993330c5293921f0abe71b3f7e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Lafayette - All Ears"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "143/204-EN-14": {
     "id": "143/204-EN-14",
     "face": {
@@ -122940,6 +125145,72 @@
     "lore": 2,
     "strength": 2,
     "willpower": 2,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "144/204-EN-14": {
+    "id": "144/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Honey Lemon - Ingenious Researcher"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/144_d1d5bd380183b852d2e38efd1f74b3854845c439.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Honey Lemon - Ingenious Researcher"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "145/204-EN-14": {
+    "id": "145/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Go Go Tomago - Working Late"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/145_e0bd76a9f42fa420a858017f4b45c23b286a122b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Go Go Tomago - Working Late"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 6,
     "color": [
       "Sapphire"
     ],
@@ -123014,6 +125285,72 @@
     "lore": 1,
     "strength": 3,
     "willpower": 5,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "148/204-EN-14": {
+    "id": "148/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Priscilla - Efficient Clerk"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/148_f58eaf62da6b0061dfc21b6c03d3592017978898.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Priscilla - Efficient Clerk"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 0,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "149/204-EN-14": {
+    "id": "149/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Daisy Duck - Savvy Investor"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/149_f665dfa51ea08a185b825a9faddd7957a37117e7.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Daisy Duck - Savvy Investor"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
     "color": [
       "Sapphire"
     ],
@@ -123243,6 +125580,39 @@
       "COCO": true
     }
   },
+  "156/204-EN-14": {
+    "id": "156/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ariel - Collector of Oddities"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/156_aad7bd84a943798b9227b3004cbb8a35f43b9599.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ariel - Collector of Oddities"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "157/204-EN-14": {
     "id": "157/204-EN-14",
     "face": {
@@ -123273,6 +125643,105 @@
     "lore": 3,
     "strength": 4,
     "willpower": 6,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "158/204-EN-14": {
+    "id": "158/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Baymax - Amped Up"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/158_1b5f8e70d0cdaa5d7bb880cb13feeb0c5ba5bfce.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Baymax - Amped Up"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 8,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "159/204-EN-14": {
+    "id": "159/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Bellwether - Highly Qualified"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/159_d9ffdcefcb2a8a7887cdabf5e1cb9259675e6c64.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Bellwether - Highly Qualified"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "160/204-EN-14": {
+    "id": "160/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Clarabelle - Out for a Stroll"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/160_e802db4089ff9a77d08f56394c71852312946681.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Clarabelle - Out for a Stroll"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 7,
     "color": [
       "Sapphire"
     ],
@@ -123351,6 +125820,36 @@
       "COCO": true
     }
   },
+  "163/204-EN-14": {
+    "id": "163/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Everything Else Is Obsolete"
+        },
+        "type": "Action",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/163_3ace75afc9f644a364fa0298ad95780dcd16157e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Everything Else Is Obsolete"
+    },
+    "type": "Action",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "164/204-EN-14": {
     "id": "164/204-EN-14",
     "face": {
@@ -123411,6 +125910,66 @@
     "rarity": {
       "en": "Uncommon",
       "fr": "Inhabituelle"
+    },
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "166/204-EN-14": {
+    "id": "166/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Blinding Chem Ball"
+        },
+        "type": "Item",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/166_53ae2d523825712d93ffb5b06daaa51c2cd2f2db.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Blinding Chem Ball"
+    },
+    "type": "Item",
+    "cost": 1,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "167/204-EN-14": {
+    "id": "167/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Prototype Chem Ball"
+        },
+        "type": "Item",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/167_04e8edd3b3e0b58c50a47c0adae46fe258836266.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Prototype Chem Ball"
+    },
+    "type": "Item",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
     },
     "color": [
       "Sapphire"
@@ -123487,6 +126046,170 @@
       "COCO": true
     }
   },
+  "170/204-EN-14": {
+    "id": "170/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Institute of Technology - Honey Lemon's Lab"
+        },
+        "type": "Location",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/170_d5f363be14e21fde7bd815d92caa91d8bce6fd6b.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Institute of Technology - Honey Lemon's Lab"
+    },
+    "type": "Location",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 1,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "171/204-EN-14": {
+    "id": "171/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Flash - Efficient Clerk"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/171_69ed8ea221cf208408ac226bda7b95f00b1e382c.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Flash - Efficient Clerk"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "172/204-EN-14": {
+    "id": "172/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Arthur - Merlin's Assistant"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/172_eda4db8ed34489b89a26299f03384379125b0224.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Arthur - Merlin's Assistant"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "173/204-EN-14": {
+    "id": "173/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Edgar Balthazar - Long-Suffering Butler"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/173_e8ff9bb4d2a4c9c93dd70cc22a50996544c620ee.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Edgar Balthazar - Long-Suffering Butler"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "174/204-EN-14": {
+    "id": "174/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Kit Cloudkicker - Unpredictable Courier"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/174_efbbc3af9b143c7328b2b2cb1a260091081c0bb0.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Kit Cloudkicker - Unpredictable Courier"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "175/204-EN-14": {
     "id": "175/204-EN-14",
     "face": {
@@ -123517,6 +126240,72 @@
     "lore": 3,
     "strength": 9,
     "willpower": 9,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "176/204-EN-14": {
+    "id": "176/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tiana - Restauranteur"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/176_95c12141391deace51c80a831b78b77ec40dab6c.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tiana - Restauranteur"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "177/204-EN-14": {
+    "id": "177/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Raya - Determined Explorer"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/177_d71d03f4698adfcf1a5f7d43f76ec30eff1c1bdb.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Raya - Determined Explorer"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
     "color": [
       "Steel"
     ],
@@ -123598,6 +126387,72 @@
       "COCO": true
     }
   },
+  "180/204-EN-14": {
+    "id": "180/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Wildcat - Unconventional Mechanic"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/180_de2323ea7bc847e7964b3a588c161b22ccdfe8bf.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Wildcat - Unconventional Mechanic"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "181/204-EN-14": {
+    "id": "181/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sir Kay - Determined to Win"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/181_01a5d69a7cc88f4d4f8dc57d7d9012fade5646e8.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sir Kay - Determined to Win"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "182/204-EN-14": {
     "id": "182/204-EN-14",
     "face": {
@@ -123628,6 +126483,39 @@
     "lore": 1,
     "strength": 1,
     "willpower": 2,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "183/204-EN-14": {
+    "id": "183/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Chief Bogo - Police Commissioner"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/183_983b1a8314bd8add592c93d5e38ba046cb541b8b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Chief Bogo - Police Commissioner"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 3,
+    "strength": 6,
+    "willpower": 6,
     "color": [
       "Steel"
     ],
@@ -123783,6 +126671,39 @@
       "COCO": true
     }
   },
+  "188/204-EN-14": {
+    "id": "188/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Baloo - Delivery Pilot"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/188_49a00d71544cc4b4b1552f645a915dc04f1fd0f6.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Baloo - Delivery Pilot"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "189/204-EN-14": {
     "id": "189/204-EN-14",
     "face": {
@@ -123812,6 +126733,39 @@
     },
     "lore": 2,
     "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "190/204-EN-14": {
+    "id": "190/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sir Ector - Blustery Knight"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/190_e559db60092f7850c972f738fc867536f1c890ff.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sir Ector - Blustery Knight"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "lore": 2,
+    "strength": 6,
     "willpower": 4,
     "color": [
       "Steel"
@@ -123931,6 +126885,39 @@
       "COCO": true
     }
   },
+  "194/204-EN-14": {
+    "id": "194/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mr. Big - Distribution Magnate"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/194_e58eac3aad6f51bd7225cfe105bdbe5ed464f0d4.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mr. Big - Distribution Magnate"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "195/204-EN-14": {
     "id": "195/204-EN-14",
     "face": {
@@ -124039,6 +127026,36 @@
       "COCO": true
     }
   },
+  "198/204-EN-14": {
+    "id": "198/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ink Explosion"
+        },
+        "type": "Action",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/198_b9b1ea77147b040bbaccb4711be2e392785e414d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ink Explosion"
+    },
+    "type": "Action",
+    "cost": 4,
+    "rarity": {
+      "en": "Common"
+    },
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
   "199/204-EN-14": {
     "id": "199/204-EN-14",
     "face": {
@@ -124065,6 +127082,36 @@
     "rarity": {
       "en": "Common",
       "fr": "Commune"
+    },
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "200/204-EN-14": {
+    "id": "200/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "People Gonna Come Here"
+        },
+        "type": "Action",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/200_6dbd1b0a04a45adae2608de927b38c87a435c238.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "People Gonna Come Here"
+    },
+    "type": "Action",
+    "cost": 7,
+    "rarity": {
+      "en": "Rare"
     },
     "color": [
       "Steel"
@@ -124100,6 +127147,1276 @@
       "en": "Uncommon",
       "fr": "Inhabituelle"
     },
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "202/204-EN-14": {
+    "id": "202/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Pirate Plane"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/202_004d22fc48f17684e429a30af272bb5f54955072.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Pirate Plane"
+    },
+    "type": "Item",
+    "cost": 3,
+    "rarity": {
+      "en": "Uncommon"
+    },
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "203/204-EN-14": {
+    "id": "203/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Central Station - Transportation Hub"
+        },
+        "type": "Location",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/203_0c067a6fa6824cc1fdab781a51cf84d6afc69c14.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Central Station - Transportation Hub"
+    },
+    "type": "Location",
+    "cost": 1,
+    "rarity": {
+      "en": "Common"
+    },
+    "lore": 0,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "204/204-EN-14": {
+    "id": "204/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Khan Industries - Greenway Landmark"
+        },
+        "type": "Location",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/204_9105f19cb07ac3a88da72f1a96d8a6313966fad9.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "Khan Industries - Greenway Landmark"
+    },
+    "type": "Location",
+    "cost": 5,
+    "rarity": {
+      "en": "Rare"
+    },
+    "lore": 2,
+    "willpower": 8,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "205/204-EN-14": {
+    "id": "205/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nick Wilde - Providing Backup"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/205_9de45571c816b6cec79bf75b986c29291075a6de.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nick Wilde - Providing Backup"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "206/204-EN-14": {
+    "id": "206/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Judy Hopps - Always Vigilant"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/206_6888f06cdb9cf798ffc1935bffc29f6ee5cd1f01.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Judy Hopps - Always Vigilant"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "207/204-EN-14": {
+    "id": "207/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ancestral Guitar"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/207_2ee9a981ba31669363300601ad8af8b0b09bbd01.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ancestral Guitar"
+    },
+    "type": "Item",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "208/204-EN-14": {
+    "id": "208/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Dante - Enthusiastic Stray"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/208_f5914d266ebef3bac0c49d50e474ec4227a83dd3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Dante - Enthusiastic Stray"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "209/204-EN-14": {
+    "id": "209/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tinker Bell - Curious Fairy"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/209_cf395aa5b1953c06ce85094dff725b24a35cfbde.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tinker Bell - Curious Fairy"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 4,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "210/204-EN-14": {
+    "id": "210/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Archimedes - Messenger Owl"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/210_7998fdaaf77c8f33117a6802226c216e03e9330e.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Archimedes - Messenger Owl"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "211/204-EN-14": {
+    "id": "211/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Go Go Tomago - Extreme Tester"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/211_496282094f5ca386a6d53d7c59a4981a168cd251.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Go Go Tomago - Extreme Tester"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "212/204-EN-14": {
+    "id": "212/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Belle - Reflective Writer"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/212_20c099aedf32663c16580a0eab67dd88f243b403.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Belle - Reflective Writer"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "213/204-EN-14": {
+    "id": "213/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Baymax - Lab Assistant"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/213_e468d80d602b07fd313bc8dba4b58bfb41079293.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Baymax - Lab Assistant"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "214/204-EN-14": {
+    "id": "214/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Meilin Lee - Ecstatic Fan"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/214_fabdf5d5f12e2fd3d32f2c4da0ae51c3cd7e952b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Meilin Lee - Ecstatic Fan"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "215/204-EN-14": {
+    "id": "215/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Héctor Rivera - Street Musician"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/215_beea938c50601e085664dcd83fcb74d18fe90eb3.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Héctor Rivera - Street Musician"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "216/204-EN-14": {
+    "id": "216/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Though I Have to Say Goodbye"
+        },
+        "type": "Action",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/216_b3c9fc47698ef570b1e8a1e4bdf8dd102b1ef873.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Though I Have to Say Goodbye"
+    },
+    "type": "Action",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "217/204-EN-14": {
+    "id": "217/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Daisy Duck - Savvy Investor"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/217_72716024adc927d70bec1b79b19862cfb941cc3a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Daisy Duck - Savvy Investor"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "218/204-EN-14": {
+    "id": "218/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Wasabi - Future Thinker"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/218_9c12d4afee059eeb54c7818f93da77e8c72d09d1.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Wasabi - Future Thinker"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "219/204-EN-14": {
+    "id": "219/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Priscilla - Efficient Clerk"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/219_375284ff663126a63d1be4a01710d3e8ced58db5.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Priscilla - Efficient Clerk"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 0,
+    "willpower": 4,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "220/204-EN-14": {
+    "id": "220/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tiana - Restauranteur"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/220_f996fc7ac8f4762579cacd84e5c87e9915ed1490.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tiana - Restauranteur"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "221/204-EN-14": {
+    "id": "221/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Toulouse - Rough and Tumble"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/221_1366615119dc4b6bad90bbd0ee2329e59fd61463.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Toulouse - Rough and Tumble"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "222/204-EN-14": {
+    "id": "222/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Flash - Efficient Clerk"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/222_14adfa3e4157ce93c0d99e42983bda4297a381f9.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Flash - Efficient Clerk"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Epic"
+    },
+    "lore": 2,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "223/204-EN-14": {
+    "id": "223/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Aurora - Delightful Musician"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/223_e0f099efd671e0e04d70a9172234bdb3f06a14a7.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Aurora - Delightful Musician"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "224/204-EN-14": {
+    "id": "224/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Miguel Rivera - Street Musician"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/224_358958054340c1397ae0bf5078b3afed160f5dbb.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Miguel Rivera - Street Musician"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "225/204-EN-14": {
+    "id": "225/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Remember Me"
+        },
+        "type": "Action",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/225_c35f7394ce60026367a7db480136636997d1443b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Remember Me"
+    },
+    "type": "Action",
+    "cost": 6,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "226/204-EN-14": {
+    "id": "226/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Rapunzel - Outgoing Artist"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/226_ab859eb2b27fc9d47eb0a858845698fa8e455d20.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Rapunzel - Outgoing Artist"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 1,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "227/204-EN-14": {
+    "id": "227/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Merlin - Profoundly Curious"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/227_afa8c02699ca52b045aad14ed3fb320401f2a10b.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Merlin - Profoundly Curious"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "228/204-EN-14": {
+    "id": "228/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Un Poco Loco"
+        },
+        "type": "Action",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/228_2ff2037557fd61be77f71fb104d0b4440e66f7da.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Un Poco Loco"
+    },
+    "type": "Action",
+    "cost": 3,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "229/204-EN-14": {
+    "id": "229/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Max Goof - Karaoke Star"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/229_0589e5067d0ecf07f35a283bcfa139ef92bbb372.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Max Goof - Karaoke Star"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 1,
+    "willpower": 3,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "230/204-EN-14": {
+    "id": "230/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Belle - Exceptional Writer"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/230_60edfb152f1821f773d8ecbaec64843c052b49ad.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Belle - Exceptional Writer"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "231/204-EN-14": {
+    "id": "231/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Shere Khan - Ruthless Entrepreneur"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/231_24337e6e07444d178bf7aa8abcb624345ce28783.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Shere Khan - Ruthless Entrepreneur"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 7,
+    "willpower": 4,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "232/204-EN-14": {
+    "id": "232/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Héctor Rivera - Worldwide Sensation"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/232_4f6a70c5695d217f05fb26cdde94508bc43d24cd.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Héctor Rivera - Worldwide Sensation"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 5,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "233/204-EN-14": {
+    "id": "233/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Pepita - Imelda's Right Hand"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/233_fc94ef1da337929a26ef2b016265b2c5ff019d76.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Pepita - Imelda's Right Hand"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 4,
+    "willpower": 6,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "234/204-EN-14": {
+    "id": "234/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mulan - Martial Arts Master"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/234_55903e9b197e5bf3a1fd9eb47e8a5ef395db038f.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mulan - Martial Arts Master"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "235/204-EN-14": {
+    "id": "235/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Thomas O'Malley - Savvy Vagabond"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/235_25274110a7a4836f915de68c0f9131f7c6fc8cc5.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Thomas O'Malley - Savvy Vagabond"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "236/204-EN-14": {
+    "id": "236/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Ariel - Collector of Oddities"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/236_3a9439243b4ca7097f8c784c096b172345e42701.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Ariel - Collector of Oddities"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "237/204-EN-14": {
+    "id": "237/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Baymax - Amped Up"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/237_e9c52847917a579aada1a339849ff40d722fd430.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Baymax - Amped Up"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 8,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "238/204-EN-14": {
+    "id": "238/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Marie - Caught in the Act"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/238_13eda7886fa58d2c6f43bd03afe05cd87df88acb.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Marie - Caught in the Act"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "239/204-EN-14": {
+    "id": "239/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tiana - Party Hostess"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/239_bb2e2da724a9e73b8b6495043568b9525cf80ff1.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tiana - Party Hostess"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 5,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "240/204-EN-14": {
+    "id": "240/204-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Raya - Determined Explorer"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set14/240_c2be40377c37356886d7294d27628a2f7cb48568.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Raya - Determined Explorer"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Enchanted"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 1,
     "color": [
       "Steel"
     ],
@@ -124176,6 +128493,634 @@
     "willpower": 6,
     "color": [
       "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "9/PD1-EN-14": {
+    "id": "9/PD1-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nick Wilde - Inquisitive Harbormaster"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/9_586293ae63b20e862d9fe1a819b572fff52a0387.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nick Wilde - Inquisitive Harbormaster"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 3,
+    "strength": 3,
+    "willpower": 5,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "10/PD1-EN-14": {
+    "id": "10/PD1-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Merlin - Ink Drop Tinkerer"
+        },
+        "type": "Character",
+        "cost": 7,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/10_db2113a67dedd5a09c0128f34631e6897eb0ef91.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Merlin - Ink Drop Tinkerer"
+    },
+    "type": "Character",
+    "cost": 7,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 3,
+    "strength": 6,
+    "willpower": 8,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "11/PD1-EN-14": {
+    "id": "11/PD1-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Above the Crowd"
+        },
+        "type": "Action",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/11_70d48b690135847b1c9507f77b0fa3e551df43c2.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Above the Crowd"
+    },
+    "type": "Action",
+    "cost": 5,
+    "rarity": {
+      "en": "Special"
+    },
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "12/PD1-EN-14": {
+    "id": "12/PD1-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Goofy - Dancing Superstar"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/12_ffd6224b7a2bbd9eb19439cc33bc819508d1880d.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Goofy - Dancing Superstar"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 2,
+    "strength": 5,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "13/PD1-EN-14": {
+    "id": "13/PD1-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Judy Hopps - Day Camp Instructor"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/13_7186d949a327db003395c954d96fbca8ae95a120.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Judy Hopps - Day Camp Instructor"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "14/PD1-EN-14": {
+    "id": "14/PD1-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Berlioz - Tiny Rascal"
+        },
+        "type": "Character",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/14_2bfc82512f01fc462470d0bbf2c7ab690a77c10c.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Berlioz - Tiny Rascal"
+    },
+    "type": "Character",
+    "cost": 1,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 0,
+    "willpower": 1,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "1/RPH-EN-14": {
+    "id": "1/RPH-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Everyone Knows Juanita"
+        },
+        "type": "Action",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/rph/1_3c0b988a4d05881f48a47d56a0ea009a2be3c0e7.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Everyone Knows Juanita"
+    },
+    "type": "Action",
+    "cost": 5,
+    "rarity": {
+      "en": "Special"
+    },
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "2/RPH-EN-14": {
+    "id": "2/RPH-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Tramp - Quick on His Feet"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/rph/2_bf9ddb29c64c22d030483e71c07c2c3c253f2d37.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Tramp - Quick on His Feet"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "3/RPH-EN-14": {
+    "id": "3/RPH-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Arthur - Novice Blacksmith"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/rph/3_a7d6fbff0c7b3776a06de96c1fec0121489fea98.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Arthur - Novice Blacksmith"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "4/RPH-EN-14": {
+    "id": "4/RPH-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Minnie Mouse - Urban Visionary"
+        },
+        "type": "Character",
+        "cost": 8,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/rph/4_cfe95567e774fb421434e9b8ba28100afa447566.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Minnie Mouse - Urban Visionary"
+    },
+    "type": "Character",
+    "cost": 8,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 3,
+    "strength": 6,
+    "willpower": 6,
+    "color": [
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "5/RPH-EN-14": {
+    "id": "5/RPH-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Nick Wilde - Providing Backup"
+        },
+        "type": "Character",
+        "cost": 2,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/rph/5_d333db7e2184310e09f1c816529d57d4138579ca.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Nick Wilde - Providing Backup"
+    },
+    "type": "Character",
+    "cost": 2,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 3,
+    "willpower": 2,
+    "color": [
+      "Amber"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "6/RPH-EN-14": {
+    "id": "6/RPH-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Honey Lemon - Testing the Limits"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/rph/6_e2de467218afa915c2d875271ed188dd97ed21c4.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Honey Lemon - Testing the Limits"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "7/RPH-EN-14": {
+    "id": "7/RPH-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Honey Lemon - Testing the Limits"
+        },
+        "type": "Character",
+        "cost": 3,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/rph/7_7610857492a22ad58861550fc4698c60fabbbe06.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Honey Lemon - Testing the Limits"
+    },
+    "type": "Character",
+    "cost": 3,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 2,
+    "color": [
+      "Emerald"
+    ],
+    "_legal": {
+      "COCO": true
+    }
+  },
+  "243/204-EN-11": {
+    "id": "243/204-EN-11",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Sven - Leaping Reindeer"
+        },
+        "type": "Character",
+        "cost": 4,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set11/243_a1beb195336d4027cab8b2ef959d2ae4fc345aae.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Sven - Leaping Reindeer"
+    },
+    "type": "Character",
+    "cost": 4,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 1,
+    "strength": 2,
+    "willpower": 3,
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
+  "243/204-EN-12": {
+    "id": "243/204-EN-12",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Mr. Incredible - Super Strong"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set12/243_e6f76836d6c4b2cd19706a1b3ba595d4bbe560a8.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Mr. Incredible - Super Strong"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 1,
+    "strength": 6,
+    "willpower": 4,
+    "color": [
+      "Ruby"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
+  "246/207-EN-13": {
+    "id": "246/207-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Christopher Robin - Hunny Sage"
+        },
+        "type": "Character",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set13/246_a4f47432a5b57858ecb06bbca321ae8f539628cd.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Christopher Robin - Hunny Sage"
+    },
+    "type": "Character",
+    "cost": 6,
+    "rarity": {
+      "en": "Legendary"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Amethyst",
+      "Sapphire"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
+  "247/207-EN-13": {
+    "id": "247/207-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "Violet Parr - Super Resilient"
+        },
+        "type": "Character",
+        "cost": 5,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/set13/247_980439450d4c0ece6873e82219dd62661f676643.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "Violet Parr - Super Resilient"
+    },
+    "type": "Character",
+    "cost": 5,
+    "rarity": {
+      "en": "Super Rare"
+    },
+    "lore": 2,
+    "strength": 4,
+    "willpower": 4,
+    "color": [
+      "Steel"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
+  "16/PD1-EN-13": {
+    "id": "16/PD1-EN-13",
+    "face": {
+      "front": {
+        "name": {
+          "en": "With a Few Good Friends"
+        },
+        "type": "Action",
+        "cost": 6,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/16_9bf5237500d2ded804e9106385ef7829ad87250a.jpg"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": {
+      "en": "With a Few Good Friends"
+    },
+    "type": "Action",
+    "cost": 6,
+    "rarity": {
+      "en": "Special"
+    },
+    "color": [
+      "Amethyst"
+    ],
+    "_legal": {
+      "COCO": true,
+      "COR": true,
+      "INF": true
+    }
+  },
+  "17/PD1-EN-14": {
+    "id": "17/PD1-EN-14",
+    "face": {
+      "front": {
+        "name": {
+          "en": "The Beanstalk - Onward and Upward"
+        },
+        "type": "Location",
+        "cost": 1,
+        "image": {
+          "en": "https://api.lorcana.ravensburger.com/images/en/pd1/17_45200ead2a68a1d724fad7f92452c5c1294bde49.jpg"
+        },
+        "isHorizontal": true
+      }
+    },
+    "name": {
+      "en": "The Beanstalk - Onward and Upward"
+    },
+    "type": "Location",
+    "cost": 1,
+    "rarity": {
+      "en": "Special"
+    },
+    "lore": 0,
+    "willpower": 6,
+    "color": [
+      "Emerald"
     ],
     "_legal": {
       "COCO": true
